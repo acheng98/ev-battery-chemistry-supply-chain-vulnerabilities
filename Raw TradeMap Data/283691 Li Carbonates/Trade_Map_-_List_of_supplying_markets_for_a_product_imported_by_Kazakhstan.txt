@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	1	878	0	1	1	
+"Chile"	1	0		1	1	
+"Russian Federation"	0	877	0	0	0	
+"Area Nes"				1		

@@ -1,0 +1,9 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	1696	877	3322	3313	4053	
+"Egypt"	1214	873	3211	3312	4041	
+"China"	1	1	1	1	11	
+"Japan"	1	1	1	0	1	
+"Australia"	1	1	0	1	0	
+"Taipei, Chinese"			0		0	
+"Cambodia"	480					
+"Senegal"			108			

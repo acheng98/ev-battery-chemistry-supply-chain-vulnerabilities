@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	12132	23484	55402	45434	137546	
+"China"	10907	20581	52917	43741	122578	
+"India"	1225	1319	2485	1042	10301	
+"Congo, Democratic Republic of the"					3417	
+"Switzerland"					1000	
+"Singapore"		540			250	
+"Hong Kong, China"				607		
+"Iran, Islamic Republic of"		1000				
+"Spain"		44				
+"United Arab Emirates"				44		

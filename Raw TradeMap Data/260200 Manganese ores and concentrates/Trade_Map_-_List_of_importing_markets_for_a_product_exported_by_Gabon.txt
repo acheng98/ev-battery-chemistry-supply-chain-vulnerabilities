@@ -1,0 +1,29 @@
+﻿Importers	2005-Exported quantity, Tons	2006-Exported quantity, Tons	2007-Exported quantity, Tons	2008-Exported quantity, Tons	2009-Exported quantity, Tons	
+"World"	2820122	2890744	3271477	3207107	2197424	
+"China"	691687	1338342	1421887	1143462	1274618	
+"Norway"	620794	293689	440105	504767	344684	
+"United States of America"	490594	173579	276986	408618	140183	
+"Korea, Republic of"	47736	74082	123461	46200	93450	
+"Japan"	49503	29100	10000		67302	
+"India"		74955	155856	139055	51370	
+"Ukraine"	547439	299845	281415	316684	44625	
+"Italy"		43650	43640	30600	32040	
+"Saudi Arabia"				44000	27496	
+"Belgium"	111690	16000	72896	93726	25577	
+"France"	56618	75913	118718	120788	24521	
+"Greece"	22000	131989	37909	46402	22000	
+"Singapore"	27062	54200	30000	56000	19075	
+"Mexico"	38719	12000	47011	36617	14000	
+"Côte d'Ivoire"	4000	10511	4000	2000	8800	
+"Canada"					7683	
+"Korea, Democratic People's Republic of"	30504	15000		44495		
+"Argentina"		7350				
+"Bulgaria"		16720				
+"Finland"			11980			
+"Netherlands"				4788		
+"South Africa"		50				
+"Spain"	81776	137129	114312	168904		
+"Sweden"		12620				
+"Switzerland"		5250				
+"United Arab Emirates"		27000	81301			
+"Venezuela, Bolivarian Republic of"		41770				

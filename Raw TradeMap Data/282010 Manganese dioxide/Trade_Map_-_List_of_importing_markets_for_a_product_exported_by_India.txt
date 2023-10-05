@@ -1,0 +1,53 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	2656	1913	8182	8180	5320	
+"United Arab Emirates"	52	20	5123	3743	2035	
+"Indonesia"	54	0	26	26	1146	
+"Kenya"	198	238	272	264	304	
+"Poland"	172	319	269	148	248	
+"Nepal"	51	78	132	91	185	
+"Bangladesh"	248	267	169	199	172	
+"Netherlands"		25	171	121	150	
+"Turkey"		27	48	75	118	
+"Australia"				25	106	
+"Ireland"				150	100	
+"United Kingdom"	4	287	155	180	100	
+"Malaysia"	80	85	80	40	80	
+"Japan"	42	21	188	47	61	
+"Philippines"			20	45	60	
+"Viet Nam"	150	102	101	76	56	
+"Saudi Arabia"	69	94	50	101	51	
+"Lithuania"		25	50	100	50	
+"Sri Lanka"	85	10	27	98	48	
+"Russian Federation"				25	46	
+"Italy"	25	160	113	62	45	
+"South Africa"				7	40	
+"United States of America"	35	6	1083	59	40	
+"Spain"	16	47	25		25	
+"Canada"			20	23	19	
+"Uganda"	12			24	10	
+"Cameroon"					8	
+"Tanzania, United Republic of"	10		4	15	7	
+"Egypt"					6	
+"Korea, Republic of"	40	50	42	36	2	
+"Nigeria"	1				2	
+"Brazil"					0	
+"Germany"	1	0	0	0	0	
+"Korea, Democratic People's Republic of"		1				
+"Afghanistan"			1			
+"Bosnia and Herzegovina"				1		
+"Burundi"				3		
+"Chile"				6		
+"China"		0	0	0		
+"Ethiopia"	10			1		
+"Ghana"			0	1		
+"Iran, Islamic Republic of"	1300			2300		
+"Kuwait"		24		53		
+"Latvia"				0		
+"Malawi"			1			
+"Maldives"	1					
+"New Zealand"		0				
+"Peru"		0				
+"Qatar"		1				
+"Syrian Arab Republic"		25				
+"Thailand"		1	10	10		
+"Tunisia"				25		

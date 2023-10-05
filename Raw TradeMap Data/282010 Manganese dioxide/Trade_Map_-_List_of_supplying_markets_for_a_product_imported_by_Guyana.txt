@@ -1,0 +1,3 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, Tons	
+"World"					300	
+"China"					300	

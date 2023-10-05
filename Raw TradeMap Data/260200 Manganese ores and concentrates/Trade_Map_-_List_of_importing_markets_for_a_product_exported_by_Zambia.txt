@@ -1,0 +1,27 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	104251	287536	136271	232344	221382	
+"China"	52461	143153	88415	132592	117600	
+"Mauritius"		3012	1096	25306	41467	
+"South Africa"	17438	12829	17515	23297	27093	
+"India"	5673	24199	4665	13271	15554	
+"Hong Kong, China"	52		4854		10111	
+"United Arab Emirates"	19693	66654	6059	26522	5173	
+"United States of America"	5750	19835	1883	190	3762	
+"United Kingdom"	30	382			293	
+"Singapore"	355	7565	4902	5955	150	
+"Spain"		1484	325	29	149	
+"Italy"					26	
+"Iran, Islamic Republic of"		2834	759	439	5	
+"Austria"	973	4166	1490			
+"Bulgaria"		58				
+"Canada"		301	902			
+"Indonesia"	30					
+"Japan"	484	893				
+"Kenya"		30				
+"Mozambique"		60				
+"Oman"				1106		
+"Zimbabwe"	226					
+"Sudan"				520		
+"Switzerland"			3378	3119		
+"Turkey"			27			
+"Tanzania, United Republic of"	1087	80				

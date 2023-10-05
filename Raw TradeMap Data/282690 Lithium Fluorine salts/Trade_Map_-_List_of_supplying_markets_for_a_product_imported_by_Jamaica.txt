@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"		0	527	14372	2	
+"United States of America"		0	484	14325	2	
+"China"			43	43		
+"Trinidad and Tobago"				4		

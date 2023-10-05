@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"		12	153	168		
+"United Kingdom"			125	168		
+"United States of America"		12	28			

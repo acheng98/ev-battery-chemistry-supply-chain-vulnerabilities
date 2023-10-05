@@ -1,0 +1,12 @@
+﻿Exporters	2006-Imported quantity, Tons	2007-Imported quantity, Tons	2008-Imported quantity, Tons	2009-Imported quantity, Tons	2010-Imported quantity, Tons	
+"World"	52	421	161	39	1580	
+"Jordan"		400			1500	
+"China"	1		160	14	33	
+"France"	0			1	18	
+"Italy"	0		2	0	14	
+"Germany"				1	12	
+"Europe Othr. Nes"	18	21		23	3	
+"Qatar"	9					
+"India"	1					
+"Singapore"	17					
+"United States of America"	6					

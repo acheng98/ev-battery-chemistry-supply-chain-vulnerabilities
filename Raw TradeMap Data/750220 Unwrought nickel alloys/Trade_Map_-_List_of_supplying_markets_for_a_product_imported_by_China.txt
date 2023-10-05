@@ -1,0 +1,22 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	3869	1331	1117	950	1676	
+"Japan"	17	2		22	981	
+"Thailand"			0	10	268	
+"Australia"	766	434	381	154	112	
+"United States of America"	175	163	124	83	107	
+"Belgium"	54	69	104	91	96	
+"Malaysia"				217	74	
+"Taipei, Chinese"	931				23	
+"United Kingdom"	774	657	475	249	15	
+"France"		0	0	0	0	
+"Germany"	6	5	11	2	0	
+"Russian Federation"				1	0	
+"Switzerland"				0	0	
+"Korea, Republic of"	1041					
+"Canada"	4	1				
+"China"	100					
+"Hong Kong, China"	1	1	1	0		
+"Indonesia"				100		
+"Netherlands"			0			
+"South Africa"			0			
+"Sweden"			21	21		

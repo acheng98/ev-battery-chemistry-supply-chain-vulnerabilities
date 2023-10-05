@@ -1,0 +1,14 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	21474	19382	19920	21641	18167	
+"Germany"	12287	13044	14190	15636	10969	
+"United States of America"	6079	3281	3296	2512	3315	
+"Taipei, Chinese"	1018	1934	1953	2223	1710	
+"United Kingdom"	269	176	252	1057	1222	
+"Finland"					650	
+"Belgium"					301	
+"Australia"			227			
+"China"	20	26				
+"Mexico"		0				
+"New Caledonia"	768					
+"Norway"	1032	921		213		
+"Turkey"			1			

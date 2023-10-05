@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	38480	19904	No Quantity	No Quantity	2283	
+"Canada"	38320	19899	24210	7854	2283	
+"Czech Republic"					0	
+"Russian Federation"					0	
+"Korea, Republic of"				No Quantity		
+"Japan"	160					
+"Norway"			27			
+"India"				0		
+"United States of America"		5	No Quantity	No Quantity		

@@ -1,0 +1,9 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	89629	111498	76784	104617	126163	
+"Algeria"	32895	35079	33239	30602	64843	
+"Egypt"	16994	5983	43545	11000	31772	
+"Peru"		37515		63015	29548	
+"Brazil"	280					
+"Morocco"	6023					
+"Switzerland"	33437					
+"United States of America"		32921				

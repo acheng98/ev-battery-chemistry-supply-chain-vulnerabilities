@@ -1,0 +1,11 @@
+﻿Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"	114	6	4	0	2049	
+"Qatar"					1303	
+"Saudi Arabia"					326	
+"United Arab Emirates"					270	
+"Turkey"					150	
+"Korea, Republic of"	82					
+"Botswana"				0		
+"Aruba"			0			
+"Pakistan"		5				
+"Egypt"	32	0	3			

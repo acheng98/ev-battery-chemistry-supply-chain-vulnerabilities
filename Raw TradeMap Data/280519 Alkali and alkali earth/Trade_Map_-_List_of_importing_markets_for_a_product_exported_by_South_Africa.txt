@@ -1,0 +1,20 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	2208	1309	98	110	31	
+"Lesotho"	1	6	40	85	14	
+"Zambia"	1	4	14	10	7	
+"Botswana"	0	4	39	10	5	
+"Malawi"		6	0		4	
+"Mozambique"	2	1	4	1	0	
+"Zimbabwe"	2			1	0	
+"United Kingdom"					0	
+"Congo, Democratic Republic of the"	0	2		0		
+"Brazil"	0					
+"Canada"	1					
+"Ghana"	18					
+"Kenya"	2138	1258		2		
+"Mali"		0				
+"Namibia"	39					
+"Nigeria"		1				
+"Senegal"			1			
+"Eswatini"	5	0		1		
+"Tanzania, United Republic of"	1	26				

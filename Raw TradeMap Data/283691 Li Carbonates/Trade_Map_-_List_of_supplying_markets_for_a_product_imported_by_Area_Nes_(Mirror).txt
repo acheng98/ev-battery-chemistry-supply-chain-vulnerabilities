@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, Tons	
+"Total"					1660	
+"Netherlands"					1125	
+"Belgium"					535	
+"Saudi Arabia"	No Quantity					

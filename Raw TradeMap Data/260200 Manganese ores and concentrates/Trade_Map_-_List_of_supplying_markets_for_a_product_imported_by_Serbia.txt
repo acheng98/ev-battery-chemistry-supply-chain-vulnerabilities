@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		594	19616	11020	1611	
+"Romania"			19583	10996	1607	
+"Brazil"			5	2	4	
+"Italy"		53	6	0		
+"Netherlands"		541	23	22		

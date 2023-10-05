@@ -1,0 +1,9 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	111633	116658	108293	111441	98624	
+"Indonesia"	95966	95642	90564	93206	82086	
+"Finland"	6136	6704	5704	12397	8461	
+"Australia"	9025	12587	12024	5838	8034	
+"Turkey"					43	
+"China"		0				
+"Ireland"		0				
+"Russian Federation"	506	1726				

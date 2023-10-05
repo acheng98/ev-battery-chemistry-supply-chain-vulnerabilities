@@ -1,0 +1,12 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	5802	4848	4470	4296	3407	
+"Denmark"	5751	4774	4439	4141	3282	
+"Italy"				96	72	
+"United States of America"		17	1		31	
+"China"	4				10	
+"Germany"	12	13	18	8	10	
+"Malaysia"				49		
+"New Zealand"	11	15	8			
+"Norway"		9				
+"Peru"	11					
+"United Kingdom"	14	13				

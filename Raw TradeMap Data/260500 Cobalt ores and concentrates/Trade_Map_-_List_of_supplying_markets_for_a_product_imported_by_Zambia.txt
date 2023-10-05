@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"	62358	48293				
+"Congo, Democratic Republic of the"	59585	48251				
+"South Africa"	2772	42				

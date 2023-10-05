@@ -1,0 +1,6 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	3509	1777	2195	3459	1300	
+"United States of America"	1494			1915	1300	
+"China"			2195			
+"Spain"	1142	1225		1544		
+"United Arab Emirates"	873	552				

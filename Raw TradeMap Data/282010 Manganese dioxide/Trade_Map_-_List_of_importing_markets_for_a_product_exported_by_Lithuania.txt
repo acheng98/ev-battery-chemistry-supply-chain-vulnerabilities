@@ -1,0 +1,13 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	31	19	24	47	No Quantity	
+"Russian Federation"	30	3	19	17	14	
+"France"		3		13	5	
+"Latvia"				3	3	
+"Ukraine"			1	2	2	
+"Belarus"		12	4	9	1	
+"Estonia"				2	1	
+"Germany"				1	1	
+"Ireland"					1	
+"Poland"		1			1	
+"Moldova, Republic of"				0		
+"Sweden"				1		

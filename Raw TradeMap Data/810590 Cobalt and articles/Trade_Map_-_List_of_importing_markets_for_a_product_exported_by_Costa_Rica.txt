@@ -1,0 +1,6 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	2	1	3	3	6	
+"Canada"					3	
+"Germany"	2	1	3	2	2	
+"United States of America"	0		0	0	1	
+"Viet Nam"				0		

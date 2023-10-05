@@ -1,0 +1,7 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"				0	0	
+"Germany"					0	
+"Latvia"					0	
+"Poland"					0	
+"Sweden"					0	
+"Norway"				0		

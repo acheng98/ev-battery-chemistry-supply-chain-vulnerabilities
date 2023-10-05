@@ -1,0 +1,25 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	1143	1377	840	1123	1465	
+"Turkey"	547	574	250	312	797	
+"United Arab Emirates"	248	704	456	622	378	
+"Oman"				49	102	
+"Netherlands"	72	25		23	95	
+"India"	77	33	6	48	48	
+"Iraq"					24	
+"Germany"	0		0	42	12	
+"China"	43	10	1	3	8	
+"Belgium"					1	
+"United States of America"	2	2	1	0	0	
+"Austria"			13			
+"Canada"	24	5	20			
+"Hong Kong, China"			0			
+"Indonesia"	18					
+"Italy"	2		0	0		
+"Japan"		0				
+"Korea, Republic of"	45		40			
+"Taipei, Chinese"		0				
+"Norway"	30	24				
+"Russian Federation"	6		6	24		
+"South Africa"	28					
+"Eswatini"		0	24			
+"Switzerland"			24			

@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	121155	39703	72960	50944	13384	
+"Bolivia, Plurinational State of"		504	6753	10230	11332	
+"Mexico"			182	1210	1763	
+"China"	52	95	399	152	288	
+"Germany"					0	
+"Morocco"	0		0		0	
+"United Kingdom"					0	
+"Italy"				0		
+"Japan"	24					
+"South Africa"	121079	39103	65625	39352		
+"United States of America"		0	0	0		

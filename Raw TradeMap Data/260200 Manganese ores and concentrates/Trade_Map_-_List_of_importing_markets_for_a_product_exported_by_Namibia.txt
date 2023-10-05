@@ -1,0 +1,5 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	11288	31896	3886	97058	171169	
+"Singapore"	8775	23737	3886	97011	171169	
+"South Africa"	0			34	0	
+"China"	2513	8159				

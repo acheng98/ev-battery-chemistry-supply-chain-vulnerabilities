@@ -1,0 +1,8 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	518	389	No Quantity	202	194	
+"Latvia"	102	143	146	151	137	
+"Sweden"	20	33	35	40	51	
+"Norway"	21	21	21	11	5	
+"Greenland"					0	
+"Germany"	375	192	192			
+"United Arab Emirates"			No Quantity			

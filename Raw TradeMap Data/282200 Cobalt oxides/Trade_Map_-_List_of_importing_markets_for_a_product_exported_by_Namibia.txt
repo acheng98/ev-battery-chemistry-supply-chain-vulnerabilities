@@ -1,0 +1,5 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, 	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, Tons	
+"World"					5739	
+"Finland"					2900	
+"China"					2705	
+"Belgium"					133	

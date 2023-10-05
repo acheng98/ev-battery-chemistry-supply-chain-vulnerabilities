@@ -1,0 +1,12 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	1109	21529	26416	1065	372	
+"Iran, Islamic Republic of"					206	
+"Sudan"					122	
+"China"	1053	7602	26362		43	
+"Ukraine"				470		
+"Germany"		22				
+"Morocco"	7					
+"Saudi Arabia"		10901	54			
+"India"		2994		90		
+"Viet Nam"	14	11				
+"United Arab Emirates"				505		

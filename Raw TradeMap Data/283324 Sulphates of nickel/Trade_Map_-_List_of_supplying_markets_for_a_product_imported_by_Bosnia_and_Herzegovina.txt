@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	21	23	22	12	24	
+"Germany"	16	16	11	4	13	
+"Austria"	4	7	7	7	9	
+"Poland"	1		4		1	
+"Area Nes"				1	0	
+"Finland"				1		
+"Qatar"		0				

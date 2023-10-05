@@ -1,0 +1,7 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	10	1054	1208	846	858	
+"India"		201	28	178	854	
+"Ecuador"			8	13	4	
+"Bolivia, Plurinational State of"		4	1		0	
+"Korea, Republic of"		848	179			
+"China"	10		993	655		

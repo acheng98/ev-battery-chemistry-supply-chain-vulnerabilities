@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"		28	9	1	5	
+"United States of America"		6	9	1	5	
+"Area Nes"		23				

@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	54	122	269	326	244	
+"Romania"	46	117	266	316	230	
+"Belarus"					4	
+"China"	3	1	0	0	4	
+"Germany"		1	0	2	1	
+"France"		0	0		0	
+"Poland"					0	
+"Ukraine"	2			1		
+"Belgium"	3	1	0	0		
+"Russian Federation"			2	2		
+"United States of America"				4		

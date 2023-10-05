@@ -1,0 +1,7 @@
+﻿Importers	2015-Exported quantity, Tons	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	
+"World"	1388	1725	2757	5111	6201	
+"China"	777	1397	2096	4217	4725	
+"Ukraine"	558	328	660	894	1276	
+"Indonesia"					147	
+"Poland"	23				53	
+"Norway"	30					

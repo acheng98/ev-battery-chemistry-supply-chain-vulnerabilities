@@ -1,0 +1,12 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	244	5909	15371	20491	32437	
+"South Africa"	82	4713	10761	16854	26771	
+"China"	91	1110	4533	3442	4330	
+"Morocco"					1027	
+"Belgium"	72	86	76	139	300	
+"France"				3	5	
+"India"					4	
+"Switzerland"					0	
+"Australia"				3		
+"Thailand"				25		
+"United Arab Emirates"				27		

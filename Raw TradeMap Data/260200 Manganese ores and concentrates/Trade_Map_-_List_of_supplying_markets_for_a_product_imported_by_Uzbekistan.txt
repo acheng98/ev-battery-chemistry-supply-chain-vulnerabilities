@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	3190	2658	15327	17067	24300	
+"Kazakhstan"	70		5283	12800	19935	
+"Georgia"	3120	1921	10044	3546	3185	
+"China"				720	1180	
+"Russian Federation"		737				

@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	11	10	11	15	15	
+"China"		3			15	
+"Australia"	1		2	2		
+"Finland"	2	7	9			
+"Hong Kong, China"	1			6		
+"Japan"	6			7		
+"United Kingdom"	0					

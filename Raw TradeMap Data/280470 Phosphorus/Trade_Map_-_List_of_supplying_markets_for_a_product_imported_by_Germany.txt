@@ -1,0 +1,22 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	35718	37645	34688	37379	33508	
+"Kazakhstan"	20460	21691	21727	24212	17384	
+"Area Nes"					11725	
+"Viet Nam"	2540	2532	1191	3063	2996	
+"Italy"	1089	769	763	908	865	
+"China"	839	560	203	298	445	
+"Japan"	132	159	126	164	64	
+"United Arab Emirates"					27	
+"Australia"		1			2	
+"Austria"	2	1		0	0	
+"France"				0	0	
+"United Kingdom"	0	0	0		0	
+"Belgium"		64	417	44		
+"Canada"	0					
+"Taipei, Chinese"				0		
+"Netherlands"	1428	2131	1829	1498		
+"Poland"	9226	9737	8433	7170		
+"India"	0	1				
+"Slovenia"				0		
+"Switzerland"			0			
+"United States of America"	2		0	22		

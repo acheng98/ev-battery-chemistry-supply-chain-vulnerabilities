@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	10654		0	0		
+"Canada"	10654					
+"Germany"			0			
+"Guatemala"				0		

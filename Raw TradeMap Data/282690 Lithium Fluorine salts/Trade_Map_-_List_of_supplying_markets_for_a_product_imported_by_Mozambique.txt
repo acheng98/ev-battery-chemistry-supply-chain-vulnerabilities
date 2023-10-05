@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		55049	1	258597	3000	
+"Singapore"		55049	1	258591	3000	
+"Portugal"					0	
+"South Africa"		0	0	5	0	

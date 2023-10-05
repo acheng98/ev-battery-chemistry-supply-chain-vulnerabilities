@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	1423	174	799	1500	1324	
+"Canada"			242		924	
+"United States of America"	1423	174	557	1500	400	

@@ -1,0 +1,12 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	0	0	8	48	65	
+"Germany"		0	8	47	64	
+"Faroe Islands"					0	
+"Iceland"					0	
+"Korea, Republic of"				0		
+"Canada"				0		
+"Greenland"				0		
+"Italy"	0					
+"Malaysia"		0	0			
+"Norway"				0		
+"Sweden"	0	0	0			

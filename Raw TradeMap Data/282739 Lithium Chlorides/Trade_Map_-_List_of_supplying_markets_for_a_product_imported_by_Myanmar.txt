@@ -1,0 +1,11 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	364	883	773	832	734	
+"India"		42	205	168	289	
+"Thailand"	51	182	233	206	263	
+"China"	313	354	209	287	160	
+"Malaysia"			1	45	22	
+"Korea, Republic of"			0			
+"Indonesia"			125			
+"Russian Federation"				120		
+"Singapore"		63		6		
+"United States of America"		242				

@@ -1,0 +1,5 @@
+Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"	161	41	0	161	0	
+"United States of America"	14	40	0	1	0	
+"Brazil"	0	1	0		0	
+"China"	20	0	0	161	0	

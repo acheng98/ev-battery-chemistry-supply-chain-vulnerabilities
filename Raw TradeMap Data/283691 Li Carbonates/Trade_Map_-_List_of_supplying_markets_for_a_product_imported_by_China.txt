@@ -1,0 +1,27 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	30682	24497	29315	50102	73785	
+"Chile"	18604	11446	17676	37117	58044	
+"Argentina"	8689	12277	11313	12841	14312	
+"Korea, Republic of"	883	151	183	96	1000	
+"Bolivia, Plurinational State of"	25	30			144	
+"Japan"	1688	378	123	40	135	
+"China"	7	3	12	0	112	
+"United Kingdom"	264	189	0		35	
+"Germany"	1	1	7	8	3	
+"Australia"	3		0		0	
+"Austria"					0	
+"Russian Federation"	80	0	0		0	
+"India"		0	0	0	0	
+"United States of America"	36	0	0	0	0	
+"Belgium"	1	2				
+"Canada"			0			
+"Czech Republic"		0				
+"France"	20					
+"Israel"	20					
+"Italy"	30					
+"Mexico"		3				
+"Taipei, Chinese"	15		0			
+"Mongolia"		0				
+"Netherlands"		1	1			
+"Viet Nam"		16				
+"Zimbabwe"	315					

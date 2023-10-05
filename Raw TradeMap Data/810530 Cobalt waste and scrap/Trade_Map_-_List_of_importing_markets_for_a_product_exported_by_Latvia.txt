@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"	25	0			21	
+"Germany"		0			11	
+"United Kingdom"					10	
+"Canada"	25					

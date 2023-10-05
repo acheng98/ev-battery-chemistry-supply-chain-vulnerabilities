@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	282	248	119	367	318	
+"Norway"				314	264	
+"United States of America"	277	240	107	43	43	
+"Germany"	3	6	7	3	7	
+"Georgia"				5	4	
+"Brazil"	1	1	5			
+"Lithuania"	2					
+"Turkey"				1		
+"Burkina Faso"		1				

@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	22	29	22	7	7	
+"South Africa"	22	29	22	0	7	
+"Seychelles"				0		
+"Zambia"				6		

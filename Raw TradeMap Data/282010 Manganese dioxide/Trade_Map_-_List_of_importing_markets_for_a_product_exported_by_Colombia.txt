@@ -1,0 +1,7 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	3130	4710	4930	3815	4160	
+"Poland"	840	1250	1675	1300	1800	
+"Thailand"	1300	1600	1700	1575	1550	
+"Japan"	740	1660	1280	640	760	
+"Brazil"	100				50	
+"Belgium"	150	200	275	300		

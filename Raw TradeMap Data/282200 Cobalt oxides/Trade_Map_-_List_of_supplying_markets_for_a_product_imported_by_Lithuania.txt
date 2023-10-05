@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	0	0	96	2	No Quantity	
+"Finland"				2	2	
+"Estonia"	0	0	0	0	0	
+"Poland"	0	0	96	0	0	
+"Czech Republic"		0				

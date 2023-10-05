@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	11	3	3	3	6	
+"Taipei, Chinese"					6	
+"Bangladesh"	3	3	3	3		
+"Singapore"	8					

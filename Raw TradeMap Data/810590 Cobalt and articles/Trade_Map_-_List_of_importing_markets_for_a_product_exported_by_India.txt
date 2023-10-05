@@ -1,0 +1,39 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	48	56	28	41	42	
+"Nepal"	0				15	
+"United States of America"	4	12	12	12	14	
+"United Kingdom"	40	38	3	20	8	
+"Finland"	2	1	9	2	1	
+"France"	0	1	0	1	1	
+"Netherlands"	0	3		0	1	
+"Congo, Democratic Republic of the"					0	
+"Ukraine"					0	
+"Argentina"					0	
+"Bangladesh"					0	
+"Canada"			0		0	
+"China"			0	1	0	
+"Germany"	0	0	1	2	0	
+"Hungary"	0	0	1	0	0	
+"Indonesia"	0		0		0	
+"Italy"					0	
+"Japan"	0		0	1	0	
+"Saudi Arabia"			0		0	
+"Viet Nam"				0	0	
+"Switzerland"	0	0	0	2	0	
+"United Arab Emirates"	0	0	0	0	0	
+"Brazil"				1		
+"Gabon"		0				
+"Ghana"	0		1			
+"Hong Kong, China"			0	0		
+"Iran, Islamic Republic of"		0				
+"Kenya"	0			0		
+"Malaysia"				0		
+"Mauritius"			0			
+"Oman"		0	0			
+"Singapore"	0			0		
+"Zimbabwe"		0	0			
+"Thailand"				0		
+"Togo"		0				
+"Turkey"				0		
+"Uganda"		0		0		
+"Tanzania, United Republic of"	0					

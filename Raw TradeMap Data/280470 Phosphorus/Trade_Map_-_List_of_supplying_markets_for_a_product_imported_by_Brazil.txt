@@ -1,0 +1,9 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	9339	6871	8433	10907	12058	
+"United States of America"	9204	6791	8324	10805	11973	
+"China"	76	32	45	33	68	
+"India"	51	40	54	54	13	
+"Italy"	7	8	10	12	5	
+"Germany"		0	0			
+"Netherlands"		0				
+"Viet Nam"				4		

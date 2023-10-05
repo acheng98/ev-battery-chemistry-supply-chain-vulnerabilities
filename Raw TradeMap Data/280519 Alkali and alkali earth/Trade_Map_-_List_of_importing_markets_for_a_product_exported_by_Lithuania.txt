@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"			40	4	0	
+"Canada"					0	
+"Latvia"			40	4	0	
+"United States of America"					0	

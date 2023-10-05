@@ -1,0 +1,14 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"	31738	5455	85			
+"Australia"	210					
+"Austria"	286	599				
+"China"	18566	2005				
+"Iran, Islamic Republic of"	1258	720				
+"Japan"	425					
+"Kenya"	242					
+"India"	2594	570	85			
+"Singapore"	55					
+"South Africa"	5081					
+"Eswatini"	30					
+"United Arab Emirates"	2830	1561				
+"Tanzania, United Republic of"	160					

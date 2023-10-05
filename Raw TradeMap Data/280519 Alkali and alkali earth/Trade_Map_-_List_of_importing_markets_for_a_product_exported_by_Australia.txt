@@ -1,0 +1,9 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	18	2	12	0	24	
+"New Zealand"					24	
+"United Arab Emirates"			0	0	0	
+"Canada"			12			
+"Indonesia"	0					
+"Papua New Guinea"		2				
+"United Kingdom"	18					
+"United States of America"	0					

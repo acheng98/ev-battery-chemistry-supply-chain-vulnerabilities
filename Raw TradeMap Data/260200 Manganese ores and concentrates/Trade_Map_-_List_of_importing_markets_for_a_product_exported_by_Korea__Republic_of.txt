@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"		375	243			
+"China"		375	8			
+"Viet Nam"			216			
+"United States of America"			19			

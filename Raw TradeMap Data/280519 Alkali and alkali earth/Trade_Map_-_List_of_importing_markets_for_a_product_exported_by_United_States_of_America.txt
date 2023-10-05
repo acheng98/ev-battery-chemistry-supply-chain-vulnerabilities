@@ -1,0 +1,88 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	1280	1496	1337	1494	1635	
+"United Kingdom"	240	178	234	310	287	
+"Australia"	151	111	138	189	215	
+"Canada"	109	153	58	47	101	
+"Italy"	45	58	30	73	90	
+"Spain"	76	109	91	69	77	
+"Viet Nam"	8	14	13	42	75	
+"South Africa"	40	67	67	75	70	
+"Singapore"	34	51	69	52	69	
+"Brazil"	49	47	24	13	58	
+"France"	36	42	25	31	53	
+"Thailand"		6	4	27	48	
+"Japan"	63	65	274	123	45	
+"Colombia"	13	18	15	50	42	
+"China"	50	66	39	51	40	
+"Malaysia"	31	5	7	12	30	
+"Panama"	2			4	29	
+"Argentina"	18	6	0	12	25	
+"Germany"	15	83	11	54	25	
+"United Arab Emirates"	6	11	8	17	24	
+"Israel"	14	20	23	28	23	
+"Greece"	4	9	4	10	20	
+"New Zealand"	17	17	16	29	20	
+"Philippines"	11	20	15	19	20	
+"Netherlands"	14	14	6	15	16	
+"Korea, Republic of"	38	14	14	6	14	
+"Hungary"	3	5	2		14	
+"Belgium"	66	140	41	39	12	
+"Costa Rica"	1	4	9	3	12	
+"Chile"	2	5	4	5	11	
+"Hong Kong, China"	11	12	10	11	10	
+"Kuwait"	6	18	10	0	10	
+"Turkey"	15	20	12	5	9	
+"Ecuador"	3	6	7	5	8	
+"Bulgaria"	2	2	5		5	
+"Latvia"					4	
+"Dominican Republic"	10	4	13	3	3	
+"Peru"	0	6	2	2	3	
+"Qatar"	5	7	3	7	3	
+"Trinidad and Tobago"	1	18		8	3	
+"Cyprus"		1	0		2	
+"Finland"	1	1	1	1	2	
+"Sweden"	1	0		0	2	
+"Bermuda"					1	
+"Bolivia, Plurinational State of"		0			1	
+"Haiti"	2	0		0	1	
+"Jordan"	2	2	2	1	1	
+"Romania"				1	1	
+"El Salvador"			1		0	
+"Iraq"					0	
+"Luxembourg"	1				0	
+"Mauritius"					0	
+"Mexico"	4	17	12	1	0	
+"Norway"			1		0	
+"India"	24	16	6	16	0	
+"Uruguay"					0	
+"Marshall Islands"	0					
+"Ukraine"	2	2	4			
+"Austria"			0	3		
+"Bahamas"				2		
+"Barbados"	0		0			
+"Sri Lanka"	1					
+"Cook Islands"	0					
+"Czech Republic"	2	0	0			
+"Denmark"	0					
+"Estonia"			0			
+"Fiji"				0		
+"Guatemala"	0	3				
+"Guyana"		0				
+"Honduras"	0		0	0		
+"Jamaica"	1	1	0	10		
+"Lebanon"				1		
+"Lithuania"				9		
+"Maldives"				0		
+"Malta"	0		0			
+"Taipei, Chinese"	25	16	1	0		
+"Curaçao"	0					
+"Paraguay"		0	0			
+"Poland"			3			
+"Russian Federation"	1		1	0		
+"Saudi Arabia"			2			
+"Slovenia"	0	1	1	1		
+"Suriname"			0	0		
+"Switzerland"	0			0		
+"Tunisia"				0		
+"Uzbekistan"		3				
+"Venezuela, Bolivarian Republic of"	4	0				

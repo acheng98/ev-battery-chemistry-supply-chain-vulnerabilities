@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1693	1633	893	229	973	
+"Austria"	1689	1633	893	229	973	
+"Germany"		0			0	
+"Netherlands"	3					

@@ -1,0 +1,59 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	36317	51107	52136	38128	14418	
+"India"	75	150	1550	1850	4041	
+"Indonesia"	7300	23852	40630	29243	3675	
+"Kenya"	3578	2958	2387	2601	1150	
+"Costa Rica"	525	175	50	647	918	
+"Brazil"	1200	9586	1050	850	887	
+"Malaysia"	6767	50	314	342	790	
+"Viet Nam"	11839	11994	4046	402	628	
+"Peru"	653	575	613	475	535	
+"Thailand"	716	693	430	556	486	
+"Bangladesh"	111	73	142	130	404	
+"United Arab Emirates"					300	
+"Bulgaria"			475	75	150	
+"Kazakhstan"				3	130	
+"Pakistan"	8	29	27	243	123	
+"Russian Federation"	50	37	33		45	
+"Japan"	2568	60	44	68	40	
+"United States of America"					26	
+"Korea, Republic of"	67	64	24	80	14	
+"Philippines"	7	27	22	14	14	
+"Myanmar"		2	34	70	11	
+"Sri Lanka"		17			11	
+"Saudi Arabia"	4				10	
+"Egypt"	45				10	
+"Australia"			6	15	9	
+"Cambodia"					5	
+"Taipei, Chinese"	8	1	1	4	5	
+"Chad"				2	1	
+"South Africa"		0	1		0	
+"Congo, Democratic Republic of the"			75			
+"Korea, Democratic People's Republic of"		265				
+"Lao People's Democratic Republic"		120				
+"Tajikistan"			19			
+"Angola"	210					
+"Belarus"				446		
+"Cameroon"			1	3		
+"Chile"		15				
+"Ecuador"	5					
+"Ethiopia"	208	132	9			
+"France"	1	1		1		
+"Germany"			1			
+"Ghana"	50	50				
+"Greece"			10			
+"Guatemala"	1	11	3	1		
+"Jordan"		15				
+"Kyrgyzstan"		23	20			
+"Latvia"		20	19			
+"Mongolia"		87	79			
+"Nigeria"	15					
+"Norway"				1		
+"Poland"			3			
+"Timor-Leste"			9			
+"Senegal"		24				
+"Tanzania, United Republic of"	283					
+"Uruguay"				1		
+"Uzbekistan"			9			
+"Yemen"				4		
+"Zambia"	18					

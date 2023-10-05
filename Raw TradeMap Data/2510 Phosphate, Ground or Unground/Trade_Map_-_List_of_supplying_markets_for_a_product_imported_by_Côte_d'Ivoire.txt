@@ -1,0 +1,10 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	2579	19400	5212	15710	4489	
+"Egypt"	2576	4745	658	6808	4489	
+"Netherlands"					0	
+"United Kingdom"				0	0	
+"China"			74			
+"Ghana"			50			
+"Mali"				100		
+"Morocco"	3	9100		3300		
+"Senegal"		5555	4430	5502		

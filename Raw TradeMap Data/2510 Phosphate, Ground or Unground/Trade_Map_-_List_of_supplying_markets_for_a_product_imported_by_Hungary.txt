@@ -1,0 +1,22 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	2022-Imported quantity, Tons	
+"World"	No Quantity	No Quantity	No Quantity	No Quantity	No Quantity	
+"Jordan"					1000	
+"Lithuania"	384	288			96	
+"Austria"	No Quantity	No Quantity	No Quantity	No Quantity	No Quantity	
+"Algeria"			1525			
+"Belgium"	No Quantity					
+"Bulgaria"	No Quantity					
+"Croatia"	No Quantity					
+"Czech Republic"	No Quantity					
+"Denmark"	No Quantity					
+"France"	No Quantity					
+"Germany"	No Quantity					
+"Italy"	No Quantity					
+"Netherlands"	No Quantity					
+"Poland"	No Quantity					
+"Romania"	No Quantity					
+"Slovakia"	No Quantity					
+"Slovenia"	No Quantity					
+"Spain"	No Quantity					
+"Sweden"	No Quantity					
+"United Kingdom"	No Quantity					

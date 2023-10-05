@@ -1,0 +1,10 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	11	11	55	39	13	
+"Jordan"					9	
+"India"		11	13	12	3	
+"Azerbaijan"	8					
+"Iran, Islamic Republic of"			37	19		
+"Kuwait"			4			
+"Nigeria"	3					
+"Saudi Arabia"			2			
+"Uzbekistan"				8		

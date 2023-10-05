@@ -1,0 +1,8 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	51	4	5	4		
+"Costa Rica"	0					
+"Germany"	0	0				
+"Hong Kong, China"	20					
+"Netherlands"	30					
+"Nicaragua"		0				
+"United States of America"	1	3	5	4		

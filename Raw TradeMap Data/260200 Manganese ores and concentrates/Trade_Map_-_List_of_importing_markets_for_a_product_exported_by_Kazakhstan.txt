@@ -1,0 +1,7 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	217401	561811	196257	232147	286981	
+"China"	41958	57818	56110	67211	149401	
+"Russian Federation"	175443	501915	140147	159353	120752	
+"Uzbekistan"		70		5303	16826	
+"Ukraine"		2009			2	
+"Georgia"				280		

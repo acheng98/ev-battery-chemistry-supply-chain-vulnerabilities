@@ -1,0 +1,3 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, Tons	
+"World"	28756	22322	3747		87	
+"China"	28756	22322	3747		87	

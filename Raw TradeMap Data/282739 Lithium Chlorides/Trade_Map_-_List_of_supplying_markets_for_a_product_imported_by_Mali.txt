@@ -1,0 +1,9 @@
+﻿Exporters	2015-Imported quantity, 	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	
+"World"		294	195	288	206	
+"Spain"			170	128	168	
+"Belgium"			25	26	34	
+"China"					4	
+"France"		0			1	
+"Area Nes"		294				
+"Kenya"				135		
+"South Africa"			0			

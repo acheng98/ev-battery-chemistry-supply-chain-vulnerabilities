@@ -1,0 +1,18 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	3375219	3350003	3159081	2932143	3181534	
+"New Caledonia"	3373943	3337363	3158991	2932121	3076534	
+"Philippines"		12000			105000	
+"Netherlands"					0	
+"China"	0	20	43	22		
+"Finland"	1067	442				
+"Hong Kong, China"				0		
+"Indonesia"		0				
+"Japan"	109					
+"Papua New Guinea"			1			
+"Romania"		67				
+"Singapore"		1				
+"Viet Nam"		98				
+"South Africa"	1	13	37			
+"Thailand"	98					
+"United States of America"	2		9			
+"Uruguay"				0		

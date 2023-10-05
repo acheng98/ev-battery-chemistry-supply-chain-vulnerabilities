@@ -1,0 +1,58 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	11997	49859	34741	35315	35498	
+"Russian Federation"		21689	11310	13815	12350	
+"Australia"	2909	13094	10932	9385	11336	
+"Norway"	1993	2527	1561	2505	5600	
+"South Africa"	955	4941	2653	1884	1950	
+"Japan"		1005	267		969	
+"Madagascar"	1254	752	572	972	538	
+"Germany"	316	90	275	173	509	
+"Area Nes"					434	
+"Switzerland"					430	
+"Estonia"	47				332	
+"Bahamas"					240	
+"Italy"	38	69	85	38	165	
+"Poland"	28	2	1	1	131	
+"Singapore"		722	3664	2041	120	
+"Malaysia"		1530	294	192	96	
+"China"	0			24	92	
+"Brazil"					48	
+"Cayman Islands"					46	
+"Luxembourg"	0	3	37	38	41	
+"France"	31	26	61	44	31	
+"Belgium"	25	201		14	11	
+"Romania"	0	0	182	63	10	
+"Spain"	12	55	5	67	9	
+"Israel"					5	
+"Egypt"					3	
+"Finland"	100	0	0	0	1	
+"Austria"	0	0	0	0	0	
+"Bulgaria"	0	0	0	0	0	
+"Croatia"	0	0	0	0	0	
+"Cyprus"			0		0	
+"Czech Republic"	2	1	1	2	0	
+"Denmark"	1	1	0	1	0	
+"Greece"	0	0	0	0	0	
+"Hungary"	0	0	0	0	0	
+"Ireland"			0		0	
+"Lithuania"	7	0		0	0	
+"Portugal"		0	0	0	0	
+"Serbia"					0	
+"Slovakia"	0	0	0	0	0	
+"Slovenia"	1	0	0	0	0	
+"Sweden"	1	278	1	1	0	
+"Korea, Democratic People's Republic of"			30			
+"Korea, Republic of"			228			
+"Europe Othr. Nes"	84			517		
+"Canada"	2905	2133	2403	3105		
+"Sri Lanka"	2					
+"Chile"		72				
+"Lebanon"		0				
+"Latvia"	0	0		0		
+"Malta"			0			
+"Morocco"				48		
+"Thailand"		48				
+"United Arab Emirates"		48				
+"Turkey"	3					
+"United Kingdom"	1284	571	178	384		
+"United States of America"	1			1		

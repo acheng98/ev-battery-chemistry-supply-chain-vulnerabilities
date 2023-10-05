@@ -1,0 +1,3 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	6	5	6	6	6	
+"Qatar"	6	5	6	6	6	

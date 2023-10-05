@@ -1,0 +1,8 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"	91517	44748	19		23845	
+"Czech Republic"					14971	
+"Slovakia"					4999	
+"Georgia"					3827	
+"Turkey"					48	
+"China"	91517	44748				
+"Russian Federation"			19			

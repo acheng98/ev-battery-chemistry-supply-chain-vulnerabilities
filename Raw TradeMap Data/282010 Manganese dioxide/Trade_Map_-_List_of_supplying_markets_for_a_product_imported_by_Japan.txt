@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1374	1564	1220	770	762	
+"Colombia"	1040	1500	1180	740	760	
+"China"	334	64	39	30	2	
+"United States of America"	0	0	0	0	0	
+"Germany"			0			

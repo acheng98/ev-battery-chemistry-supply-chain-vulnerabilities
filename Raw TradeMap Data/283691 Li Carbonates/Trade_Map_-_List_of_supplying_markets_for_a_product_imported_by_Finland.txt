@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	77	67	52	79	67	
+"Germany"	53	31	34	40	40	
+"China"	4	8	8	16	23	
+"Argentina"		7		5	4	
+"Netherlands"	10	5	0	0	0	
+"Chile"		2	1	1		
+"Denmark"	7	4	4	3		
+"Japan"			0			
+"Sweden"		7		0		
+"United Kingdom"		0				
+"United States of America"	2	2	4	14		

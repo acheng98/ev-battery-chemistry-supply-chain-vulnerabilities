@@ -1,0 +1,6 @@
+Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"	2	5	20	0	0	
+"China"	0	5	0	0	0	
+"United Arab Emirates"	0	0	0	0	0	
+"United States of America"	2	0	20	0	0	
+"Singapore"	0	0	0	0	0	

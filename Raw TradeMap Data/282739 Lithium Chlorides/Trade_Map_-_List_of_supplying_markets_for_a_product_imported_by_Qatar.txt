@@ -1,0 +1,12 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"		4278	4971	5169	4435	
+"India"		3692	4971	5169	3433	
+"Jordan"					777	
+"Taipei, Chinese"					224	
+"Area Nes"		9				
+"Germany"		0				
+"Pakistan"		24				
+"Saudi Arabia"		525				
+"United Arab Emirates"		27				
+"United Kingdom"		0				
+"United States of America"		0				

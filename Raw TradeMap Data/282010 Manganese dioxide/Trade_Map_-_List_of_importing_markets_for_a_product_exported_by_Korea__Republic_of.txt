@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	2	17	3	10	2	
+"Fiji"				2	2	
+"Taipei, Chinese"	0	0	0	0	0	
+"Viet Nam"					0	
+"Thailand"		17			0	
+"China"	1		2	8		
+"Hong Kong, China"		0				
+"Indonesia"			1			
+"Japan"	1		0			
+"United States of America"				0		

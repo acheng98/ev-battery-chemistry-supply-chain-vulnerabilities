@@ -1,0 +1,14 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	2576	695	1101	No Quantity	1131	
+"Egypt"	2363	630	793	212	1129	
+"Denmark"				2	2	
+"Malaysia"					0	
+"Germany"		0				
+"Iran, Islamic Republic of"	38			54		
+"Morocco"			308			
+"Norway"		0				
+"Pakistan"	0					
+"India"	175	43		138		
+"Switzerland"		0				
+"United Kingdom"		12		6		
+"United States of America"		9		No Quantity		

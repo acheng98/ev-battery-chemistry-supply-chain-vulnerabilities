@@ -1,0 +1,6 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	661	1112	533	319	935	
+"China"	609	1020	480	300	780	
+"Russian Federation"	12	91	53	19	155	
+"Brazil"	40					
+"United Arab Emirates"		0				

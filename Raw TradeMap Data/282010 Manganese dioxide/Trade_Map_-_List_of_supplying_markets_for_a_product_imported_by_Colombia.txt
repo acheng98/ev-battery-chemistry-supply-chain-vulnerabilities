@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	141	160	108	120	161	
+"China"	140	160	100	100	100	
+"Spain"				0	61	
+"Colombia"	1		8			
+"Hong Kong, China"				20		

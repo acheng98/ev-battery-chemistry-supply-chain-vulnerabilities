@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, Tons	
+"World"	29				22	
+"Spain"					18	
+"India"					4	
+"China"	29					

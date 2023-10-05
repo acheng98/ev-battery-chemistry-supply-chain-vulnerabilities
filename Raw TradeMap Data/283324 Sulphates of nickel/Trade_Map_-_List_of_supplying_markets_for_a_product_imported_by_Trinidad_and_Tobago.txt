@@ -1,0 +1,3 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"				109	130	
+"United Kingdom"				109	130	

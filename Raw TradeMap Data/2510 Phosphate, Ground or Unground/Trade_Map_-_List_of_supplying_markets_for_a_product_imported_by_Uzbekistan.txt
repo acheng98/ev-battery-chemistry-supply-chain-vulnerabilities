@@ -1,0 +1,4 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	111188	143743	1150	37667	98794	
+"Kazakhstan"	111188	143743	1142	37667	98794	
+"China"		1				

@@ -1,0 +1,8 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	3156	10540	11303	11551	14747	
+"Austria"	3156	10540	11303	11550	14746	
+"Sri Lanka"		0	0	1	1	
+"Bosnia and Herzegovina"					0	
+"Croatia"					0	
+"Italy"				0		
+"United States of America"				0		

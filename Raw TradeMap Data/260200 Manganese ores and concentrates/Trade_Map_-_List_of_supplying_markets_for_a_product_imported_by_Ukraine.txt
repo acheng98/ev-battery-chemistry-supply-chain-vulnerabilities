@@ -1,0 +1,19 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1302981	938946	1209052	581178	439317	
+"Ghana"	704866	621054	998700	525695	438687	
+"Russian Federation"	238075	136991	158648	39969	557	
+"Brazil"	40510	47410	1	22	35	
+"Belgium"	21		21		31	
+"Netherlands"					7	
+"India"		13	3		1	
+"Australia"	836					
+"Cyprus"	8195					
+"Gabon"	90298					
+"Georgia"		16478	25446	0		
+"Germany"				7		
+"Kazakhstan"	2009			2		
+"Romania"	326					
+"South Africa"	217845	117000	26231	15483		
+"Turkey"	0					
+"Macedonia, North"				1		
+"United States of America"	1	1	2			

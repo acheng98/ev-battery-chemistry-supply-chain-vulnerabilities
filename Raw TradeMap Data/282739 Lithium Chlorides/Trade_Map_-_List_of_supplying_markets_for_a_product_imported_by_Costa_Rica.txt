@@ -1,0 +1,22 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	582	698	968	722	1092	
+"Area Nes"	135	204	254	255	412	
+"Spain"	267	277	135	169	339	
+"India"	0	0	220		213	
+"China"	42	31	33	25	75	
+"United States of America"	52	102	252	113	28	
+"Germany"	1	1	0	0	8	
+"Colombia"	16	24	34	15	7	
+"Mexico"	0	4	12	0	7	
+"Brazil"	18			8	2	
+"Czech Republic"	2	1	2	0	1	
+"Guatemala"	2	0	0	3	1	
+"Japan"					1	
+"Austria"				0		
+"Canada"		0				
+"Chile"	2					
+"Denmark"	46	54				
+"Italy"				2		
+"Nicaragua"		1		132		
+"Panama"			0			
+"United Kingdom"			26			

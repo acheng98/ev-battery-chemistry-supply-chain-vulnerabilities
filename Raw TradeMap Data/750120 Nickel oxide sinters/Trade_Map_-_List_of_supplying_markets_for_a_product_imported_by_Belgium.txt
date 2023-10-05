@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	83	108	23	138	903	
+"Indonesia"	60			114	866	
+"France"					25	
+"Area Nes"					12	
+"Canada"			18			
+"Germany"				0		
+"Italy"			5			
+"Japan"				24		
+"Mexico"		85				
+"Netherlands"		0	0			
+"Spain"	23	23				
+"United Kingdom"			0			

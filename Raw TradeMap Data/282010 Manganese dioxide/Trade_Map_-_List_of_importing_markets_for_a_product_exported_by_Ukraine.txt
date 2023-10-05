@@ -1,0 +1,8 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	353	215	400	543	1588	
+"Russian Federation"	60	165	380	482	1340	
+"Germany"	42	50	20	60	208	
+"France"					40	
+"Equatorial Guinea"				1		
+"Turkey"	33					
+"United States of America"	218					

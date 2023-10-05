@@ -1,0 +1,20 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	63	66	66	30	30	
+"United Kingdom"	25	36	26	22	22	
+"Zimbabwe"					2	
+"Belgium"	1	2	3	1	2	
+"United States of America"	20	10	26	1	2	
+"Slovenia"					1	
+"China"		0	0		0	
+"France"	2	1	1	0	0	
+"Germany"	1	0	5	0	0	
+"Ireland"	10	0	5	4	0	
+"Area Nes"				0		
+"Austria"		14				
+"Canada"	4					
+"Italy"	0	3				
+"Mexico"				0		
+"Taipei, Chinese"		0	0			
+"Netherlands"				1		
+"South Africa"			0			
+"Sweden"	0					

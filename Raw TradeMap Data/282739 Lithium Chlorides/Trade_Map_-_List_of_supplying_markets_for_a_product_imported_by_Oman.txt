@@ -1,0 +1,22 @@
+﻿Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"	7501	7871	2604	3583	8547	
+"United Arab Emirates"	124	379	96	2754	6709	
+"India"	1127	971	2319	791	1823	
+"Qatar"					15	
+"Spain"	0			0	0	
+"Switzerland"					0	
+"United Kingdom"	0	0	0		0	
+"Korea, Republic of"	0					
+"Belgium"			0			
+"China"			17	33		
+"Germany"	1	0	0			
+"Iran, Islamic Republic of"				0		
+"Italy"	38	9	3	5		
+"Japan"				0		
+"Jordan"	6061	6442				
+"Lithuania"			72			
+"Netherlands"	6	50				
+"Pakistan"	3					
+"Saudi Arabia"		19	73			
+"Egypt"	142					
+"United States of America"			25			

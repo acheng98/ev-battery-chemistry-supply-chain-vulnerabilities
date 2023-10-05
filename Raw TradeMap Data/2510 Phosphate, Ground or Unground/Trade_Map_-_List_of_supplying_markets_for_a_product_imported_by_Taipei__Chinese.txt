@@ -1,0 +1,10 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	147893	111888	82891	121444	89627	
+"Jordan"	79400	60690	49431	53250	58100	
+"Morocco"	68113	50938	32925	67796	31000	
+"Indonesia"	335	200	475	370	467	
+"Thailand"	40	60	60	20	60	
+"Denmark"				2		
+"Japan"	2			3		
+"Netherlands"	3			3		
+"Turkey"	0	0				

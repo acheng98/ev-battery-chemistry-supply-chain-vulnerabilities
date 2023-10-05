@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	25	25	0	0	7	
+"Netherlands"	25	25	15	5	6	
+"China"		0	1	0	1	
+"United Kingdom"					1	
+"Korea, Republic of"					0	
+"Germany"	0	0	0	0	0	
+"Belgium"	0	0		0		
+"Japan"		No Quantity				
+"Poland"				1		
+"Russian Federation"				No Quantity		
+"Switzerland"	0			0		
+"United States of America"			No Quantity	0		

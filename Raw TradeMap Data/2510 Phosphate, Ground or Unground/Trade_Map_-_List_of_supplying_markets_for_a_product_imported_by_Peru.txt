@@ -1,0 +1,4 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	177036	152803	190856	244175	181419	
+"Morocco"	177036	152803	190856	244175	181419	
+"United States of America"			0		0	

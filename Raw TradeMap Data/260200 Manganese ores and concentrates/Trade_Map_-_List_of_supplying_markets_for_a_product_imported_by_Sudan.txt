@@ -1,0 +1,7 @@
+﻿Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"	43	2	259	151	691	
+"India"			217	149	665	
+"China"			40			
+"Pakistan"	25	1	2			
+"United Arab Emirates"		0	0			
+"Egypt"	19			2		

@@ -1,0 +1,4 @@
+Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	0	0	1	0	668	
+"Chile"	0	0	0	0	660	
+"Argentina"	0	0	1	0	8	

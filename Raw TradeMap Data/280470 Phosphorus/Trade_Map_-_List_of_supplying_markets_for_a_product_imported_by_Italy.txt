@@ -1,0 +1,13 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	6580	6319	4878	8139	9477	
+"Viet Nam"	5126	4704	4164	7697	8037	
+"Poland"	127			186	777	
+"Austria"	0				592	
+"Slovenia"		290	317	148	70	
+"Japan"	0	0	0	0	1	
+"Germany"	0	0		0	0	
+"China"	1008	1026	378	108		
+"Kazakhstan"	100					
+"Netherlands"	0	0		0		
+"India"	174	223	18			
+"Spain"	45	76				

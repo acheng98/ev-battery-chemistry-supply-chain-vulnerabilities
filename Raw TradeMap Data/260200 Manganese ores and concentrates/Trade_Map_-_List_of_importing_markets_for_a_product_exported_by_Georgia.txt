@@ -1,0 +1,12 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	8638	47918	17733	5342	3314	
+"Uzbekistan"	1449	5854	6674	3270	1654	
+"Russian Federation"	3147	2059	2701	2069	970	
+"Kazakhstan"			690		690	
+"Ukraine"		34959	7621			
+"Brazil"				0		
+"Belarus"				3		
+"China"	3106	2972				
+"Iran, Islamic Republic of"		72	46			
+"Lithuania"	936					
+"Malaysia"		2000				

@@ -1,0 +1,8 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"		0	1	0	8	
+"Brazil"					8	
+"Bangladesh"			0	0		
+"Sri Lanka"		0				
+"Oman"				0		
+"Saudi Arabia"			1			
+"India"			0			

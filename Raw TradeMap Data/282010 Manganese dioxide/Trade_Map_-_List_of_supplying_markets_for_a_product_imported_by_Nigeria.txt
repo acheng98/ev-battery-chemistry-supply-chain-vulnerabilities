@@ -1,0 +1,10 @@
+Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, Tons	
+"World"	0	0	1	17	73	
+"India"	0	0	0	0	41	
+"United Arab Emirates"	0	0	0	0	14	
+"Georgia"	0	0	0	0	8	
+"Turkey"	0	0	0	0	5	
+"China"	0	0	0	0	3	
+"Brazil"	0	0	0	0	2	
+"Italy"	0	0	1	10	0	
+"Poland"	0	0	0	7	0	

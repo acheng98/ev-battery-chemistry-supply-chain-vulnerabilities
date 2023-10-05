@@ -1,0 +1,22 @@
+﻿Exporters	Imported value in 2017	Imported value in 2018	Imported value in 2019	Imported value in 2020	Imported value in 2021	
+"World"	12797	10198	9293	7607	18324	
+"China"	694	608	314	308	6512	
+"Japan"	5888	4290	4400	3423	3769	
+"Philippines"	4027	2333	2190	2232	3423	
+"Korea, Republic of"	144	352	119	284	1776	
+"Netherlands"	1524	1602	1634	765	1731	
+"Germany"	257	160	209	76	327	
+"Belgium"	29	71	98	0	313	
+"Canada"	226	644	129	295	227	
+"Indonesia"	0	0	0	0	133	
+"Taipei, Chinese"	0	0	0	0	102	
+"Italy"	0	0	0	0	6	
+"India"	0	0	0	0	6	
+"Finland"	0	127	71	218		
+"France"	0	0	20	0		
+"Hong Kong, China"	0	6	0	0		
+"Kenya"	0	0	0	4		
+"Malaysia"	0	0	0	2		
+"New Zealand"	0	4	0	0		
+"South Africa"	0	0	109	0		
+"United Kingdom"	7	0	0	0		

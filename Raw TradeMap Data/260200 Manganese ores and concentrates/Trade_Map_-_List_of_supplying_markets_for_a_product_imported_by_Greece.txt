@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	22065	18968	39873	22144	21654	
+"Gabon"	22000	18006	38900	22000	21550	
+"Belgium"	60	160	180	120	104	
+"Italy"			0		0	
+"Germany"	1					
+"Morocco"		498				
+"Netherlands"	3					
+"Romania"				24		
+"Turkey"		304	793			

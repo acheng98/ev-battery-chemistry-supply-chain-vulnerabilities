@@ -1,0 +1,31 @@
+﻿Exporters	2011-Imported quantity, Tons	2012-Imported quantity, Tons	2013-Imported quantity, Tons	2014-Imported quantity, 	2015-Imported quantity, Tons	
+"World"	17941	22142	22871		32306	
+"China"	8263	16444	16687		25835	
+"Germany"	2284	2927	1947		2374	
+"Turkey"	962	940	1583		1180	
+"Singapore"	286	123	425		963	
+"South Africa"	599	440	500		818	
+"India"	548	608	589		277	
+"Thailand"	4617	160	319		234	
+"Hong Kong, China"			287		199	
+"Romania"	220	240	120		160	
+"Argentina"			100		60	
+"Uruguay"	80	60			60	
+"Indonesia"					52	
+"Russian Federation"					46	
+"Spain"	20		0		20	
+"Italy"	3	5			8	
+"Japan"	11	17	6		8	
+"Netherlands"					6	
+"Europe Othr. Nes"	1		22		3	
+"Viet Nam"					2	
+"Korea, Republic of"		23			1	
+"United Kingdom"			0		1	
+"France"			20		0	
+"Belgium"	0					
+"Ecuador"	1		1			
+"Malaysia"	7	7	3			
+"Taipei, Chinese"		48	220			
+"Saudi Arabia"		40				
+"United Arab Emirates"		21	42			
+"United States of America"	40	40				

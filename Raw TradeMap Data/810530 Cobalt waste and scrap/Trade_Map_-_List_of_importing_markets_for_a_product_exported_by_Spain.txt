@@ -1,0 +1,9 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	16	36	10	8	5	
+"Albania"					3	
+"Germany"		4		2	2	
+"Montenegro"			0			
+"France"		0	4			
+"Italy"	3	25				
+"United Kingdom"	10	7	5	4		
+"United States of America"				1		

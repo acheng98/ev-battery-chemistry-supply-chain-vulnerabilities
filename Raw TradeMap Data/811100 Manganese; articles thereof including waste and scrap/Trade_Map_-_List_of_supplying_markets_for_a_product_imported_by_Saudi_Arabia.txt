@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	511	1649	1967	784	1522	
+"China"	65	1647	1967	784	1491	
+"India"	422	2			27	
+"Slovenia"					4	
+"Italy"					1	
+"Area Nes"	No Quantity					
+"Germany"	24					

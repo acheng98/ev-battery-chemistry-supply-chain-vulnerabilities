@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"	214	195				
+"Argentina"		0				
+"Chile"	211	185				
+"Slovenia"	3	8				
+"United States of America"	0	1				

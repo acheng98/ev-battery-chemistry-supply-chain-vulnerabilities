@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	558	626	991	369	636	
+"China"	480	480	760	300	540	
+"India"	1		30	21	34	
+"Georgia"		50	50		23	
+"Brazil"			54	22	20	
+"Area Nes"					19	
+"Japan"				0		
+"Mexico"	48	48	72			
+"Norway"				24		
+"Spain"	3		25			
+"Turkey"		48		1		
+"United Kingdom"	26					

@@ -1,0 +1,16 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	10538	5355	19271	82081	73919	
+"Tanzania, United Republic of"		53	10262	54452	41379	
+"United Arab Emirates"			1822	19556	28348	
+"Indonesia"	25	3410	2145	1083	2613	
+"Turkey"	48		140	5461	1145	
+"China"	20	1891			316	
+"Georgia"	10341		48	70	119	
+"Greece"	24					
+"Hong Kong, China"	20					
+"Korea, Republic of"	40					
+"Netherlands"	20					
+"India"			226			
+"Singapore"				25		
+"United Kingdom"		0				
+"Zambia"			4628	1434		

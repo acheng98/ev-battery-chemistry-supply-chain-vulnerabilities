@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	10	10	395	412	72	
+"Turkey"					68	
+"United States of America"	6	10			4	
+"Australia"				1		
+"Canada"	1	0				
+"China"	0		394	93		
+"Taipei, Chinese"	4			301		
+"Norway"		0				
+"Singapore"			2	18		

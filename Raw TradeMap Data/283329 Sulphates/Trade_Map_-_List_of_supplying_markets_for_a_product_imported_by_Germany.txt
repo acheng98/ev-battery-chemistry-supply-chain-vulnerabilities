@@ -1,0 +1,48 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	148609	148680	180338	198246	255733	
+"Czech Republic"	16361	12323	39134	22778	68648	
+"France"	26778	32573	35638	50495	43456	
+"Belgium"	56837	51755	46996	32998	39613	
+"Norway"	4169	6156	3503	10428	38067	
+"Netherlands"	4814	13127	8184	14393	17488	
+"Poland"	17254	15730	18872	31802	15357	
+"China"	3290	3802	4794	6631	9285	
+"Spain"	3799	529	3913	7795	5691	
+"Austria"	4659	4655	5507	3616	4675	
+"Mexico"	1950	1658	1762	1873	2437	
+"United Kingdom"	3473	2498	2977	1521	1996	
+"Italy"	1347	936	1360	1079	1942	
+"United States of America"	639	166	903	839	1809	
+"Algeria"					1531	
+"India"	1157	487	143	257	863	
+"Switzerland"	80	87	702	321	490	
+"Turkey"	76	62	45	10214	446	
+"Brazil"	0	0	12	0	356	
+"Canada"	288	240	120	104	285	
+"Japan"	102	45	77	91	231	
+"Ukraine"	118	223	280	163	187	
+"Romania"	268	297	191	138	178	
+"Denmark"	296	94	220	166	146	
+"Luxembourg"	110	70	130	71	112	
+"Malaysia"	204	242	315	81	111	
+"Finland"	419	376	4167	216	97	
+"Sweden"	24	252	321	25	91	
+"Taipei, Chinese"	1	37	17	81	62	
+"Kazakhstan"	60	80	50	60	60	
+"Russian Federation"			1	9	21	
+"United Arab Emirates"					2	
+"Korea, Republic of"	7	13			0	
+"Andorra"		50				
+"Argentina"				0		
+"Australia"			0	1		
+"Bulgaria"		38				
+"Costa Rica"			2			
+"Croatia"	2	9	2	0		
+"Hong Kong, China"			0			
+"Israel"				0		
+"Latvia"		4				
+"Peru"		24				
+"Slovakia"	25					
+"Slovenia"	1	2				
+"South Africa"		40				
+"Macedonia, North"	0	0		0		

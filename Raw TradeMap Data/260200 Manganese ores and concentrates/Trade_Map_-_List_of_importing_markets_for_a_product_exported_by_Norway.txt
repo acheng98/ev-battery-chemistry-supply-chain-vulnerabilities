@@ -1,0 +1,7 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	3001	19209	33489	9632	3936	
+"France"	3001	19209	12593	9582	3500	
+"Sweden"				50	436	
+"Germany"			7			
+"Spain"			7889			
+"United States of America"			13000			

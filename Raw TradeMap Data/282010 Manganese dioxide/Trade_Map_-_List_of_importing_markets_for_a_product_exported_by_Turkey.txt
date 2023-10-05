@@ -1,0 +1,16 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	1499	914	219	190	231	
+"Niger"			96		94	
+"Kuwait"		72	24	25	75	
+"Russian Federation"	42	15	31	41	27	
+"Kazakhstan"	1	6	12	22	19	
+"Ukraine"	7	12	8	12	15	
+"Iran, Islamic Republic of"	356				1	
+"Australia"		24	48	89		
+"Belgium"	324	405				
+"Georgia"	48					
+"Indonesia"		22				
+"Netherlands"	648					
+"Pakistan"				2		
+"United Kingdom"	72					
+"United States of America"		359				

@@ -1,0 +1,16 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	58493	51047	53118	60520	55243	
+"Gabon"	46336	39777	40349	44317	40454	
+"France"	3528	4813	3801	2730	8130	
+"Netherlands"	6338	4555	5928	10005	4671	
+"Germany"	30	0	905	263	743	
+"South Africa"			738	1897	709	
+"Brazil"	1084	1730	1097	1038	345	
+"Zimbabwe"					192	
+"Spain"		55	36		0	
+"United States of America"	1000		200	240	0	
+"Denmark"	26	26				
+"Italy"				0		
+"Luxembourg"	3					
+"Malta"	30					
+"United Kingdom"	118	91	64	30		

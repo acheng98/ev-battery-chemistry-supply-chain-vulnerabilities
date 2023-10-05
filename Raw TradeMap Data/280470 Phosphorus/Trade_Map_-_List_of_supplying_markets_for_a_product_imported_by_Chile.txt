@@ -1,0 +1,7 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	1573	1480	1211	1174	1823	
+"Viet Nam"	1344	1382	1058	979	1747	
+"India"	44	26	8	69	40	
+"China"	185	72	126	126	36	
+"Area Nes"					0	
+"Thailand"			19			

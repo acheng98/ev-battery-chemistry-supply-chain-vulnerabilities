@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	29	7	67	445	1374	
+"Netherlands"				404	1317	
+"Taipei, Chinese"					46	
+"Zimbabwe"		3	31		8	
+"Zambia"					2	
+"Brazil"		4		39	1	
+"Austria"	1				0	
+"Canada"			1			
+"China"	0	0	27			
+"Mozambique"	28					
+"Tanzania, United Republic of"			5			

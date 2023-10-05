@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	
+"World"		0	0	22		
+"Brazil"				5		
+"South Africa"		0	0			
+"Spain"				17		

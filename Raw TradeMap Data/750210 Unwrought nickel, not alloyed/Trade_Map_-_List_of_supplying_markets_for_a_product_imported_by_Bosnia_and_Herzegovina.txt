@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	16	24	24	13	36	
+"United Kingdom"	9	14	14	4	16	
+"Finland"	3	5	5	6	12	
+"Norway"	2	2	2	2	3	
+"Canada"					2	
+"Russian Federation"	0	1	1		2	
+"Slovenia"		0		2	1	
+"Croatia"	1	0	1			
+"Germany"			2			
+"Italy"	0					
+"Japan"	1					
+"South Africa"		0				

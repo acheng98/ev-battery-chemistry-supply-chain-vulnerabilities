@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	39963	73638	140662	84853	27346	
+"China"	39963	73638	140662	84853	27346	
+"Kenya"		0				

@@ -1,0 +1,63 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	21258074	27655555	34175035	31644048	27859375	
+"South Africa"	9269646	11262507	13423299	13736702	13181925	
+"Australia"	4066364	5206198	5192480	5349031	4861934	
+"Gabon"	2061448	2524818	3653467	4725290	4038834	
+"Ghana"	1895925	3476447	5005634	1871518	2156080	
+"Brazil"	1789402	1845607	2958728	2798828	1477585	
+"Côte d'Ivoire"	249377	659948	1002686	1163204	646392	
+"Malaysia"	1068627	1627994	1365554	863562	491493	
+"Myanmar"	305117	447589	937043	561150	491244	
+"Zambia"	81591	113688	194991	135124	113508	
+"Kenya"	8211	16827	55746	42573	78516	
+"India"		55068	24453		68088	
+"Kazakhstan"	62103	63079	61236	146911	47975	
+"Angola"		6370	6740	29380	47394	
+"Nigeria"	32614	67178	2291	24545	46948	
+"Mali"				13044	39789	
+"Namibia"	30595	27467	45817	31284	29464	
+"Morocco"	67135	47469	25379	44799	10723	
+"Senegal"	9889	6651	14052	11387	10330	
+"Turkey"	29565	32513	35949	33570	9885	
+"Thailand"	5974	639	20706	18322	4845	
+"Oman"	29567	41366	52234	6617	2077	
+"Pakistan"	999	4544	11322	2550	2071	
+"Egypt"	1043	6495	23731	0	1146	
+"Madagascar"		100	1033	3119	493	
+"Korea, Republic of"		367	8	55	287	
+"Chile"					228	
+"Netherlands"	67	134	67	137	90	
+"Zimbabwe"	532	320	437	164	23	
+"Czech Republic"	15			0	7	
+"Argentina"					0	
+"France"					0	
+"Guyana"		0			0	
+"Albania"		423	261			
+"Bolivia, Plurinational State of"	587		2447	2191		
+"Bulgaria"	32761	61028				
+"Ethiopia"		0	3580	550		
+"Georgia"	69739	2715				
+"Germany"		0				
+"Indonesia"		0				
+"Iran, Islamic Republic of"	1020	196				
+"Japan"	3301	2367				
+"Kyrgyzstan"	231					
+"Lao People's Democratic Republic"		387				
+"Mauritania"			742			
+"Mexico"	49188	38595	38572	27368		
+"Taipei, Chinese"		0				
+"Mongolia"	26601	4017		87		
+"Mozambique"				702		
+"Peru"		10	831	230		
+"Philippines"		93	117			
+"Romania"	5920					
+"Russian Federation"			0			
+"Viet Nam"	2432					
+"Sudan"	414		994			
+"United Arab Emirates"		197				
+"Uganda"		37				
+"Ukraine"		0				
+"United Kingdom"		0	0			
+"Tanzania, United Republic of"	27		1620			
+"United States of America"	49	44	57	58		
+"Burkina Faso"		4063	10731			

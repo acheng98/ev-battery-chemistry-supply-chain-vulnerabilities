@@ -1,0 +1,17 @@
+﻿Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"	4	25	754	637	733	
+"Germany"	0		0	1	469	
+"Belgium"		0	633	487	257	
+"France"		0	120	1	5	
+"Australia"				0	1	
+"Malaysia"					0	
+"China"		23				
+"Czech Republic"		0				
+"Ecuador"				100		
+"Italy"	0		1			
+"Japan"		0				
+"Netherlands"				23		
+"India"			0			
+"South Africa"	3					
+"United Kingdom"			0	24		
+"United States of America"	0	1				

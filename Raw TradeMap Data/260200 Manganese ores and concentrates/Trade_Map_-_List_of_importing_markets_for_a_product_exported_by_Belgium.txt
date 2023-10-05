@@ -1,0 +1,65 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	12730	11915	19127	12856	16286	
+"Germany"	1572	3059	4285	3603	4887	
+"Netherlands"	2108	2048	2202	1840	1657	
+"China"			220	622	1352	
+"France"	3783	1507	6628	2200	1287	
+"United States of America"			113	179	1262	
+"Poland"	1050	852	1237	934	1201	
+"Italy"	680	976	1095	968	1097	
+"India"				106	540	
+"Spain"	530	776	627	368	519	
+"Hungary"	197	215	419	434	475	
+"Czech Republic"	73	160	415	220	356	
+"Area Nes"					314	
+"Finland"	5		184	50	227	
+"Romania"	158	90	136	228	186	
+"Greece"	128	206	166	125	155	
+"Russian Federation"	320	260	40	60	120	
+"Denmark"	2	75		8	110	
+"Austria"					92	
+"Philippines"	100	100	80	40	80	
+"Bosnia and Herzegovina"				24	72	
+"Luxembourg"					57	
+"Ukraine"	41	41	76		52	
+"Syrian Arab Republic"		110	12		44	
+"Ecuador"	12	52		10	31	
+"Morocco"		24	7		30	
+"Bangladesh"	44	75		20	25	
+"Bulgaria"	6	2	49	52	25	
+"Cyprus"	13	6	11		15	
+"Panama"		7			15	
+"Guatemala"			3		3	
+"Iraq"					1	
+"Algeria"	20		5			
+"Angola"	5	11	21			
+"Chile"	3					
+"Croatia"	9	3				
+"Cuba"			80			
+"Dominican Republic"			6			
+"Indonesia"			96	48		
+"Ireland"	1	1	13			
+"Japan"	3			24		
+"Jordan"			21			
+"Latvia"			0			
+"Lithuania"			2			
+"Malaysia"	20		25			
+"Taipei, Chinese"	40		1			
+"Nepal"				3		
+"Nigeria"	10	20	4	2		
+"Norway"	120	120	120	120		
+"Portugal"	2	1	4	4		
+"Saudi Arabia"			27	9		
+"Serbia"	110	66	66	66		
+"Slovakia"		1				
+"Viet Nam"	20					
+"Slovenia"			23			
+"Sweden"	25					
+"Switzerland"	13	26	5			
+"Thailand"	500	520	240	42		
+"Tunisia"			34			
+"Turkey"	80			40		
+"Egypt"		40				
+"United Kingdom"	926	464	329	406		
+"Burkina Faso"	1					
+"Uruguay"		1				

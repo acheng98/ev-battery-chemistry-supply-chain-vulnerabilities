@@ -1,0 +1,11 @@
+Importers	Exported value in 2017	Exported value in 2018	Exported value in 2019	Exported value in 2020	Exported value in 2021	
+"World"	243	186	111	112	106	
+"China"	141	155	71	104	95	
+"United States of America"	22	20	21	8	9
+"India"	0	0	0	0	1	
+"Netherlands"	0	0	0	0	1	
+"Indonesia"	0	1	0	0	0	
+"Taipei, Chinese"	80	0	0	0	0	
+"Nigeria"	0	0	18	0	0	
+"Thailand"	0	7	18	0	0	
+"Turkey"	0	3	18	0	0	

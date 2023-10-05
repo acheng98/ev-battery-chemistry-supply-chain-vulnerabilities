@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, 	
+"World"	5985	504	5152			
+"Germany"	504	504				
+"Netherlands"	5481		5136			

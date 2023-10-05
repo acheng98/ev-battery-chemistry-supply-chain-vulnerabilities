@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, 	
+"Total"	36	43				
+"China"	36	42				
+"India"		1				

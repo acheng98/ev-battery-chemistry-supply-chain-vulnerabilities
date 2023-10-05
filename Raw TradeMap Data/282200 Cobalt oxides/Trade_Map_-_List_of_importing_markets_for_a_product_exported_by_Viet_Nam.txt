@@ -1,0 +1,6 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	0		8	0	1	
+"Japan"	0		1	0	1	
+"Korea, Republic of"					0	
+"China"			6			
+"Finland"		0				

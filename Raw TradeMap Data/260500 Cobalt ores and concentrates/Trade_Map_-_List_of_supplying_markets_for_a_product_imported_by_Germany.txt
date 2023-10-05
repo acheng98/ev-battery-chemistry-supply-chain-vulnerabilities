@@ -1,0 +1,7 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	9	5	1	8	5	
+"Netherlands"					5	
+"Korea, Republic of"		4				
+"Australia"		0				
+"United Kingdom"			1			
+"United States of America"	9			8		

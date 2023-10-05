@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	8668	1927	7154	4684	6150	
+"Norway"	7191	1484	6685	4228	6025	
+"India"	120	361	120	180	125	
+"Area Nes"	8					
+"Brazil"	19	24				
+"Canada"			15			
+"China"	1301		310	76		
+"Germany"	29			0		
+"Turkey"		50	25			
+"United Kingdom"		8				
+"United States of America"				200		

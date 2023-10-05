@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	55		994	1990		
+"Austria"	55					
+"China"			994	1990		

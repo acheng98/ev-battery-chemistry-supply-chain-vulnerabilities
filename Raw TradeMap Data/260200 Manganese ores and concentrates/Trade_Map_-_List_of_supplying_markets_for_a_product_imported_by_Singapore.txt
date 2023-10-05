@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"	10685	No Quantity	No Quantity	No Quantity	No Quantity	
+"Australia"				No Quantity	No Quantity	
+"China"	75	No Quantity	No Quantity	No Quantity	No Quantity	
+"South Africa"		No Quantity	No Quantity	No Quantity	No Quantity	
+"Gabon"	10609	No Quantity	No Quantity			
+"Indonesia"		No Quantity				
+"Japan"			No Quantity			
+"United Kingdom"	0					
+"Tanzania, United Republic of"				No Quantity		
+"United States of America"		No Quantity	No Quantity	No Quantity		

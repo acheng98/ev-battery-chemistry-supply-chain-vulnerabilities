@@ -1,0 +1,5 @@
+﻿Exporters	2009-Imported quantity, Tons	2010-Imported quantity, Tons	2011-Imported quantity, Tons	2012-Imported quantity, Tons	2013-Imported quantity, 	
+"World"	39710	82224	64260	1		
+"Colombia"	300					
+"Morocco"	10000	82224	64260			
+"United States of America"	29410			1		

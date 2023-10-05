@@ -1,0 +1,19 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	9	3	8	4	21	
+"Spain"					17	
+"Iraq"	4	1	2	0	2	
+"Georgia"	3	1	2	1	1	
+"Qatar"					1	
+"Bulgaria"	1	0	1	1	0	
+"Croatia"					0	
+"Libya, State of"	1	0		0	0	
+"Russian Federation"				0	0	
+"Serbia"	0			1	0	
+"Egypt"	1	0	2	1	0	
+"United Kingdom"					0	
+"Turkmenistan"			1			
+"Free Zones"	0					
+"Iran, Islamic Republic of"	0		1			
+"Israel"	0	0				
+"Côte d'Ivoire"		0		1		
+"Uzbekistan"			0	0		

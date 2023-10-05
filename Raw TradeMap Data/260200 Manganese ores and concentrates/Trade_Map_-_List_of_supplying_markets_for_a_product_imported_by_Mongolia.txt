@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	
+"World"	4		87	79		
+"China"	4		87	79		
+"Switzerland"				0		

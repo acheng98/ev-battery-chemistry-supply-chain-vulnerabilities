@@ -1,0 +1,9 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	53	46	34	47	31	
+"Czech Republic"	29	24	23	36	28	
+"Lithuania"					3	
+"Europe Othr. Nes"					0	
+"India"					0	
+"Germany"	24	22	9	3		
+"Hungary"			1	8		
+"United States of America"				0		

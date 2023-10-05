@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	135868	107793	45507	59910	50221	
+"South Africa"	114918	107445	45442	49761	49990	
+"France"				79	161	
+"United Kingdom"					70	
+"Canada"	234	159				
+"China"			6	15		
+"Gabon"				10000		
+"Japan"	50	51	53	55		
+"Netherlands"	20000					
+"Panama"		2				
+"United States of America"	666	136	6			

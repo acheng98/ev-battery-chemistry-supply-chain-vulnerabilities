@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	4	1	1	43	24	
+"South Africa"	4	1	1	43	24	
+"Germany"			0			
+"India"				0		

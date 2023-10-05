@@ -1,0 +1,15 @@
+﻿Exporters	2014-Imported quantity, 	2015-Imported quantity, 	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"			148	354	192	
+"Colombia"				256	93	
+"Spain"			46	25	35	
+"India"					33	
+"Costa Rica"			89	9	25	
+"Italy"			0	0	6	
+"Area Nes"			0	0	0	
+"China"			13	64	0	
+"Germany"			0	0	0	
+"Switzerland"			0	0	0	
+"Korea, Democratic People's Republic of"			0			
+"Korea, Republic of"				0		
+"Ireland"			0			
+"Viet Nam"			0			

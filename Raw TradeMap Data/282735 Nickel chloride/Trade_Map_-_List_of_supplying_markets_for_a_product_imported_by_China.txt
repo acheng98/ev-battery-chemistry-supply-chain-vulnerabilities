@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity	2019-Unit	2020-Imported quantity	2020-Unit	2021-Imported quantity	2021-Unit	
+"World"	149	119	127	Tons	276	Tons	412	Tons	
+"France"	24	12	29	Tons	170	Tons	217	Tons	
+"Japan"	108	87	73	Tons	67	Tons	91	Tons	
+"Taipei, Chinese"	13	19	17	Tons	38	Tons	53	Tons	
+"Thailand"							50	Tons	
+"Canada"							1	Tons	
+"United Kingdom"	0	0	0	Mixed	0	Mixed	0	Mixed	
+"United States of America"	0	0	0	Mixed	0	Mixed	0	Mixed	
+"Korea, Republic of"	3		9	Tons	1	Tons			
+"Germany"	0				0	Tons			
+"Russian Federation"	0	0	0	Mixed	No Quantity	No Quantity	No Quantity	No Quantity	

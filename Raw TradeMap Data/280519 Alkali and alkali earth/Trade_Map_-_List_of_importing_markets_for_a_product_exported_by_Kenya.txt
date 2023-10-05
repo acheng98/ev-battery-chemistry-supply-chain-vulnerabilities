@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"		1	0	6	2	
+"Burundi"		1	0	3	2	
+"Uganda"				3		

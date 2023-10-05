@@ -1,0 +1,8 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	1	18	28	48	37	
+"United States of America"	1	18	27	48	37	
+"Colombia"			0		0	
+"Germany"	0	0		0	0	
+"France"			1			
+"Sweden"	0					
+"United Kingdom"		0				

@@ -1,0 +1,16 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	4886	6485	5273	4035	14924	
+"Turkey"	425	490	390	1514	9048	
+"France"	2486	2119	1834	967	3925	
+"Belgium"	513	645	681	739	848	
+"Brazil"	520	555	572	676	598	
+"Netherlands"	272	259	134	85	393	
+"Tanzania, United Republic of"					70	
+"Spain"	25	46	16	30	38	
+"United Kingdom"	47	25			5	
+"Bosnia and Herzegovina"			101			
+"Germany"	24	0		0		
+"Morocco"	50	50	25	25		
+"Poland"	20					
+"Slovakia"	504	2284	1520			
+"Sweden"		11				

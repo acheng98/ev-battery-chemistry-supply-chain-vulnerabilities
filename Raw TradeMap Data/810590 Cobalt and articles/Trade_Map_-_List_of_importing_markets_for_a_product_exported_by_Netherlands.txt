@@ -1,0 +1,73 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	3	24	49	25	23	
+"Hong Kong, China"		3	2	2	7	
+"Germany"	0	1	5	4	4	
+"United States of America"	0	0	0	0	3	
+"Belgium"	0	1	1	1	1	
+"Canada"		0	0	0	1	
+"China"	0	2	2	2	1	
+"France"	0	6	1	1	1	
+"Italy"	0	0	2	1	1	
+"Spain"	0	0	1	1	1	
+"Chad"	0				0	
+"Europe Othr. Nes"					0	
+"Turkmenistan"					0	
+"Area Nes"					0	
+"Argentina"				0	0	
+"Australia"		0	0	0	0	
+"Austria"	0	0	0	0	0	
+"Bulgaria"	0		0		0	
+"Chile"	0		0	0	0	
+"Colombia"		0	0	0	0	
+"Croatia"			0	0	0	
+"Czech Republic"	0	0	0	0	0	
+"Denmark"	0		0	0	0	
+"Ethiopia"				0	0	
+"Estonia"			0	0	0	
+"Finland"	0	0	0	0	0	
+"Greece"		0	0	0	0	
+"Indonesia"	0	0			0	
+"Côte d'Ivoire"					0	
+"Japan"	0	0	1	1	0	
+"Kazakhstan"					0	
+"Lithuania"			0	0	0	
+"Luxembourg"		0	0	0	0	
+"Malaysia"	0	0			0	
+"Panama"					0	
+"Poland"	0	0	0	0	0	
+"Romania"	0				0	
+"Russian Federation"	0	0	0		0	
+"India"	0	0	0	0	0	
+"Slovenia"			0	0	0	
+"South Africa"	0	0	0	0	0	
+"Sweden"	0	0	0	0	0	
+"Switzerland"	0	0	0	0	0	
+"Thailand"	0				0	
+"United Arab Emirates"	0		0		0	
+"Egypt"	0		0		0	
+"Korea, Republic of"	0	0				
+"Angola"		0				
+"Bahrain"	0					
+"Brazil"	0	10	31	11		
+"Cyprus"			0			
+"Hungary"			0			
+"Ireland"			0	0		
+"Israel"	0					
+"Jordan"	0	0	0			
+"Kuwait"			0			
+"Lebanon"	0	0		0		
+"Mexico"	0	0				
+"Taipei, Chinese"		0				
+"Oman"	0		0			
+"Curaçao"		0	0			
+"Nigeria"	0					
+"Norway"	0	0	0			
+"Pakistan"	0					
+"Portugal"	0	0				
+"Qatar"	0					
+"Saudi Arabia"	0	0				
+"Serbia"		0	0	0		
+"Singapore"	0	0				
+"Slovakia"			0			
+"Turkey"	0	0	0			
+"United Kingdom"	0	1	1	0		

@@ -1,0 +1,9 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	521872	488581	2052280	990002	614557	
+"China"	471772	477571	2014453	961887	595061	
+"Viet Nam"	20100		12970		10200	
+"Japan"					7144	
+"Indonesia"	30000	11010	9100	28104	2150	
+"Thailand"					2	
+"Hong Kong, China"			15500			
+"Singapore"		0	257	11		

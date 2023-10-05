@@ -1,0 +1,5 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"Total"	58180	58097	65629	61781	103922	
+"Uzbekistan"	46790	58097	65629	61781	103922	
+"Kazakhstan"	11390					
+"Turkey"				0		

@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		149	634	2272	26	
+"Italy"					25	
+"Egypt"			560	2128	1	
+"United States of America"				0	0	
+"Area Nes"	No Quantity					
+"China"		77	25	144		
+"Jordan"		72	49			

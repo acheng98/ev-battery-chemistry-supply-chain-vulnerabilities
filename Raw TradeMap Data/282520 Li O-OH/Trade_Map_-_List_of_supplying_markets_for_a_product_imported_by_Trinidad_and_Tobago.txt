@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	2209	9624	4308	3681	2394	
+"Russian Federation"			1822		1818	
+"United States of America"	2176	9590	664		526	
+"China"			1822	3600		

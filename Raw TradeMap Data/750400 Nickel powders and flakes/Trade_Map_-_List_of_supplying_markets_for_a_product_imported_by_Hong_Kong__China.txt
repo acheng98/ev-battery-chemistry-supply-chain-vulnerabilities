@@ -1,0 +1,9 @@
+Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	20	15	22	22	36	
+"Malaysia"	0	0	0	0	12	
+"Singapore"	8	10	4	7	11	
+"China"	0	1	7	7	10	
+"Germany"	2	3	3	2	3	
+"Canada"	0	0	5	2	0	
+"Italy"	0	0	0	2	0	
+"United States of America"	9	0	3	2	0	

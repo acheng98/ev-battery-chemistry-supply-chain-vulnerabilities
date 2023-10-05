@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	24902	21090	17848	10827	16047	
+"Russian Federation"		1231	10359	5822	8172	
+"Australia"	7441			2919	4445	
+"Thailand"			360	335	2106	
+"Brazil"				79	1250	
+"Turkey"	23	61	145	74	73	
+"Korea, Republic of"		12		22		
+"Finland"	17309	19658	6830	1558		
+"Germany"	129	128	63	19		
+"Philippines"			80			
+"Viet Nam"			10			
+"United States of America"			No Quantity			

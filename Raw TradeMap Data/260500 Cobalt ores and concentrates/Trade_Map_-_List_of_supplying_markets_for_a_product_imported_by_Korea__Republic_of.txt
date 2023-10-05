@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	0	395	467	0	0	
+"Congo, Democratic Republic of the"		152	127			
+"Brazil"		19				
+"China"	0	126	336			
+"Hong Kong, China"		0				
+"Taipei, Chinese"	0					
+"Viet Nam"		20				
+"United Kingdom"		0				
+"United States of America"			0	0		
+"Zambia"		78	4			

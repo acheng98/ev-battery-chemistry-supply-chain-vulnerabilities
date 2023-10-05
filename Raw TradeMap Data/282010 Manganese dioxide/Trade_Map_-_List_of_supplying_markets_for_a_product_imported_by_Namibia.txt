@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	10024	20031	4545	37352	45084	
+"Morocco"	5009	20031	4545	37352	45084	
+"Portugal"	5009					
+"South Africa"	7					

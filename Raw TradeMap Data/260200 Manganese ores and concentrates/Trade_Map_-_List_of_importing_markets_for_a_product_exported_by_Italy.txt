@@ -1,0 +1,30 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	6	69	151	201	189	
+"Macedonia, North"					73	
+"Serbia"		7	8	2	25	
+"Greece"	3	1	4	1	24	
+"Turkey"		5	9	6	23	
+"Portugal"			2	92	16	
+"Sweden"		5	60	7	6	
+"Czech Republic"		9	5	3	5	
+"Spain"	0	4	3	1	4	
+"Morocco"					3	
+"Romania"		13	10	18	3	
+"Russian Federation"	2				3	
+"Croatia"		2	5	1	2	
+"Austria"				0	1	
+"Estonia"			0	1	1	
+"Finland"					1	
+"France"	0	2	3	0	1	
+"Bulgaria"					0	
+"Hong Kong, China"				0	0	
+"Slovenia"				0	0	
+"Belgium"		1	1	3		
+"Germany"	0	0		1		
+"Ireland"				1		
+"Nigeria"			10	10		
+"Poland"	0	8				
+"Senegal"		12				
+"Switzerland"				52		
+"Egypt"			24			
+"United Kingdom"			5			

@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	46	1	13	1	156	
+"India"				0	156	
+"United States of America"					1	
+"Indonesia"			0			
+"Côte d'Ivoire"		0				
+"Macao, China"			0			
+"Malaysia"			2			
+"Mongolia"			0			
+"New Zealand"			0	1		
+"Philippines"	46	0	10			

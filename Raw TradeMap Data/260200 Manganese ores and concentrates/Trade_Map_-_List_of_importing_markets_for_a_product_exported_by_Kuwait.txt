@@ -1,0 +1,4 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	
+"World"		10	0			
+"Iran, Islamic Republic of"			0			
+"Saudi Arabia"		10				

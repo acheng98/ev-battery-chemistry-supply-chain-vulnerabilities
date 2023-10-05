@@ -1,0 +1,43 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	83859	84708	87563	74224	64071	
+"Germany"	42444	51373	29912	19931	16845	
+"Belgium"	11222	4658	6083	5953	14469	
+"Spain"	5846	4507	11245	6984	5998	
+"China"	11318	9812	15150	13831	5660	
+"Netherlands"	498	829	1960	3248	4938	
+"Finland"	1217	2171	2939	4495	4311	
+"Italy"	3552	3167	3314	4654	3570	
+"Poland"	2437	3397	3516	3018	3299	
+"India"	198	434	326	288	1446	
+"Czech Republic"	1340	934	1074	1354	732	
+"Turkey"	370	531	674	580	720	
+"France"	34	467	882	375	553	
+"United Kingdom"	1106	1564	9778	8870	433	
+"Mexico"	1815	344	32	143	322	
+"United States of America"	128	166	182	160	293	
+"Sweden"	13			0	104	
+"Area Nes"	0	3	228	125	66	
+"Peru"					64	
+"Hong Kong, China"		20	35	35	60	
+"Switzerland"	47	3	0	29	47	
+"Romania"		22	44	22	44	
+"Luxembourg"	1	15	56	16	35	
+"Japan"	35	20	17	34	26	
+"Kazakhstan"	20		20	20	20	
+"Denmark"	79	49	22	13	11	
+"Brazil"					2	
+"Korea, Republic of"					1	
+"Ireland"	0		0	2	1	
+"Austria"	68	39	38		0	
+"Morocco"					0	
+"Russian Federation"		124		9	0	
+"South Africa"					0	
+"Albania"	2	2	1			
+"Canada"	1	1	3			
+"Croatia"	7	8	17			
+"Iran, Islamic Republic of"				5		
+"Israel"	0	17				
+"Jordan"		0				
+"Taipei, Chinese"	1	1				
+"Portugal"	60	28	11	24		
+"Macedonia, North"			6			

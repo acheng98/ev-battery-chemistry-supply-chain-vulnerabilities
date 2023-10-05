@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	2021-Imported quantity, Tons	
+"World"		16	2316		272491	
+"Côte d'Ivoire"		8	1000		272473	
+"Guatemala"					18	
+"Dominican Republic"		8	1316			

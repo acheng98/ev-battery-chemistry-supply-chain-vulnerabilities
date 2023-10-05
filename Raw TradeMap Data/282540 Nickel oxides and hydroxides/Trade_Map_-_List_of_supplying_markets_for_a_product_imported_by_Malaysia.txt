@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	286	226	180	407	548	
+"Taipei, Chinese"	259	203	162	277	336	
+"China"	24	20	4	120	185	
+"Japan"	1	1	1	1	21	
+"United States of America"	2	1	1	11	6	
+"Hong Kong, China"		1	13			
+"Thailand"			0			

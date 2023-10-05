@@ -1,0 +1,9 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	
+"World"	192	306	909	72		
+"Belgium"				0		
+"China"	192	304	907	63		
+"Germany"			1			
+"Kenya"				9		
+"South Africa"				0		
+"Tanzania, United Republic of"			0			
+"United States of America"	0					

@@ -1,0 +1,4 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	7059		7592	3000	8000	
+"Senegal"				3000	8000	
+"Morocco"	7059		7592			

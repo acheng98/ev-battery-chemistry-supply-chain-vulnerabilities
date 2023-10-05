@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		319	No Quantity	No Quantity	0	
+"Germany"				0	0	
+"Malaysia"		319	No Quantity	No Quantity		

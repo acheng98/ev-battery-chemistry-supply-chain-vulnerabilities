@@ -1,0 +1,24 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	35714	36060	34278	27474	16910	
+"Hungary"	21332	15736	13852	13176	7925	
+"Germany"	8373	12570	16704	11782	6791	
+"Italy"	1055	1654	998	1246	1226	
+"Belgium"	2909	3987	1724	289	327	
+"Czech Republic"	436	535	356	101	248	
+"Switzerland"	96	112	138	124	213	
+"Poland"	0	1	15	1	53	
+"China"	61	85	39	27	46	
+"Netherlands"	13	25	66	66	39	
+"Slovenia"	19	137	25	10	33	
+"France"	58	165	44	122	4	
+"Sweden"			3	5	3	
+"Spain"		1	1		1	
+"United States of America"	1	2	4	5	1	
+"Ukraine"					0	
+"Romania"	1360	1049	311		0	
+"India"	0	0		0	0	
+"Turkey"					No Quantity	
+"United Kingdom"		0	0	1	0	
+"Croatia"		0	0			
+"Norway"			No Quantity			
+"Slovakia"		0		520		

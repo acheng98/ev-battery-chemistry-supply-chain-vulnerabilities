@@ -1,0 +1,65 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	60368	57244	56029	58357	67538	
+"Singapore"	10401	13200	15270	14416	16094	
+"Indonesia"	9895	9883	9154	9284	10664	
+"India"	7155	6388	6681	7763	6291	
+"Germany"	3460	3188	4204	3635	5660	
+"Belgium"	5883	2807	732	840	4908	
+"Viet Nam"	2426	2964	2832	4093	4882	
+"Thailand"	4378	3778	4190	4043	4403	
+"Brazil"	2339	1529	1625	2114	2059	
+"Korea, Republic of"	2498	2544	1914	1751	1903	
+"Myanmar"	1920	2112	1418	1689	1655	
+"Malaysia"	3825	2781	2128	2403	1616	
+"Uzbekistan"				720	1180	
+"Poland"	899	1295	1084	979	1110	
+"Morocco"	297	870	324	429	997	
+"Costa Rica"	175	275	249	448	645	
+"Egypt"	440	600	740	435	610	
+"Bangladesh"	823	634	650	622	598	
+"Pakistan"	546	584	533	264	500	
+"Peru"	550	425	499	352	400	
+"Senegal"	27		208	457	297	
+"Canada"		4			231	
+"Slovenia"	140	140	100	160	198	
+"South Africa"	243	271	250	200	152	
+"Taipei, Chinese"	107	75	91	121	147	
+"Colombia"	100	180	100	120	80	
+"Argentina"	20			20	51	
+"Mali"	198	222	424	143	50	
+"Russian Federation"	28	49	127	80	46	
+"Japan"	438	65	40	330	42	
+"Iran, Islamic Republic of"	800		100		25	
+"Italy"	10	20	10		10	
+"Jordan"		0			10	
+"United States of America"	53	37	28	0	10	
+"Philippines"		2		18	7	
+"Australia"	25		0	29	2	
+"Bolivia, Plurinational State of"			2		2	
+"Spain"	2	2		2	2	
+"Chile"			5	25	1	
+"Denmark"				1	1	
+"Saudi Arabia"	2	1	2		1	
+"Korea, Democratic People's Republic of"	36	42				
+"Solomon Islands"			23			
+"Cameroon"				1		
+"Ecuador"				13		
+"El Salvador"			12	15		
+"Fiji"		2				
+"France"				20		
+"Guatemala"	85	164	156	258		
+"Côte d'Ivoire"		38				
+"Jamaica"				16		
+"Kuwait"			2			
+"Kyrgyzstan"			37			
+"Latvia"				20		
+"Oman"				11		
+"Netherlands"		21				
+"New Zealand"			1			
+"Panama"			1			
+"Sudan"			25			
+"Switzerland"		1				
+"Syrian Arab Republic"	20	40				
+"United Arab Emirates"	1	1		16		
+"Turkey"		12	60			
+"Tanzania, United Republic of"	125					

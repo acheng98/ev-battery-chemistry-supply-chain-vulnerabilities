@@ -1,0 +1,14 @@
+﻿Exporters	2011-Imported quantity, Tons	2012-Imported quantity, Tons	2013-Imported quantity, Tons	2014-Imported quantity, Tons	2015-Imported quantity, Tons	
+"World"	125	96	391	209	294	
+"Taipei, Chinese"	27	49	266	44	163	
+"France"	45	1	66	81	98	
+"Spain"		6		10	15	
+"Australia"	1	2	37	3	9	
+"Switzerland"					7	
+"United States of America"	0	0	0	0	1	
+"Germany"	8	0		0	0	
+"Belgium"			22			
+"China"	45	19		72		
+"Morocco"		19				
+"Netherlands"				0		
+"Romania"			0	0		

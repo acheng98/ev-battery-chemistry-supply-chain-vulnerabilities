@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		228		0	0	
+"China"				0	0	
+"Germany"					0	
+"Congo, Democratic Republic of the"		228				

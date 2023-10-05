@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1313962	1444743	1344535	1555723	1209467	
+"Guatemala"	1313962	977258	527250	1111762	1209467	
+"Indonesia"		467484	817284	443961		

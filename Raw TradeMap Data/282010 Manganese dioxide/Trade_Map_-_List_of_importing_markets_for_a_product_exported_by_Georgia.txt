@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	1115	1067	318	457	2023	
+"Russian Federation"	632	1067	318	411	2000	
+"Iran, Islamic Republic of"	483			46	23	

@@ -1,0 +1,6 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"	8630				34	
+"Mauritius"					34	
+"Luxembourg"	85					
+"South Africa"	3316					
+"Switzerland"	5229					

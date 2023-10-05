@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"		4			3	
+"Honduras"					3	
+"Mexico"		4				

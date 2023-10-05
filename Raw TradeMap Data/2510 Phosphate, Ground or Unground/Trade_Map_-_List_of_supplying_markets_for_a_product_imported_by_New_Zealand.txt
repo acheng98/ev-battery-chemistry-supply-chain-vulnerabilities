@@ -1,0 +1,16 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	665608	527633	471829	689140	645681	
+"Morocco"	452211	317266	215125	328398	329480	
+"China"	41241	7	55184	86589	118072	
+"Togo"	444		81815	188691	101709	
+"Algeria"	15000			27500	30000	
+"Peru"	30746	5112	4938		21890	
+"Christmas Island"	25033	24877	10000	15287	21711	
+"Australia"	1481	1624	254	23	12303	
+"Egypt"	3203	9470	9689	22921	10514	
+"United States of America"	15	6	0	0	2	
+"Nauru"			24720			
+"Mozambique"		7859				
+"Senegal"	135					
+"Viet Nam"	65082	109018	38554	19731		
+"South Africa"	31019	52394	31550			

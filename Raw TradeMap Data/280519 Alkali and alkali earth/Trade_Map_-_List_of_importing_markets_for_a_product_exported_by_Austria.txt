@@ -1,0 +1,26 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity	2018-Unit	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	0	0	Mixed	0	0	0	
+"France"		0	Tons	5	5	1	
+"Croatia"						0	
+"Germany"		2	Tons	0	0	0	
+"Lebanon"						No Quantity	
+"Latvia"					0	No Quantity	
+"Zimbabwe"						0	
+"Korea, Republic of"	No Quantity	No Quantity	No Quantity	No Quantity			
+"Australia"	No Quantity	No Quantity	No Quantity				
+"Brazil"		No Quantity	No Quantity				
+"Bulgaria"	0						
+"China"		No Quantity	No Quantity	No Quantity			
+"Estonia"				0			
+"Israel"	No Quantity	No Quantity	No Quantity	No Quantity			
+"Japan"	No Quantity	No Quantity	No Quantity	No Quantity			
+"Lithuania"					No Quantity		
+"Malawi"	0						
+"Poland"		5	Tons				
+"India"		No Quantity	No Quantity	No Quantity			
+"Singapore"	No Quantity	0	Tons				
+"Viet Nam"		0	Tons				
+"Slovenia"		1	Tons	1	1		
+"Switzerland"	No Quantity			No Quantity			
+"United States of America"	No Quantity	0	Mixed	No Quantity	No Quantity		
+"Venezuela, Bolivarian Republic of"	0			0			

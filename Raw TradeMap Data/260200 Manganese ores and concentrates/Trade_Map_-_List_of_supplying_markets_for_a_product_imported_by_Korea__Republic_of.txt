@@ -1,0 +1,15 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1209632	1342389	1008739	1066984	1325407	
+"South Africa"	467121	658099	415018	428411	717510	
+"Australia"	624796	631491	568769	520328	504845	
+"Gabon"	85393	34251	23290	116631	101970	
+"Taipei, Chinese"				1145	588	
+"United States of America"	306	354	494	323	380	
+"Netherlands"	40	100	80	60	80	
+"China"	25	103	52	83	34	
+"Brazil"	10679	8887	88			
+"Japan"	21272	2899	745	2		
+"Peru"		870	203			
+"Anguilla"		5335				
+"India"	1					
+"Viet Nam"			0			

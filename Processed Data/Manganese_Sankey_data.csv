@@ -1,0 +1,122 @@
+Source,Target,Value
+China_cath_poss,NCM,12053.31498
+Japan_cath_poss,NCM,3455.752708
+"Korea, Republic of_cath_poss",NCM,5759.587846
+China_cath_poss,LMO,2933.76
+Japan_cath_poss,LMO,408.1536
+China_cath_poss,Non-Battery Cathode Products,124683.833
+Canada_cath_poss,Non-Battery Cathode Products,4588.562
+Japan_cath_poss,Non-Battery Cathode Products,4890.247692
+Missing Refined Material Trade,"Korea, Republic of_cath_poss",1621.905846
+United States of America_cath_poss,Non-Battery Cathode Products,47751.334
+China_ref,China_cath_poss,136659.35
+China_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,47571.274
+China_ref,Canada_cath_poss,181.168
+China_ref,Japan_cath_poss,938.16
+China_ref,"Korea, Republic of_cath_poss",2979.646
+China_ref,United States of America_cath_poss,1520.402
+Colombia_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,2761.22
+Colombia_ref,Japan_cath_poss,467.68
+Colombia_ref,United States of America_cath_poss,21.1
+Greece_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,13823.984
+Greece_ref,United States of America_cath_poss,261.016
+India_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,13502.236
+India_ref,Canada_cath_poss,788.15
+India_ref,"Korea, Republic of_cath_poss",29.618
+India_ref,United States of America_cath_poss,1123.684
+India_ref,Japan_cath_poss,62.18
+Japan_ref,Japan_cath_poss,5456.664
+Japan_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,8592.926
+Japan_ref,China_cath_poss,400.288
+Japan_ref,"Korea, Republic of_cath_poss",654.202
+Japan_ref,United States of America_cath_poss,2772.156
+Japan_ref,Canada_cath_poss,0.764
+Spain_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,9121.282
+Spain_ref,United States of America_cath_poss,703.376
+Spain_ref,Canada_cath_poss,0.512
+United States of America_ref,United States of America_cath_poss,24999.688
+United States of America_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,4008.508
+United States of America_ref,Canada_cath_poss,2422.462
+United States of America_ref,China_cath_poss,81.922
+United States of America_ref,Japan_cath_poss,0.532
+United States of America_ref,"Korea, Republic of_cath_poss",176.888
+Trade from countries with no refining,Canada_cath_poss,1195.506
+Trade from countries with no refining,China_cath_poss,2529.348
+Trade from countries with no refining,"Korea, Republic of_cath_poss",297.328
+Trade from countries with no refining,United States of America_cath_poss,16349.912
+Trade from countries with no refining,Japan_cath_poss,1828.938
+China_ref_poss,China_ref,189850
+Colombia_ref_poss,Colombia_ref,3250
+Greece_ref_poss,Greece_ref,14085
+India_ref_poss,India_ref,542
+Japan_ref_poss,Japan_ref,17877
+Spain_ref_poss,Spain_ref,8126
+United States of America_ref_poss,United States of America_ref,31690
+China_ref_poss,Raw Materials not accounted for in refining production,10634710
+India_ref_poss,Raw Materials not accounted for in refining production,1676438.4
+Japan_ref_poss,Raw Materials not accounted for in refining production,220490.1
+United States of America_ref_poss,Raw Materials not accounted for in refining production,78361.1
+Colombia_ref_poss,Raw Materials not accounted for in refining production,2422.4
+Spain_ref_poss,Raw Materials not accounted for in refining production,59858.8
+Unaccounted for Additional Refining Production,India_ref,14963.868
+Unaccounted for Additional Refining Production,Spain_ref,1699.17
+Australia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,1500286.8
+Australia_mine,China_ref_poss,1604709.3
+Australia_mine,India_ref_poss,161310.9
+Australia_mine,Japan_ref_poss,63693
+Brazil_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,43613.1
+Brazil_mine,China_ref_poss,839648.4
+Brazil_mine,Colombia_ref_poss,5671.8
+Brazil_mine,India_ref_poss,13184.4
+Brazil_mine,Japan_ref_poss,48.6
+Brazil_mine,Spain_ref_poss,8756.7
+Brazil_mine,United States of America_ref_poss,165.9
+Myanmar_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,85655
+Myanmar_mine,China_ref_poss,168345
+China_mine,China_ref_poss,1331344.4
+China_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,6528.9
+China_mine,India_ref_poss,2100.3
+China_mine,Japan_ref_poss,26.4
+Cote d'Ivoire_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,525000
+Gabon_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,1620860.2
+Gabon_mine,China_ref_poss,1417587
+Gabon_mine,Greece_ref_poss,6600
+Gabon_mine,India_ref_poss,166471.8
+Gabon_mine,Japan_ref_poss,18642.6
+Gabon_mine,Spain_ref_poss,14859.3
+Gabon_mine,United States of America_ref_poss,64979.1
+Georgia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,186000
+Ghana_mine,China_ref_poss,561455.4
+Ghana_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,157708.5
+India_mine,India_ref_poss,624655.7
+India_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,7330.2
+India_mine,Japan_ref_poss,14.1
+Kazakhstan_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,113926.7
+Kazakhstan_mine,China_ref_poss,44073.3
+Malaysia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,87931.4
+Malaysia_mine,China_ref_poss,259068.6
+Mexico_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,168612.6
+Mexico_mine,China_ref_poss,8210.4
+Mexico_mine,Spain_ref_poss,15
+Mexico_mine,United States of America_ref_poss,21162
+South Africa_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,1678933.7
+South Africa_mine,China_ref_poss,4121010.6
+South Africa_mine,India_ref_poss,484553.1
+South Africa_mine,Japan_ref_poss,155858.7
+South Africa_mine,Spain_ref_poss,36285.6
+South Africa_mine,United States of America_ref_poss,23358.3
+Ukraine_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,577990.7
+Ukraine_mine,United States of America_ref_poss,9.3
+Vietnam_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,121000
+Trade from countries with no mining,United States of America_ref_poss,376.5
+Trade from countries with no mining,India_ref_poss,224704.2
+Trade from countries with no mining,Spain_ref_poss,8068.2
+Trade from countries with no mining,China_ref_poss,469107.6
+Trade from countries with no mining,Japan_ref_poss,83.7
+Trade from countries with no mining,Colombia_ref_poss,0.6
+Trade from countries with no mining,Greece_ref_poss,43.2
+Unknown Raw Material Source_mine,Greece_ref_poss,7441.8
+Unknown Raw Material Source_mine,Colombia_ref_poss,0
+Unknown Raw Material Source_mine,India_ref_poss,0
+Unknown Raw Material Source_mine,Spain_ref_poss,0
+Unknown Raw Material Source_mine,United States of America_ref_poss,0

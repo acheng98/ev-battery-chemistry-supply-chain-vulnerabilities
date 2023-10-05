@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"		250	8135	10467	11315	
+"Brazil"			5496	10093	11315	
+"Belgium"				154		
+"China"		250	2639	220		

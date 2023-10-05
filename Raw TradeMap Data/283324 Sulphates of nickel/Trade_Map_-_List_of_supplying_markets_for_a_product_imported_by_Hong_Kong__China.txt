@@ -1,0 +1,6 @@
+Exporters	2016-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	581	441	197	323	405	
+"Japan"	463	303	159	194	243	
+"Finland"	102	124	11	98	89	
+"Taipei, Chinese"	0	0	8	2	72	
+"China"	17	14	19	29	2	

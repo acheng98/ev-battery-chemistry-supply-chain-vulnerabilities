@@ -1,0 +1,21 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1203	1734	1022	1270	3717	
+"Georgia"	592	1067	318	411	1955	
+"Ukraine"	60	140	140	221	980	
+"Germany"	223	205	261	369	426	
+"South Africa"	21	48			135	
+"China"	25	39	125	82	56	
+"Greece"	18	36	20	56	56	
+"United States of America"	145	152	104	30	38	
+"Turkey"	76	15	31	46	29	
+"India"	0			26	26	
+"Lithuania"	0	1	8	5	9	
+"Belgium"	1	3	1	3	3	
+"Italy"	0	1		4	3	
+"Poland"				0	1	
+"Korea, Republic of"		1	2	2	0	
+"France"			0			
+"Morocco"			0			
+"Netherlands"	31	27	12	16		
+"Spain"	10					
+"United Kingdom"				0		

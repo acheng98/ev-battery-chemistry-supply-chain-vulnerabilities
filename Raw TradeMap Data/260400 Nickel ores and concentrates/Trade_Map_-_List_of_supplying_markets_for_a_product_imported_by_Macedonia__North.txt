@@ -1,0 +1,12 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	729732	738267	935799	1309605	1379832	
+"Côte d'Ivoire"			297818	893165	1013601	
+"Albania"	246610	291883	275645	288379	366231	
+"Andorra"			109			
+"Germany"	3					
+"Greece"			7974			
+"Guatemala"	282430	373007	11332	36554		
+"Indonesia"			335311	71083		
+"Serbia"	188524	73377	7530			
+"India"			81			
+"Turkey"	12166			20423		

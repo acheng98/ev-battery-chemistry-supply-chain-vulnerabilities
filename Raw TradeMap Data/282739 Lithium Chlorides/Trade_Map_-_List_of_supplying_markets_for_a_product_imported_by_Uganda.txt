@@ -1,0 +1,12 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	96	163	140	133	463	
+"India"	49	58	8	37	372	
+"China"	44	88	113	92	81	
+"Italy"					5	
+"Kenya"	2	1	1		5	
+"New Zealand"					0	
+"Belgium"		0				
+"Germany"			0			
+"South Africa"	1	5	19			
+"United Arab Emirates"			0	3		
+"United States of America"		10				

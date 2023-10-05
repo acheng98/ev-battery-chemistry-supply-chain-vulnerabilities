@@ -1,0 +1,6 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	23898	24017	23003	26199	27267	
+"Viet Nam"	22719	22700	22450	26042	27183	
+"Kazakhstan"	11	99	475	141	70	
+"China"	1168	1218	78	10	13	
+"India"				7	1	

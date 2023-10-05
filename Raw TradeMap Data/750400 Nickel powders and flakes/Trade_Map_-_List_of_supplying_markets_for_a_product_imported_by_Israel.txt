@@ -1,0 +1,21 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	42	42	49	51	No Quantity	
+"Ship stores and bunkers"		0				
+"Australia"		3	18		No Quantity	
+"Austria"	0			0	No Quantity	
+"Belgium"	1	5	1	4	No Quantity	
+"Canada"		2	2	0	No Quantity	
+"China"		0	0	0	No Quantity	
+"France"		0	0		No Quantity	
+"Germany"	1	1	4	3	No Quantity	
+"Ireland"	0	0	0		No Quantity	
+"Italy"			0	15	No Quantity	
+"Japan"				0		
+"Korea, Republic of"		0			No Quantity	
+"Luxembourg"	25	14		14		
+"Netherlands"			0		No Quantity	
+"India"					No Quantity	
+"Singapore"					No Quantity	
+"Turkey"					No Quantity	
+"United Kingdom"	2	2	3	1	No Quantity	
+"United States of America"	12	15	20	14	No Quantity	

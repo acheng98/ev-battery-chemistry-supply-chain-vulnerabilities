@@ -1,0 +1,10 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	26948	23924	43545	32324	0	
+"Slovakia"	7894	3181	22445	18302	13944	
+"Serbia"			19583	10996	1607	
+"Czech Republic"	15703	18592	1517	3025	No Quantity	
+"Italy"		0	0	0	0	
+"Ukraine"	326					
+"China"	3025					
+"Greece"			0	No Quantity		
+"Poland"		2151	No Quantity			

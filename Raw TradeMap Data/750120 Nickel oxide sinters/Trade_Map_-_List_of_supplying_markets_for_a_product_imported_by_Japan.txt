@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	105777	95048	104529	96852	90603	
+"Philippines"	100513	94561	103602	96627	90374	
+"Australia"	4858	20	500		147	
+"China"	56	127	41	27	61	
+"Taipei, Chinese"	9	4	7	14	18	
+"France"	1		5		3	
+"Cuba"	315	336	315	147		
+"New Caledonia"	5		59	37		
+"Turkey"	19					
+"United States of America"		0		0		

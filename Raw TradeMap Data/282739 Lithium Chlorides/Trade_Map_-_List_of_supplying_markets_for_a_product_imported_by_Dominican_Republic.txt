@@ -1,0 +1,17 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	477	461	460	223	284	
+"Colombia"	172	316	378	195	223	
+"Honduras"					31	
+"United States of America"	43	12	14	14	16	
+"Spain"	19	20	7	2	7	
+"Costa Rica"	14	10	9	4	4	
+"China"	4	4	0	1	2	
+"India"				1	1	
+"Germany"	208	97	44	0	0	
+"Area Nes"	7					
+"Denmark"				2		
+"Israel"	11	2	2			
+"Italy"			3	0		
+"Mexico"				0		
+"Russian Federation"			2	4		
+"United Kingdom"			0			

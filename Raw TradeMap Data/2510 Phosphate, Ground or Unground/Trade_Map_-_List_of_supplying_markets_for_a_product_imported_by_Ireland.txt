@@ -1,0 +1,11 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	1555	3	3063	139	150	
+"United Kingdom"	3	3	14	127	149	
+"Germany"	0	0	0	0	0	
+"Canada"				0		
+"France"	802					
+"Netherlands"	0	0	0	1		
+"Peru"			78			
+"Switzerland"				10		
+"Tunisia"	750		2970			
+"United States of America"		0	0	0		

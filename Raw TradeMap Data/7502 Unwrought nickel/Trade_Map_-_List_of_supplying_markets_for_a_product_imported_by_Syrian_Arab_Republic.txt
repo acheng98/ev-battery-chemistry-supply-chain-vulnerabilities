@@ -1,0 +1,13 @@
+﻿Exporters	2006-Imported quantity, Tons	2007-Imported quantity, Tons	2008-Imported quantity, Tons	2009-Imported quantity, Tons	2010-Imported quantity, Tons	
+"World"	31	29	10	51	33	
+"France"	12	8	10	15	19	
+"Canada"	10	15		18	10	
+"Norway"					4	
+"Germany"				1	0	
+"Switzerland"					0	
+"United Kingdom"				2	0	
+"Europe Othr. Nes"	9			14		
+"Belgium"		6				
+"Cyprus"	0					
+"Japan"				0		
+"Turkey"				2		

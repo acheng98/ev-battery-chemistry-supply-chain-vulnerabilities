@@ -1,0 +1,16 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	555993	485833	551036	639113	640447	
+"Kazakhstan"	551291	470120	479787	614945	591416	
+"Morocco"		10907	71130	23578	48817	
+"Korea, Republic of"			100	224	180	
+"Kyrgyzstan"				125	34	
+"Area Nes"			19			
+"Belarus"	0					
+"China"	167	76				
+"Estonia"				34		
+"Finland"				200		
+"France"		0				
+"Germany"				1		
+"Viet Nam"	1					
+"South Africa"	4534	4729				
+"Uzbekistan"				6		

@@ -1,0 +1,17 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	No Quantity	85002	64288	No Quantity	No Quantity	
+"Austria"				785	2237	
+"Egypt"	1580	508	700	1887	1404	
+"Syrian Arab Republic"					870	
+"Italy"	83	194	214	647	290	
+"Lithuania"	131	144	411	756	248	
+"Bulgaria"			45	43	234	
+"Latvia"				117	172	
+"Germany"	No Quantity	1		48	25	
+"Hungary"	25			50	23	
+"Czech Republic"			3		3	
+"Spain"					2	
+"Poland"	2		0	1	1	
+"United States of America"					No Quantity	
+"Russian Federation"	63683	84154	62911	10481		
+"United Kingdom"			3			

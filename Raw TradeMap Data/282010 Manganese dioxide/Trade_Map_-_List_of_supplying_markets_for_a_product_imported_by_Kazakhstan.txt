@@ -1,0 +1,6 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	56	57	6	19	29	
+"Turkey"				11	23	
+"Russian Federation"	53	57	6	6	7	
+"Brazil"	4			1		
+"United States of America"	0	0		0		

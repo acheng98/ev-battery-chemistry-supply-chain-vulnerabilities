@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	14179	4496	3264	6145	5130	
+"Jordan"	6173	2975	1483	2092	4116	
+"Morocco"				1012	1013	
+"United States of America"		5	3		1	
+"Brazil"					0	
+"Area Nes"	No Quantity					
+"China"				538		
+"Tunisia"	2006	509	1272	2503		
+"Turkey"	1000	1006	506			
+"Egypt"	5000					

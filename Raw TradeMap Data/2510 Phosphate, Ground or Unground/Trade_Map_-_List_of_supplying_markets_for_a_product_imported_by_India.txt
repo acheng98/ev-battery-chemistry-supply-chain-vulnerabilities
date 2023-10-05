@@ -1,0 +1,28 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	7417344	7387890	8101524	9103837	9220258	
+"Jordan"	2808366	2908446	3207807	3690359	4280086	
+"Morocco"	1867240	1987573	2087164	2234279	1165715	
+"Egypt"	1278405	1331200	1737074	1221017	1155926	
+"Togo"	634645	620828	794517	855190	910573	
+"Algeria"	253447	244817		509041	596437	
+"United Arab Emirates"	185690	217232	274065	270950	362467	
+"Peru"	244574				179648	
+"Lebanon"					143757	
+"Senegal"	50312	26502		60499	137097	
+"Hong Kong, China"	539	903	336		99500	
+"Mozambique"					70003	
+"South Africa"	31208			30480	61932	
+"Cyprus"	30450	48800		68200	28875	
+"Nauru"				110809	27870	
+"Netherlands"	340	1248	384		312	
+"China"	610	127	65		54	
+"United States of America"		15		1	5	
+"Denmark"			2			
+"France"		0				
+"Iran, Islamic Republic of"	1986					
+"Israel"	29031					
+"Madagascar"		200				
+"Malaysia"	22			0		
+"Singapore"				53010		
+"Turkey"			108			
+"United Kingdom"	480			2		

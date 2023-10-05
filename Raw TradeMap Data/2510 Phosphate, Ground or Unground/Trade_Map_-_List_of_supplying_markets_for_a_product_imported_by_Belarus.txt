@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	549148	602336	612503	660591	No Quantity	
+"Morocco"	27443	106667	113922	306556	424275	
+"Russian Federation"	521705	495669	498579	354035	252554	
+"Ukraine"					0	

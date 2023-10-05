@@ -1,0 +1,7 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	2		27	27		
+"Japan"	2					
+"Lebanon"			17			
+"Portugal"			10			
+"Turkey"				27		
+"United Kingdom"	0					

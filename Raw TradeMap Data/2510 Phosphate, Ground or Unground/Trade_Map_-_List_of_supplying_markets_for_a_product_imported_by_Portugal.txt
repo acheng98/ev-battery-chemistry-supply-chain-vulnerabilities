@@ -1,0 +1,11 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	91124	No Quantity	No Quantity	No Quantity	No Quantity	
+"Morocco"	47244	64663	No Quantity	21948	22568	
+"Algeria"			5488	28284	22136	
+"Spain"	210	229	231	186	346	
+"Belgium"	8	1	1	1	3	
+"France"	57	607	235	13	No Quantity	
+"Finland"		0				
+"Israel"	43605	10996	39746	32012		
+"Egypt"			4405			
+"United States of America"		No Quantity	No Quantity			

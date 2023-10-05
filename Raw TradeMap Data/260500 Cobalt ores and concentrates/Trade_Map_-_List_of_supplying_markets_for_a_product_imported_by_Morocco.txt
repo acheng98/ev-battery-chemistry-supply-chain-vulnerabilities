@@ -1,0 +1,9 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	1148	6847	7400	7157		
+"Congo, Democratic Republic of the"	1070	5286	7025	6881		
+"Congo"		1026				
+"Japan"		102	375			
+"Taipei, Chinese"		302				
+"Russian Federation"	78					
+"Turkey"				276		
+"Zambia"		132				

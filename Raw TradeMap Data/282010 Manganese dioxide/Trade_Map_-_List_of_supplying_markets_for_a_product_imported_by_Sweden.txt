@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	0	38	51	57	51	
+"Germany"	0	37	41	57	51	
+"Netherlands"			10			
+"United States of America"		1				

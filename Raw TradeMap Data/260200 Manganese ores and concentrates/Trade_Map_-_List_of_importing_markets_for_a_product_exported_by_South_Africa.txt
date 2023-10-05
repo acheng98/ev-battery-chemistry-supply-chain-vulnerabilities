@@ -1,0 +1,56 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	15493962	17547477	19689602	19858832	22102555	
+"China"	8545875	10888248	13683469	14129281	13735764	
+"India"	1951038	1495974	1731180	1867530	3339119	
+"Singapore"	230223	457970	200187	585584	833527	
+"Korea, Republic of"	499568	571865	390850	405049	698528	
+"Japan"	722544	764504	703517	308145	588417	
+"Malaysia"	781889	632654	721076	609343	473371	
+"Russian Federation"	487904	547127	562754	283747	471852	
+"Latvia"	214697	157170	97100	367201	415274	
+"Norway"	454599	498411	463726	459000	393900	
+"France"	253644	183253	203031	142379	210078	
+"Spain"	206821	230548	162029	127482	141691	
+"United States of America"	23927	117099	5588	76771	133557	
+"Saudi Arabia"	182045	156488	207021	132500	132088	
+"Seychelles"	2634	2583	2640		117470	
+"Indonesia"	10				85200	
+"Hong Kong, China"	1512	121468	99720	105919	84787	
+"Poland"	110436	45312	47500	30800	80800	
+"Australia"	118647	116661	49813	46870	51263	
+"Mozambique"		70	110	15399	23996	
+"Netherlands"	21735	25550	43172	25158	21373	
+"Viet Nam"	22768		6242	2750	21000	
+"Pakistan"	474			74808	11550	
+"United Arab Emirates"	227597	82750	4619	5294	11055	
+"Switzerland"	3382	21218	11205	28	10001	
+"Mauritius"			2720		6390	
+"United Kingdom"	1400	3641	3100	1958	4304	
+"Belgium"			1098	3902	3227	
+"Iran, Islamic Republic of"					2338	
+"Mexico"	10117	535		36	181	
+"Colombia"			4995		112	
+"Finland"					94	
+"Botswana"					60	
+"Canada"		2167			40	
+"Area Nes"		2310	1190	292	38	
+"Congo, Democratic Republic of the"	0	1	55	2	27	
+"Congo"				27	27	
+"Italy"		216		513	27	
+"Germany"			138		24	
+"Eswatini"	7	14	10	7	5	
+"Namibia"			108	30	1	
+"Lesotho"			1		0	
+"Korea, Democratic People's Republic of"	100					
+"Ukraine"	274210	252477	150250			
+"Bangladesh"			200	1068		
+"Brazil"	94138	81173	63497	18		
+"Georgia"	50000	87500	61000			
+"Kenya"				38		
+"Lithuania"				49900		
+"Taipei, Chinese"		4				
+"Oman"			2694			
+"New Zealand"	20		513			
+"Zimbabwe"	3	480				
+"Sweden"		21	1485			
+"Zambia"				3		

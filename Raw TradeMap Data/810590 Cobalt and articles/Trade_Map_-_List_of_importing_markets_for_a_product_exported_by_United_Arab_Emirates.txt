@@ -1,0 +1,57 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	0	1	1	3	2	
+"Turkmenistan"	0	0	0	0	0	
+"Ukraine"					0	
+"Algeria"			0	0	0	
+"Angola"			0	0	0	
+"Azerbaijan"			0	0	0	
+"Australia"		0	0	0	0	
+"Bahrain"			0	0	0	
+"Cameroon"			0	0	0	
+"China"		0	0	0	0	
+"Congo"				0	0	
+"France"			0		0	
+"Gabon"			0	0	0	
+"Germany"				0	0	
+"Ghana"				0	0	
+"Hong Kong, China"		0	0	0	0	
+"Indonesia"			0	0	0	
+"Iraq"		0	0	0	0	
+"Kazakhstan"		0	0	0	0	
+"Kenya"					0	
+"Kuwait"		0	0	0	0	
+"Libya, State of"					0	
+"Malaysia"		0	0	0	0	
+"Mexico"				0	0	
+"Oman"		0	0	0	0	
+"Nigeria"				0	0	
+"Norway"		0	0	0	0	
+"Pakistan"		0	0	0	0	
+"Romania"			0	0	0	
+"Russian Federation"		0	0	0	0	
+"Saudi Arabia"		0	0	1	0	
+"India"		0	0	0	0	
+"South Africa"					0	
+"Thailand"		0	0	0	0	
+"Turkey"					0	
+"Egypt"				0	0	
+"United Kingdom"			0	0	0	
+"United States of America"		0	0	0	0	
+"Equatorial Guinea"				0		
+"Korea, Republic of"		0	0			
+"Argentina"				0		
+"Bangladesh"				0		
+"Canada"				0		
+"Colombia"			0	0		
+"Ecuador"			0			
+"Ethiopia"				0		
+"Iran, Islamic Republic of"	0	0	0			
+"Japan"				0		
+"Taipei, Chinese"		0	0			
+"New Zealand"				0		
+"Papua New Guinea"		0				
+"Peru"				0		
+"Qatar"		0				
+"Singapore"		0		0		
+"Trinidad and Tobago"				0		
+"Tanzania, United Republic of"				0		

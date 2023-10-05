@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	77			20		
+"Brazil"	3					
+"China"	34					
+"Hong Kong, China"				20		
+"Taipei, Chinese"	40					

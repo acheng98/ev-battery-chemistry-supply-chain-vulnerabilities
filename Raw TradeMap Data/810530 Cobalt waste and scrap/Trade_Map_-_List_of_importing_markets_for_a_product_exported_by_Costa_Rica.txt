@@ -1,0 +1,5 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, 	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"				18	34	
+"Canada"					22	
+"Spain"					11	
+"United States of America"				18		

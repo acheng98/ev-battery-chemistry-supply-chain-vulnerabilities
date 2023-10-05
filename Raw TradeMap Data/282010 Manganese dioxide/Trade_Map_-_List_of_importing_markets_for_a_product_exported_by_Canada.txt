@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	3		0	5	281	
+"Belgium"					215	
+"United States of America"	3			5	66	
+"Mali"			0			

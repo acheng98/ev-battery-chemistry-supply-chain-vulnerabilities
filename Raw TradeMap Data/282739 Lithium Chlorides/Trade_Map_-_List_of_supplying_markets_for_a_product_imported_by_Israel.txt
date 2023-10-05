@@ -1,0 +1,31 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	
+"World"	1501	1734	2633	2190	No Quantity	
+"Korea, Republic of"	47	73	70	45	No Quantity	
+"Area Nes"				6		
+"Austria"				5		
+"Belgium"	10	15	17	9	No Quantity	
+"Canada"				1		
+"China"	15	55	18	46	No Quantity	
+"Ecuador"		6				
+"Finland"	23					
+"France"	2	3	32	78	No Quantity	
+"Germany"	258	232	491	265	No Quantity	
+"Greece"			1	1		
+"Hong Kong, China"	55	17	7	1	No Quantity	
+"Ireland"				1		
+"Italy"	18	8	7	4	No Quantity	
+"Jordan"		145	156	26	No Quantity	
+"Malta"	1	1		1	No Quantity	
+"Taipei, Chinese"	7	3		18		
+"Netherlands"		12				
+"Russian Federation"		1	4		No Quantity	
+"India"	35	90	233	162	No Quantity	
+"Singapore"		20	9			
+"South Africa"		73				
+"Spain"	15	13	2	166	No Quantity	
+"Sweden"					No Quantity	
+"Switzerland"	5	8	2	18		
+"Turkey"	112	108	138	46	No Quantity	
+"Egypt"	597	467	415	441	No Quantity	
+"United Kingdom"	70	74	48	17	No Quantity	
+"United States of America"	231	312	983	835	No Quantity	

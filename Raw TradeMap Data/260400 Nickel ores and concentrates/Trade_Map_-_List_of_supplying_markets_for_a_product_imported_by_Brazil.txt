@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		658	484	168	454	
+"United States of America"		191	241	168	165	
+"Malaysia"		21	20		117	
+"Netherlands"		346			98	
+"Canada"					75	
+"Japan"		100	202			
+"Singapore"			21			

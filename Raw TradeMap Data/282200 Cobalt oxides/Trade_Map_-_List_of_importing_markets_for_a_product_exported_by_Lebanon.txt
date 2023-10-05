@@ -1,0 +1,3 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, 	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"				7	1	
+"Syrian Arab Republic"				7	1	

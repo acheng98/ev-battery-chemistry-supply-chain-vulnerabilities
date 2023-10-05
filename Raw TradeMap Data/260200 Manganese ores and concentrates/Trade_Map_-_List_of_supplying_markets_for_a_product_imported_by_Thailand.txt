@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	36428	71362	135616	73199	21709	
+"Myanmar"	36388	71239	135543	73146	21661	
+"Netherlands"	14	53	32		42	
+"China"	9	33	25	25	6	
+"Taipei, Chinese"		1	4	1	1	
+"Gabon"		30		28		
+"Germany"		6	12			
+"Turkey"	17					
+"United States of America"		0	0			

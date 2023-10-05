@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"		3	7	0	20	
+"China"					16	
+"Korea, Republic of"					4	
+"Hong Kong, China"					0	
+"India"			0	0	0	
+"Viet Nam"					0	
+"Germany"				0		
+"Japan"		0				
+"Taipei, Chinese"		3	7			
+"Singapore"				0		

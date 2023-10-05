@@ -1,0 +1,16 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	0	40	108	1037	2973	
+"Zambia"					951	
+"Japan"				380	761	
+"India"			0	0	656	
+"Korea, Republic of"			22	342	602	
+"China"			0	4	3	
+"Germany"	0		0		1	
+"Sweden"					0	
+"United States of America"	0	40	23		0	
+"Area Nes"				0		
+"Netherlands"			62			
+"Poland"	0	0	0			
+"South Africa"				312		
+"Spain"		0				
+"United Kingdom"	0		0			

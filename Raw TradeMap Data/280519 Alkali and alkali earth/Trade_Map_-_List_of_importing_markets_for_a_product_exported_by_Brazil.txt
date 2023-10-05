@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"		10	19	12	13	
+"Singapore"		6	7	7	9	
+"Pakistan"					5	
+"Bolivia, Plurinational State of"		4	12	5	0	

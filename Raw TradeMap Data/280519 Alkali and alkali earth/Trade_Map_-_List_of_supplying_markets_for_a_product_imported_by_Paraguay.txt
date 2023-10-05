@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"			18			
+"Argentina"			0			
+"China"			18			

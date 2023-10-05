@@ -1,0 +1,6 @@
+Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	220	133	78	160	168	
+"China"	10	0			100	
+"Spain"	209	133	77	95	67	
+"Taipei, Chinese"	1		1	2	1	
+"Thailand"				63		

@@ -1,0 +1,12 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	459	161		1		
+"Korea, Republic of"	24					
+"Belgium"	20					
+"China"	104					
+"Colombia"	30					
+"Costa Rica"		0				
+"Guatemala"		0				
+"Honduras"	0	0				
+"Netherlands"	214	161				
+"United Kingdom"	66					
+"United States of America"	0	0		1		

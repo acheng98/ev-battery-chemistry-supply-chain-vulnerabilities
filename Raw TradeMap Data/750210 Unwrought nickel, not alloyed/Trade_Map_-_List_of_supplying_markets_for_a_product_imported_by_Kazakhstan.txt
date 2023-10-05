@@ -1,0 +1,10 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	39	24	32	18	34	
+"Russian Federation"	19	24	22	18	22	
+"Australia"					12	
+"United Kingdom"					0	
+"United States of America"					0	
+"Finland"			10			
+"France"	0					
+"Madagascar"	20					
+"Turkey"		0				

@@ -1,0 +1,18 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	171	182	195	227	255	
+"Ireland"	65	57	58	81	91	
+"United Kingdom"	86	88	94	95	81	
+"France"	3	6	9	3	37	
+"Belgium"	14	15	21	16	24	
+"Italy"	0	14	10	9	8	
+"Germany"	2	1	1	21	7	
+"Turkey"		0	2	2	5	
+"Hungary"				0	2	
+"Portugal"					1	
+"Austria"	0	0	0	0	0	
+"Czech Republic"	0		0			
+"Denmark"	0					
+"Poland"		2				
+"Romania"			0			
+"Serbia"		0				
+"Slovenia"	1					

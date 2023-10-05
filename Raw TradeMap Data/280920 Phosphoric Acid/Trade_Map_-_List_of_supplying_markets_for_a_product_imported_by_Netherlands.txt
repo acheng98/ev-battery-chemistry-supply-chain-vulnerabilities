@@ -1,0 +1,49 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	372317	379443	375168	294077	350207	
+"Israel"	215058	252626	254521	194241	170032	
+"Belgium"	16901	13573	89370	82740	85392	
+"China"	1660	3385	2741	2590	36426	
+"Morocco"	116454	75204	16411		14977	
+"United Kingdom"	35	286	21	821	14662	
+"Germany"	2691	2926	1061	2017	4976	
+"India"				255	3520	
+"Poland"	2422	2356	2005	2943	3153	
+"Finland"	14998	24183	6548	7	3054	
+"Turkey"	1		0	0	3034	
+"Spain"	5	7	7	16	2515	
+"South Africa"		2527		4459	2504	
+"United States of America"	402	414	280	380	1349	
+"Italy"	15	31	15	20	1309	
+"Slovenia"	2	5	3	1	903	
+"Czech Republic"	1415	1613	2031	3245	545	
+"Bulgaria"	6	9	8	13	329	
+"France"	128	139	47	192	280	
+"Serbia"					238	
+"Greece"	2	1	1	1	167	
+"Denmark"	2	6	6	18	149	
+"Lithuania"	0	0	2	6	148	
+"Sweden"	20	130	2	7	71	
+"Austria"	2	8	1	3	60	
+"Ireland"	0	0	2	1	56	
+"Iceland"	79		57	46	53	
+"Portugal"	4	0		2	49	
+"Romania"	1	0	2	3	45	
+"Hungary"	1	2	2	6	40	
+"Tunisia"					38	
+"Hong Kong, China"					34	
+"Luxembourg"	0	11	8	1	26	
+"Slovakia"	2			2	23	
+"Estonia"	0	1	0	0	19	
+"Croatia"			0	0	16	
+"Latvia"	1			1	9	
+"Cyprus"		0		1	3	
+"Canada"				0	1	
+"Taipei, Chinese"					1	
+"Switzerland"	8		10	36	1	
+"Australia"					0	
+"Malta"	0	0	0	0	0	
+"Korea, Republic of"				0		
+"Lebanon"				1		
+"Norway"				0		
+"Singapore"			1			
+"Egypt"			4			

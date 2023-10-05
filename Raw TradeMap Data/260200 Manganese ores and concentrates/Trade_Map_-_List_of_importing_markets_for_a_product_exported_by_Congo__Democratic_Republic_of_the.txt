@@ -1,0 +1,6 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"			9141	140	2319	
+"Angola"			9049		1679	
+"China"					640	
+"India"				140		
+"Zambia"			92			

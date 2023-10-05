@@ -1,0 +1,41 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity	2019-Unit	2020-Imported quantity	2020-Unit	2021-Imported quantity	2021-Unit	
+"World"	7451	6801	9142	Tons	14658	Tons	20620	Tons	
+"Taipei, Chinese"	254	134	170	Tons	1401	Tons	5208	Tons	
+"Viet Nam"		10			144	Tons	2640	Tons	
+"Finland"	1703	857	2300	Tons	7898	Tons	2210	Tons	
+"Korea, Republic of"	503	431	368	Tons	1499	Tons	2172	Tons	
+"China"	62	311	3172	Tons	1096	Tons	1970	Tons	
+"United States of America"	1052	985	1162	Tons	1150	Tons	1766	Tons	
+"Thailand"	280	2	4	Tons	182	Tons	1712	Tons	
+"South Africa"	1840	1900	500	Tons	260	Tons	720	Tons	
+"Japan"	569	375	321	Tons	490	Tons	552	Tons	
+"Canada"	168	24	228	Tons	12	Tons	432	Tons	
+"Malaysia"	45	99	127	Tons	39	Tons	392	Tons	
+"Chile"					6	Tons	360	Tons	
+"Germany"	460	440	264	Tons	236	Tons	213	Tons	
+"Singapore"		7			9	Tons	114	Tons	
+"United Kingdom"	9	50	19	Tons	15	Tons	112	Tons	
+"India"	100	350	0	Tons	0	Mixed	16	Tons	
+"Czech Republic"	6	21	6	Tons	13	Tons	7	Tons	
+"Switzerland"	2	1	2	Tons	0	Mixed	3	Tons	
+"Ukraine"	0	2	0	Tons	1	Tons	0	Mixed	
+"Australia"		0					0	Tons	
+"Brazil"					1	Tons	0	Tons	
+"Hong Kong, China"		0			0	Tons	0	Tons	
+"Italy"	28	8	11	Tons	8	Tons	0	Tons	
+"Mexico"	3	0	0	Tons			0	Mixed	
+"Netherlands"	0				0	Tons	0	Tons	
+"Spain"	0	0	0	Mixed	0	Mixed	0	Mixed	
+"Belgium"	2	2	1	Tons					
+"Costa Rica"					0	Tons			
+"Croatia"		0	0	Mixed	0	Mixed			
+"Estonia"	44								
+"France"	0	0	0	Tons	No Quantity	No Quantity	No Quantity	No Quantity	
+"Israel"			0	Tons					
+"Kazakhstan"	220	792	484	Tons	190	Tons			
+"New Zealand"					0	Mixed			
+"Peru"			0	Tons					
+"Romania"			1	Tons					
+"Russian Federation"		0	No Quantity	No Quantity	No Quantity	No Quantity			
+"Serbia"	103								
+"Sweden"			No Quantity	No Quantity					

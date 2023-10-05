@@ -1,0 +1,38 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	37809	36635	32808	30162	37396	
+"Norway"	6961	6274	5907	5436	6326	
+"Japan"	2516	1611	2847	3318	4122	
+"Netherlands"	51	3045	3682	1753	3913	
+"United Arab Emirates"	71	640	455	664	3741	
+"South Africa"	4266	3951	3997	3111	3729	
+"Russian Federation"	5305	2457	1203	1688	2938	
+"Canada"	3677	1636	1443	2462	2635	
+"Korea, Republic of"	1054	1377	1829	1514	1745	
+"United Kingdom"	1082	1586	1068	863	1667	
+"France"	10	32	1095	659	1332	
+"Singapore"	48	846	1331	1573	1213	
+"Switzerland"		1301	312	713	1137	
+"Australia"	9105	4722	1288	1393	937	
+"China"	445	1374	2811	2252	608	
+"Belgium"	119	42	82	296	583	
+"Malaysia"	429	1630	2514	560	301	
+"Luxembourg"		24	48	24	120	
+"Taipei, Chinese"	48	2765	290	995	114	
+"United States of America"	82	465	274	329	79	
+"Brazil"	636			82	70	
+"Spain"					24	
+"Hong Kong, China"	15	350	111	98	20	
+"Indonesia"					20	
+"Germany"	9	8	7	2	9	
+"Israel"			3	5	7	
+"Slovenia"	3	3	6	4	4	
+"Turkey"	1	2	0	1	1	
+"Bulgaria"	0	1	0	0	0	
+"Italy"	3	3	0		0	
+"Sri Lanka"			0			
+"Finland"	186	441	132	342		
+"Madagascar"	1500					
+"Zimbabwe"	124	24	48			
+"Eswatini"				24		
+"Sweden"	3	26	23			
+"Macedonia, North"	60					

@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	5	4	2	14	6	
+"Belgium"	4	4	2	8	4	
+"Singapore"					2	
+"Germany"	1			6		

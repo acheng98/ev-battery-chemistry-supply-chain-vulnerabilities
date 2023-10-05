@@ -1,0 +1,24 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	7	9	18	3	13	
+"Oman"			10	1	12	
+"Saudi Arabia"				0	0	
+"Congo, Democratic Republic of the"			1			
+"Djibouti"	0					
+"Afghanistan"	2			1		
+"Bahrain"	0		6			
+"Bangladesh"	0					
+"Canada"	0					
+"Sri Lanka"	0					
+"France"		0	0			
+"Hong Kong, China"				0		
+"Iraq"	0	0	0			
+"Kenya"	3	1	1			
+"Kuwait"	0					
+"Malaysia"		1				
+"Maldives"	0					
+"India"		7				
+"South Africa"	0					
+"Uganda"	0					
+"United Kingdom"	0	0				
+"United States of America"	1	0		0		
+"Zambia"	0					

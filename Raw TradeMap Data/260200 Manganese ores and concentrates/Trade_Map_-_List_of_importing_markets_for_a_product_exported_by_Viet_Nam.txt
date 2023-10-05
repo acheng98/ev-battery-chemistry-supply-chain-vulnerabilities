@@ -1,0 +1,3 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, 	
+"World"		554				
+"Papua New Guinea"		554				

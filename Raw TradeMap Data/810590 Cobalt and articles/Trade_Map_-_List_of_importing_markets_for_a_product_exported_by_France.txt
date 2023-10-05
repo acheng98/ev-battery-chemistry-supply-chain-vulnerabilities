@@ -1,0 +1,84 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	244	320	265	177	149	
+"Switzerland"	18	19	27	22	25	
+"United Kingdom"	15	26	30	16	20	
+"Germany"	67	58	48	34	18	
+"India"	7	6	11	2	10	
+"United States of America"	21	29	64	39	10	
+"Italy"	15	18	7	11	9	
+"China"	17	8	34	13	6	
+"Croatia"	2	0	1	2	6	
+"Morocco"	7	0	0	0	5	
+"Czech Republic"	2	3	2	2	4	
+"Spain"	3	3	4	2	4	
+"Slovakia"	4	4	3	3	3	
+"Belgium"	1	1	1	1	2	
+"Congo"	1	2	1	2	2	
+"Indonesia"	1	4	1		2	
+"Japan"	0	1	4	3	2	
+"Luxembourg"	2	2	2	2	2	
+"Poland"	2	1	1	1	2	
+"Slovenia"	1	2	0	0	2	
+"Turkey"	5	3	2	2	2	
+"Korea, Republic of"	36	96	2	3	1	
+"Australia"	1	0	1	1	1	
+"Austria"	0	4	0	0	1	
+"Denmark"	1	1	1	1	1	
+"Finland"	0	1	0	0	1	
+"Hungary"	3	3	1	0	1	
+"Latvia"	0	0	0	1	1	
+"Peru"	0	1	1	1	1	
+"Portugal"	0	1	1	1	1	
+"South Africa"	0	0	1	0	1	
+"Montenegro"				0	0	
+"Algeria"			0		0	
+"Brazil"	1	0	0	0	0	
+"Bulgaria"	0	0	0		0	
+"Belarus"	0				0	
+"Colombia"	0	0	0		0	
+"Estonia"	0	0	0	0	0	
+"Gabon"	4	3	4	3	0	
+"Ghana"	0	0	0	0	0	
+"Greece"	0	0	0	0	0	
+"Hong Kong, China"	0	0	0	0	0	
+"Iraq"					0	
+"Ireland"	0	0	0	0	0	
+"Israel"	0	0	2	0	0	
+"Lithuania"	0	0	1	0	0	
+"Malaysia"	0	1	1	1	0	
+"Mexico"		0	0	0	0	
+"Taipei, Chinese"		0	0	0	0	
+"Netherlands"	1	1	0	0	0	
+"New Caledonia"			0		0	
+"New Zealand"	1	1	0	0	0	
+"Romania"	0	1	0	2	0	
+"Russian Federation"	2	1	2	0	0	
+"Singapore"	0	0	2	0	0	
+"Viet Nam"	0				0	
+"Sweden"	2	0	0	0	0	
+"Thailand"		0	0	0	0	
+"United Arab Emirates"		0	0	0	0	
+"Tunisia"	0	7	0	0	0	
+"Uruguay"		0	0	0	0	
+"Congo, Democratic Republic of the"		0				
+"Ukraine"				0		
+"Area Nes"			0			
+"Argentina"	0	0	0	0		
+"Myanmar"	0	0		0		
+"Cameroon"	1					
+"Canada"	0	0	0			
+"Chile"	0		0			
+"Costa Rica"	0		0	0		
+"Iran, Islamic Republic of"	0					
+"Côte d'Ivoire"		2	1	0		
+"Madagascar"		0	0			
+"Mauritius"		0				
+"Nigeria"				0		
+"Norway"			1			
+"Pakistan"			0			
+"Panama"	0					
+"Philippines"		0				
+"Qatar"				0		
+"Senegal"	0					
+"Serbia"				0		
+"Togo"		0				

@@ -1,0 +1,7 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"	1	1	33			
+"Belgium"			33			
+"China"		1				
+"Netherlands"	1		0			
+"Portugal"		0				
+"South Africa"		0				

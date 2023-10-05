@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, 	2021-Imported quantity, Tons	
+"World"					1524	
+"Viet Nam"					1334	
+"Malaysia"					191	

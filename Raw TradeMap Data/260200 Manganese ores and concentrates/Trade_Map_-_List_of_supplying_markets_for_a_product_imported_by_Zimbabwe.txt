@@ -1,0 +1,6 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	
+"World"	0	8	90	10		
+"Hong Kong, China"	0					
+"Mozambique"			60			
+"South Africa"		3				
+"Zambia"		5	30	10		

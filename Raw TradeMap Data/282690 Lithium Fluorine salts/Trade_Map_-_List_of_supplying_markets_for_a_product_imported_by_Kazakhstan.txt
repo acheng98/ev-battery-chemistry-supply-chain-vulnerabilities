@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	71	8	76	100	27	
+"Russian Federation"	71	8	76	100	27	
+"United States of America"					0	
+"Germany"				0		

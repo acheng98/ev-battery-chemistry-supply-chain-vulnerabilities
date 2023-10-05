@@ -1,0 +1,7 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, 	2022-Imported quantity, Tons	
+"World"	2	0	1973		0	
+"Germany"			0		0	
+"Brazil"			1973			
+"Mexico"	1					
+"Spain"	1					
+"United States of America"	0	0	0			

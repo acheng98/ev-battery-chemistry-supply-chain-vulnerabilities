@@ -1,0 +1,9 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	45	26	74	50	56	
+"Peru"	39	24	66	47	44	
+"China"		1			5	
+"France"					5	
+"Turkey"			2	2	1	
+"Brazil"				0		
+"Spain"	5		5			
+"United States of America"		0	1	0		

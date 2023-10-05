@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	84002	72564	218277	189675	294985	
+"Syrian Arab Republic"		28084	96277	189675	294985	
+"Jordan"			81000			
+"India"		480				
+"South Africa"			41000			
+"United Arab Emirates"	2					
+"Turkey"	84000	44000				

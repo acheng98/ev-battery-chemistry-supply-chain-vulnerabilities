@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1	1	121	2027	1461	
+"China"			121	433	1249	
+"Thailand"	1	1	0	1594	212	
+"Czech Republic"			0			

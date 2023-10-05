@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"	2	15	20			
+"Bulgaria"	2	15	10			
+"Romania"			10			

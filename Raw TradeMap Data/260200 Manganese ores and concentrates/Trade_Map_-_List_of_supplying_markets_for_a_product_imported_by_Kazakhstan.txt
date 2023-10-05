@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	28	28	49	804	30	
+"Russian Federation"	28	28	49	114	26	
+"China"					3	
+"Georgia"				690		

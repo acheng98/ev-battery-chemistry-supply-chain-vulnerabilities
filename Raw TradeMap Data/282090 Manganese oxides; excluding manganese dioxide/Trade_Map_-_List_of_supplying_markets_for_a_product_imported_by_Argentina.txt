@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	1749	1264	1557	2018	1353	
+"Brazil"	1419	1231	1549	2015	1347	
+"Canada"			1		4	
+"Belgium"	3	2	3	3	3	
+"China"	27					
+"Germany"	1	2				
+"Mexico"	24	24				
+"India"	275					
+"South Africa"		3	4			
+"United States of America"	0	3				

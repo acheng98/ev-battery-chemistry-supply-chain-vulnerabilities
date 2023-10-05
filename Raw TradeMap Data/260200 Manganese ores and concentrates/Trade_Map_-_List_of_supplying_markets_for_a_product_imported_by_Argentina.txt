@@ -1,0 +1,4 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	19572	34314	12242	19661	36896	
+"Brazil"	19572	34314	12242	19650	36896	
+"Spain"				11		

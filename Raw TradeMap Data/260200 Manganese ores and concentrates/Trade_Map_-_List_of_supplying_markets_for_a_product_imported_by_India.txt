@@ -1,0 +1,45 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	3353938	2749784	2861114	3507750	5969658	
+"South Africa"	1910533	1354545	1379785	1615177	2564404	
+"Gabon"	451617	253935	225280	554906	1201545	
+"United Arab Emirates"		120200	107562	262883	628293	
+"Australia"	476381	263975	392200	537703	583886	
+"Singapore"	4872	111211	164371	191040	343245	
+"Brazil"	179578	183265	233285	43948	228055	
+"Côte d'Ivoire"	220644	209174	148632	122682	136464	
+"France"		29450	34030	40323	130376	
+"Hong Kong, China"		37054	62404	49745	74711	
+"Tanzania, United Republic of"	4147	46908	32227	10284	15347	
+"Switzerland"		1940	3004	5415	14061	
+"Mozambique"			144	742	12075	
+"Zambia"	30648	28822	39798	13358	11408	
+"Togo"				2988	10635	
+"Kenya"	614	1416	2988	1244	4510	
+"China"	50	100	1500	7001	4218	
+"Peru"	1581	201	54	167	1701	
+"Seychelles"				1290	1644	
+"Senegal"	3010	7740	4637	1527	1448	
+"Oman"	110				910	
+"Belgium"				106	395	
+"Congo"		2023			271	
+"Indonesia"	715	2002	55	28	55	
+"Germany"					0	
+"United States of America"		0	172	10	0	
+"Albania"			735			
+"Angola"		4894		245		
+"Myanmar"	4867		2890			
+"Congo, Democratic Republic of the"		2682				
+"Iran, Islamic Republic of"	213					
+"Korea, Republic of"		14714				
+"Malaysia"	55788					
+"Morocco"	511	1449		24		
+"Netherlands"	21	50	20	2		
+"Nigeria"			175	25		
+"Pakistan"	509	100				
+"Philippines"			131			
+"Portugal"			27			
+"Turkey"	3500	3403	3311			
+"Egypt"	4030	2513		196		
+"United Kingdom"				1038		
+"Burkina Faso"			2508	2391		
+"Uruguay"		66019	19188	41261		

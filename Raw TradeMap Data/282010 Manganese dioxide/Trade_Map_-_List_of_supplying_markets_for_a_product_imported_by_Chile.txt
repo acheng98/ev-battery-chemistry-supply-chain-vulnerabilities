@@ -1,0 +1,10 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		79	28	222	74	
+"Brazil"				160	25	
+"China"			5	25	25	
+"Spain"		45			21	
+"Area Nes"			0		1	
+"Australia"				8		
+"Peru"				12		
+"India"				6		
+"South Africa"		22	21	10		

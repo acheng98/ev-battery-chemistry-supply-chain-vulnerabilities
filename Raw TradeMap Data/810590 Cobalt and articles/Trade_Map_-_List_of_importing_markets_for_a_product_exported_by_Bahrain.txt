@@ -1,0 +1,4 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	0	0	0	265	264	
+"Germany"				265	264	
+"Saudi Arabia"	0	0	0	0		

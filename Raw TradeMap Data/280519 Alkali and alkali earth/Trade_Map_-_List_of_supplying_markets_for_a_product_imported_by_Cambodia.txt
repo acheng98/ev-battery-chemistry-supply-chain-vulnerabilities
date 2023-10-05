@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	20	26	26	103	276	
+"Viet Nam"				77	271	
+"Taipei, Chinese"					4	
+"Thailand"	1	1	1	2	1	
+"China"	19	25	25	24		

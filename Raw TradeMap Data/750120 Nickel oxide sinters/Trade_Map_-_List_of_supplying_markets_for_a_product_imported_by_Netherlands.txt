@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	463	484	681	448	957	
+"Japan"	444	482	680	446	760	
+"Area Nes"					144	
+"Indonesia"					40	
+"United States of America"					10	
+"Australia"					3	
+"Germany"		1				
+"Taipei, Chinese"			1			
+"New Caledonia"	19					
+"United Kingdom"		1		2		

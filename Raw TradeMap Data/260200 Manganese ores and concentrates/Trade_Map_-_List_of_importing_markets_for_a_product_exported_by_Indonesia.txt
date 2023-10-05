@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	3685	4565	138	2558	1925	
+"Iran, Islamic Republic of"	2723	2833	83	2475	1925	
+"India"	963	1733	55	83		

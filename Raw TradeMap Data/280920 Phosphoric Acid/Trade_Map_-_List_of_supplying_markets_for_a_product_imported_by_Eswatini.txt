@@ -1,0 +1,8 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	3375	3570	4458	4010	3553	
+"South Africa"	1399	1462	1995	1674	1128	
+"Israel"	858	847	930	855	866	
+"Belgium"	786	761	881	456	833	
+"Morocco"	332	496	636	1024	726	
+"China"			0			
+"Taipei, Chinese"		4	16			

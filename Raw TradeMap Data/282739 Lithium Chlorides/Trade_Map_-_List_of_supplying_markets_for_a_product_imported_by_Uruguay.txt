@@ -1,0 +1,13 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	38	232	107	82	166	
+"Argentina"	26	197	70	36	97	
+"United States of America"	11	20	21	24	45	
+"Germany"	0	13	12	10	11	
+"India"		0	5	0	8	
+"France"	0	2	0	0	4	
+"China"		0	0	0	1	
+"European Union Nes"		0	0	0	0	
+"Hong Kong, China"					0	
+"Mexico"	0	0		0	0	
+"United Kingdom"					0	
+"Brazil"				11		

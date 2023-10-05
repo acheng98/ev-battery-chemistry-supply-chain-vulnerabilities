@@ -1,0 +1,18 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	122	24	2	10	259	
+"Colombia"	18				226	
+"Costa Rica"	2	0	0		15	
+"Germany"	0	0	0	1	10	
+"China"	94	22	2	3	8	
+"France"					0	
+"Japan"					0	
+"Spain"					0	
+"United States of America"	1	0	0		0	
+"Korea, Democratic People's Republic of"	1					
+"Korea, Republic of"		1				
+"Denmark"				0		
+"Honduras"	6					
+"Italy"		0				
+"Mexico"		1		2		
+"Russian Federation"				4		
+"India"		0				

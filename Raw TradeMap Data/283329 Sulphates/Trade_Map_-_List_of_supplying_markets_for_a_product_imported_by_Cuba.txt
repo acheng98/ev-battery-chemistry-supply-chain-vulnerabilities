@@ -1,0 +1,15 @@
+﻿Exporters	2014-Imported quantity, 	2015-Imported quantity, 	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	
+"World"			12397	14280	14680	
+"Belgium"			3617	10740	7998	
+"Spain"			6073	2401	5003	
+"Turkey"				600	900	
+"China"			522	538	719	
+"France"			2180		26	
+"Mexico"			5	0	19	
+"India"					15	
+"Area Nes"			0		0	
+"Germany"			0	0	0	
+"Korea, Democratic People's Republic of"			0			
+"Korea, Republic of"				0		
+"Italy"			0	1		
+"Netherlands"			0	0		

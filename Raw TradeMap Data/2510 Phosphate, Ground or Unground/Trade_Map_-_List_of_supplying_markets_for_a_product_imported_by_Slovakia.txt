@@ -1,0 +1,8 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	1035	1688	1588	255	251	
+"Austria"	840	1560	1405	157	117	
+"France"	87	72	72	72	49	
+"Czech Republic"	32	1	111		43	
+"Germany"	75	55	0	0	41	
+"Europe Othr. Nes"				25	1	
+"Romania"				0		

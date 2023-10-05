@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, 	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"		9317	59896	178	95	
+"Netherlands"		12	107	178	95	
+"Guatemala"			51788			
+"Turkey"		9305				
+"Ukraine"			8001			

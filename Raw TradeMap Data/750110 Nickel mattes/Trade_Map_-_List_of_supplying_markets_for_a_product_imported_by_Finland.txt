@@ -1,0 +1,5 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	102343	116421	No Quantity	121031	127291	
+"Russian Federation"	102343	116421	No Quantity	121031	127291	
+"Japan"					0	
+"Norway"				0		

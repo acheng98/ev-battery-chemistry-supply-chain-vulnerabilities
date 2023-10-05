@@ -1,0 +1,5 @@
+﻿Exporters	2014-Imported quantity, Tons	2015-Imported quantity, Tons	2016-Imported quantity, 	2017-Imported quantity, 	2018-Imported quantity, Tons	
+"World"	13	40			41	
+"United Arab Emirates"	13	40			21	
+"United States of America"					20	
+"Spain"	0					

@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, 	2021-Imported quantity, 	
+"World"	0	46	509			
+"Australia"			1			
+"Germany"	0					
+"Slovenia"		46				
+"Spain"			508			

@@ -1,0 +1,53 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	971	2150	2234	3008	2844	
+"Canada"	40	248	515	538	600	
+"Morocco"	68	128	111	200	595	
+"Belgium"	43	45	125	7	485	
+"Russian Federation"	13	7	117	186	437	
+"Norway"	331	355	318	387	163	
+"Australia"	154	110	107	176	150	
+"United States of America"	0	55	52	41	129	
+"Mexico"	30		22	41	97	
+"Turkey"			0	43	85	
+"China"	4	683	276	258	59	
+"Germany"	14	25	10	7	22	
+"Area Nes"					19	
+"Luxembourg"	4	2	3	2	3	
+"Austria"	0	0	0	0	0	
+"Bulgaria"		0			0	
+"Cyprus"					0	
+"Czech Republic"	1	0	0	0	0	
+"Denmark"	0	0	0	0	0	
+"Estonia"					0	
+"Finland"	0	0	0	0	0	
+"France"	0	6	0	0	0	
+"Greece"	0	0		0	0	
+"Hungary"	0	0	0	0	0	
+"Ireland"	0	0	0	0	0	
+"Italy"	0	0	0	0	0	
+"Latvia"	0	0	0		0	
+"Poland"	0	0	0	0	0	
+"Portugal"	0	0	0	0	0	
+"Romania"	0	0	0	0	0	
+"Serbia"					0	
+"India"					0	
+"Slovakia"	0	0	0	0	0	
+"Slovenia"	0	0	0	0	0	
+"Spain"	0	0			0	
+"Sweden"	0	0	0	0	0	
+"Ukraine"	0					
+"Brazil"	42					
+"Congo"	10					
+"Croatia"		0				
+"Hong Kong, China"		8				
+"Japan"		0		0		
+"Kenya"	1					
+"Lithuania"	0	0				
+"Madagascar"	70	1	321	750		
+"Saudi Arabia"				11		
+"South Africa"		428	89	309		
+"Switzerland"	0	0	0	0		
+"Uganda"	2	1				
+"United Kingdom"	30	14	167	55		
+"Tanzania, United Republic of"		0		0		
+"Zambia"	112	31				

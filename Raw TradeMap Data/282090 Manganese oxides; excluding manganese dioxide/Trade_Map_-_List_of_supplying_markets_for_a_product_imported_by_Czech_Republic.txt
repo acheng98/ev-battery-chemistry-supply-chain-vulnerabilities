@@ -1,0 +1,14 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	646	1042	No Quantity	1084	840	
+"Georgia"	25	225	225	525	400	
+"Belgium"	48	144	120	164	144	
+"Mexico"	384	456	96	72	144	
+"Brazil"	162	189	189	141	81	
+"France"	2	4	6	6	27	
+"Slovakia"			96	168	24	
+"Germany"				6	20	
+"China"			1		0	
+"Poland"	1					
+"Spain"	24	24	2	2		
+"United Kingdom"	0					
+"United States of America"			No Quantity			

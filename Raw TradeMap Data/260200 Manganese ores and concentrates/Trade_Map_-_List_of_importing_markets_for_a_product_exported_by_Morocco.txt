@@ -1,0 +1,18 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	79007	77856	59528	101830	79432	
+"Namibia"	30000	30000	29784	45000	53300	
+"China"	45599	40110	21137	48284	17377	
+"Germany"	1540	2005	715	2620	2764	
+"United States of America"	154	154	1833	2199	2112	
+"Russian Federation"				86	1507	
+"Niger"			1235	1700	1375	
+"Spain"	700	675	225	1484	580	
+"France"	307	384	1734	192	264	
+"Czech Republic"	70	72	72	71	96	
+"Netherlands"		570	2493	120	57	
+"Australia"		1767				
+"Italy"	50	50	25	25		
+"Japan"		498				
+"Nigeria"			275			
+"India"	511	1571		49		
+"Turkey"	75					

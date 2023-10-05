@@ -1,0 +1,18 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	31	13865	65	264	14031	
+"Papua New Guinea"		13786			13788	
+"United Arab Emirates"		0	16	20	171	
+"Egypt"					37	
+"Indonesia"				65	13	
+"Netherlands"	1	66	6		13	
+"Japan"				5	9	
+"China"	0				0	
+"France"			0		0	
+"United States of America"	0	1	0	51	0	
+"Belgium"			1			
+"Estonia"			32			
+"Germany"				11		
+"Malaysia"				25		
+"Russian Federation"	30	12				
+"Saudi Arabia"				78		
+"Turkey"			10	9		

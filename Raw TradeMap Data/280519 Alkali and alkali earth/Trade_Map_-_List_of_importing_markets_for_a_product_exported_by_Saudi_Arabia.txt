@@ -1,0 +1,7 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"		247			401	
+"Kuwait"					220	
+"Bahrain"					180	
+"Greece"		98				
+"Jordan"		50				
+"Egypt"		98				

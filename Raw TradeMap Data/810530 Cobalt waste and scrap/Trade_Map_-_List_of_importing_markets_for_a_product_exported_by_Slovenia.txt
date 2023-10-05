@@ -1,0 +1,6 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	38	52	18	19	8	
+"Malaysia"		42	18	19	8	
+"Germany"	0	1		0	0	
+"Belgium"	33	10				
+"Philippines"	4					

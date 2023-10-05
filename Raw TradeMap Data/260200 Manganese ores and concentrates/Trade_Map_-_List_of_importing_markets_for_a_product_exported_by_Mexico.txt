@@ -1,0 +1,13 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"	73000	41613				
+"China"	32050	7479				
+"Colombia"	75	25				
+"Costa Rica"	2	420				
+"France"	50	250				
+"Germany"		4				
+"Guatemala"	2230	2105				
+"Indonesia"	888	864				
+"Peru"		25				
+"Spain"	13044					
+"Egypt"	360	504				
+"United States of America"	24302	29938				

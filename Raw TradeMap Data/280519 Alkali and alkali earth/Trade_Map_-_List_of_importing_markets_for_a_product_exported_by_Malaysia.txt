@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	185	30	6	2	102	
+"Japan"					100	
+"Papua New Guinea"		13	0		2	
+"Australia"	2					
+"Hong Kong, China"		1				
+"Indonesia"		17				
+"Philippines"	1					
+"Singapore"	182		0			
+"Viet Nam"			6	2		
+"United States of America"	0					

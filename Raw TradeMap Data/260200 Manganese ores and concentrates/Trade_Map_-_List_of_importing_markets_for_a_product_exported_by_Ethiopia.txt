@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"		1500	2799			
+"China"		500	499			
+"Singapore"		1000	2000			
+"United Arab Emirates"			300			

@@ -1,0 +1,7 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	6	17	18	7	11	
+"Chile"		0			6	
+"United Kingdom"					4	
+"China"	6	15	15	3	0	
+"Russian Federation"		2		4	0	
+"India"		0	3	0	0	

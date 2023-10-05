@@ -1,0 +1,16 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, 	2021-Exported quantity, 	
+"World"	9268	No Quantity	No Quantity	No Quantity	No Quantity	
+"Thailand"					No Quantity	
+"Bangladesh"	60					
+"Sri Lanka"		No Quantity				
+"China"	40	No Quantity	No Quantity	No Quantity		
+"Hong Kong, China"	60	No Quantity				
+"Indonesia"	2292	No Quantity	No Quantity			
+"Japan"		No Quantity				
+"Malaysia"		No Quantity				
+"Nepal"		No Quantity				
+"Poland"	1704	No Quantity	No Quantity			
+"India"	4775	No Quantity	No Quantity			
+"Viet Nam"			No Quantity			
+"Egypt"	280					
+"United States of America"	57					

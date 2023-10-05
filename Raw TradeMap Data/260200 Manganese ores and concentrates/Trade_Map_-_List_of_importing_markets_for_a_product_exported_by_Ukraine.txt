@@ -1,0 +1,10 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	86535	59597	33225	69303	22184	
+"United States of America"				57033	20030	
+"Czech Republic"	18542	13606	8450	10825	1246	
+"Poland"	1122	401	1174	554	888	
+"Russian Federation"	7725	5347	1043		20	
+"Georgia"	478	2831	3260			
+"Hungary"	32842	22536	12259	891		
+"Lithuania"			23			
+"Slovakia"	25827	14877	7017			

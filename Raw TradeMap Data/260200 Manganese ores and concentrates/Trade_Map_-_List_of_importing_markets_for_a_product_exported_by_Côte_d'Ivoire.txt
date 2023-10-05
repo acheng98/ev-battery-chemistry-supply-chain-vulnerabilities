@@ -1,0 +1,8 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	
+"World"	326386	636074	1031505	1298207	1348841	
+"China"	296385	207979	654745	876460	979223	
+"United Arab Emirates"		303000	230000	211376	324500	
+"India"	30001	125096	144559	94691	45118	
+"Italy"			2200			
+"Poland"				35681		
+"Switzerland"				80000		

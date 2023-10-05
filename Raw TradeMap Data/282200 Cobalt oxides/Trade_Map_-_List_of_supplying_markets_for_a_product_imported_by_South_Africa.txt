@@ -1,0 +1,16 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	267	72	175	15	54	
+"Congo, Democratic Republic of the"	230	0	2		53	
+"Canada"					0	
+"China"	0	64	173	15	0	
+"Netherlands"				0	0	
+"United Kingdom"		0	0		0	
+"United States of America"	0		0	0	0	
+"Australia"		3				
+"Botswana"		0				
+"Dominican Republic"			0			
+"France"		4				
+"Germany"	0	0	0			
+"India"		0				
+"Spain"		0	0	0		
+"Zambia"	37		0			

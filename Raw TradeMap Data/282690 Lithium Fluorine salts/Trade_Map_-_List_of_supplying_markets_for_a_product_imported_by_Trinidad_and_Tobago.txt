@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	203	83		2876	547	
+"United States of America"	197	83		2179	547	
+"China"				359		
+"India"				338		

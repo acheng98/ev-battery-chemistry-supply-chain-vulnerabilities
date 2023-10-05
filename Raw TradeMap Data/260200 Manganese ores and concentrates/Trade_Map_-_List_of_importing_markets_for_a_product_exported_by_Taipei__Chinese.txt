@@ -1,0 +1,17 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	396	285	286	723	444	
+"Viet Nam"	132	207	207	368	375	
+"Indonesia"	42	44	23	24	47	
+"Myanmar"	25	5	55	26	20	
+"Canada"					1	
+"Philippines"	9		1	6	1	
+"United States Minor Outlying Islands"					0	
+"Korea, Republic of"				278		
+"Cambodia"	1					
+"China"	166					
+"Haiti"	0					
+"Japan"				18		
+"Malaysia"	17					
+"Singapore"		29				
+"Thailand"	1			3		
+"United Arab Emirates"	3					

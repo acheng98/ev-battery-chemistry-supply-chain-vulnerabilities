@@ -1,0 +1,12 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	8030		40	70	641	
+"Finland"				68	627	
+"New Caledonia"					7	
+"Indonesia"			0	1	4	
+"Canada"	3625				2	
+"United States of America"			0		2	
+"Australia"				0	0	
+"India"			0	0	0	
+"Belgium"	4405					
+"Brazil"			40			
+"Kazakhstan"				0		

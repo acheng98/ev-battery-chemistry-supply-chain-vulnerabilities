@@ -1,0 +1,6 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	0	46	0	0		
+"Czech Republic"				0		
+"Germany"			0			
+"Slovenia"	0	46				
+"Switzerland"	0					

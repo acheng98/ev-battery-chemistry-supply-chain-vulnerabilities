@@ -1,0 +1,7 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	15450	11008	6669	24888	24495	
+"Peru"	15450	11007	6629	24888	24475	
+"Mexico"		1	40		20	
+"Germany"	0					
+"Japan"				0		
+"United States of America"			0			

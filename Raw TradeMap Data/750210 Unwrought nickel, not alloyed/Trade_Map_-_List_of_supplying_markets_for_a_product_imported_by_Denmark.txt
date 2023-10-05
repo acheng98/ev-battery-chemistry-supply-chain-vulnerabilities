@@ -1,0 +1,14 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	59	199	534	519	389	
+"Germany"	4	6	40	175	202	
+"Luxembourg"		48	432	312	144	
+"Sweden"	39	39	24	22	37	
+"Italy"		1		1	4	
+"United Kingdom"	12	8	7	9	2	
+"United States of America"					0	
+"Finland"	0	0				
+"France"	3	7	2			
+"Netherlands"	0	90	28			
+"Poland"	0		1			
+"Slovenia"	0	0				
+"Spain"		0				

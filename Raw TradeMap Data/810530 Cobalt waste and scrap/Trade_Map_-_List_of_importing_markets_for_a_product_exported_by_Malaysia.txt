@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	24	52	41	1	296	
+"Korea, Republic of"					274	
+"Philippines"		46	40		12	
+"Japan"	24	6	0	1	10	

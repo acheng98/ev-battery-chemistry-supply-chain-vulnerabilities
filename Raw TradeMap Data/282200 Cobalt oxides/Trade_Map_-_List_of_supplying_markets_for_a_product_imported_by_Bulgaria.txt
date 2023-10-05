@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	4	1	2	65	0	
+"Poland"	3		0	0	0	
+"Turkey"	0	1	1	1	0	
+"Austria"	0	0		0		
+"Belgium"			0			
+"Germany"	0			0		
+"Greece"				22		
+"Italy"				42		
+"Portugal"			0			
+"Russian Federation"			1			

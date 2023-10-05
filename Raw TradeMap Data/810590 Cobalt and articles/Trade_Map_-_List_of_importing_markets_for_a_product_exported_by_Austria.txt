@@ -1,0 +1,67 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	94	178	254	227	250	
+"Germany"	87	176	252	208	221	
+"Belgium"	0		0	4	10	
+"Ireland"				5	6	
+"Italy"	0	0		3	4	
+"Korea, Republic of"	0	0		0	1	
+"France"	0	0	0	1	1	
+"Japan"				0	1	
+"Taipei, Chinese"				1	1	
+"Spain"	0	0	0	1	1	
+"United Kingdom"	5	0		0	1	
+"United States of America"	0		No Quantity	0	1	
+"Ukraine"				0	0	
+"Albania"					0	
+"Argentina"					0	
+"Australia"				0	0	
+"Bosnia and Herzegovina"		0			0	
+"Brazil"				0	0	
+"Bulgaria"	0	0		0	0	
+"Cambodia"					0	
+"Canada"		0		0	0	
+"Chile"					0	
+"Croatia"	0	0	0	0	0	
+"Czech Republic"	0	0	0	0	0	
+"Denmark"			0	0	0	
+"Finland"	0	0	0	0	0	
+"Palestine, State of"					0	
+"Greece"	0	0	0	0	0	
+"Hong Kong, China"				0	0	
+"Hungary"	1	0	0	0	0	
+"Kuwait"					0	
+"Lithuania"				0	0	
+"Macao, China"					0	
+"Montserrat"					0	
+"Morocco"				0	0	
+"Netherlands"	0		0	0	0	
+"New Zealand"				0	0	
+"Poland"	0	0	0	0	0	
+"Portugal"				0	0	
+"Romania"			0	0	0	
+"Russian Federation"	0		0	0	0	
+"Serbia"					0	
+"India"		0		0	0	
+"Slovakia"	0	1	0	0	0	
+"Slovenia"		0	0	0	0	
+"Sweden"		0	0	0	0	
+"Switzerland"	0	0		0	0	
+"United Arab Emirates"				0	0	
+"Tunisia"				0	0	
+"Turkey"	0	0	0		0	
+"Uzbekistan"					0	
+"China"				0		
+"Dominican Republic"				0		
+"Estonia"		0				
+"Iran, Islamic Republic of"			1			
+"Israel"				0		
+"Jordan"				0		
+"Luxembourg"	0					
+"Malaysia"		0				
+"Mexico"				0		
+"Peru"			No Quantity			
+"Singapore"				0		
+"South Africa"		0				
+"Thailand"				0		
+"Macedonia, North"				0		
+"Yemen"				0		

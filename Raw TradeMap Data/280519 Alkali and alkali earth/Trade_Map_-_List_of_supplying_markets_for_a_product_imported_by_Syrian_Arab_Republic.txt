@@ -1,0 +1,4 @@
+﻿Exporters	2006-Imported quantity, Tons	2007-Imported quantity, 	2008-Imported quantity, 	2009-Imported quantity, Tons	2010-Imported quantity, 	
+"World"	48			0		
+"China"	0			0		
+"Saudi Arabia"	48					

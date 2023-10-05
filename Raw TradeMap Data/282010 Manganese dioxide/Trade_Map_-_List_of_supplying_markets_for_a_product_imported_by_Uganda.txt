@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	84	217	925	859	1111	
+"China"		178	902	811	1070	
+"India"	84	39	23	48	39	

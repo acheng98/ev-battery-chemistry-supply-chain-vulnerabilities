@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, 	2021-Imported quantity, Tons	
+"World"	0		0		46	
+"Serbia"					25	
+"Kazakhstan"					22	
+"Finland"	0					
+"Taipei, Chinese"			0			

@@ -1,0 +1,7 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, 	2020-Imported quantity, 	
+"World"		31	25			
+"Area Nes"		2				
+"Canada"		12	19			
+"Italy"		0				
+"Kuwait"		5	6			
+"United States of America"		11				

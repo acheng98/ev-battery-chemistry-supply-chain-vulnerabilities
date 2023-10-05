@@ -1,0 +1,17 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	11950	11028	13646	10243	16377	
+"Korea, Republic of"	4790	2964	4684	2371	6128	
+"Norway"	2636	4040	3751	2851	3537	
+"Georgia"	908	1636	1890	1741	2745	
+"South Africa"	1296	1083	2186	2135	2510	
+"India"	1658	719	735	772	1117	
+"Belgium"	81		23	60	142	
+"Japan"	42	339		148	127	
+"Indonesia"				75	50	
+"China"	6	7	12	11	12	
+"Belarus"				5	5	
+"Estonia"					5	
+"United States of America"	280	140	365		0	
+"Brazil"	83			70		
+"Mexico"	170	100				
+"Netherlands"				3		

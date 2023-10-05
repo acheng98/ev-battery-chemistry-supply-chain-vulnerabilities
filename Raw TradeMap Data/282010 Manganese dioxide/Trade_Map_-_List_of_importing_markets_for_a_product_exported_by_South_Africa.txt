@@ -1,0 +1,28 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	22195	29985	3849	2405	352	
+"Spain"	1683	915	1526	24	209	
+"Japan"			408	129	86	
+"China"				1925	26	
+"Botswana"					24	
+"Zambia"					6	
+"Pakistan"					1	
+"Eswatini"					0	
+"Congo, Democratic Republic of the"		34	0			
+"Australia"		4		218		
+"Belgium"	54					
+"Canada"	83					
+"Colombia"	674	2582				
+"France"	108	10				
+"Indonesia"	12					
+"Lesotho"	4	8				
+"Madagascar"	1					
+"Malawi"		0				
+"Netherlands"	108			89		
+"Nigeria"				0		
+"Portugal"	111					
+"Russian Federation"	52	287	52			
+"India"	6405	11226	1549	20		
+"Singapore"	4					
+"Zimbabwe"	0		6			
+"Turkey"	26	52				
+"United States of America"	12869	14866	308			

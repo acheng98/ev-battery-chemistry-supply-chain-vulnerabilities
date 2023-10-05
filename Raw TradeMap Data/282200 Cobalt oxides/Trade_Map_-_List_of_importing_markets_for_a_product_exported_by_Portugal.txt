@@ -1,0 +1,5 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	2021-Exported quantity, Tons	
+"World"	0	9	0		2	
+"Spain"	0	0			1	
+"Colombia"					0	
+"Angola"		9	0			

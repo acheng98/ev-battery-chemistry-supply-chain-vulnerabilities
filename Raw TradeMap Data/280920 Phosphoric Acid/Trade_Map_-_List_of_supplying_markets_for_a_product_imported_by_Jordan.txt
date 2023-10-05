@@ -1,0 +1,14 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	27792	37574	85673	87315	7802	
+"Free Zones"	27540	37386	85363	86855	7712	
+"China"	223	84	188	168	64	
+"Belgium"		44	47	63	14	
+"United Kingdom"	24	25	67	54	7	
+"Israel"					6	
+"Switzerland"					1	
+"Korea, Republic of"		32	8	15		
+"France"			1			
+"Germany"		4				
+"Saudi Arabia"				19		
+"Syrian Arab Republic"				140		
+"Turkey"	5					

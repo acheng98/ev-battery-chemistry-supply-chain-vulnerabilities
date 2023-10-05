@@ -1,0 +1,6 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, Tons	2020-Imported quantity, 	
+"World"		906		0		
+"Area Nes"		0				
+"Germany"				0		
+"Taipei, Chinese"		0				
+"Netherlands"		906				

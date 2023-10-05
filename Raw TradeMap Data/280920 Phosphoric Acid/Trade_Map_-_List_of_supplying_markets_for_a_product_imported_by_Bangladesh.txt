@@ -1,0 +1,14 @@
+﻿Exporters	2011-Imported quantity, Tons	2012-Imported quantity, Tons	2013-Imported quantity, Tons	2014-Imported quantity, 	2015-Imported quantity, Tons	
+"World"	42077	40790	64121		143408	
+"Jordan"	10499		31197		81377	
+"Morocco"	20303	38987	20745		29682	
+"South Africa"			10969		21022	
+"India"	9661	6	2		9816	
+"China"	688	1740	1198		1499	
+"Germany"		0			12	
+"Thailand"	888		1		1	
+"Malaysia"	40	20				
+"Singapore"		34	9			
+"Spain"		0				
+"Turkey"		3				
+"United Kingdom"	0					

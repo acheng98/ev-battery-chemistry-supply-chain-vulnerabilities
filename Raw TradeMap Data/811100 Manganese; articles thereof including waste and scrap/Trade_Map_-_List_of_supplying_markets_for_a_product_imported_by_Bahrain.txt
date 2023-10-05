@@ -1,0 +1,4 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	763	1006	1094	777	879	
+"China"	763	860	1069	777	832	
+"Germany"		147	24		48	

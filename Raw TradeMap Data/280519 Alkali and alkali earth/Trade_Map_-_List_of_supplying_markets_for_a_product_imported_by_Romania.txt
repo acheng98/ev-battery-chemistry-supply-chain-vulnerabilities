@@ -1,0 +1,13 @@
+﻿Exporters	2017-Imported quantity	2017-Unit	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity	2021-Unit	
+"World"	5	Tons	6	7	95	613	Tons	
+"Greece"					95	453	Tons	
+"Bulgaria"						154	Tons	
+"Spain"				3		6	Tons	
+"Germany"	0	Tons			0	0	Mixed	
+"Italy"	0	Tons	0	0	0	0	Tons	
+"Austria"	0	Mixed		0				
+"Hungary"			0	No Quantity				
+"Poland"	4	Tons	5	4	No Quantity			
+"Switzerland"					1			
+"United Kingdom"	0	Tons	No Quantity		0			
+"United States of America"					0			

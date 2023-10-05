@@ -1,0 +1,15 @@
+﻿Exporters	2011-Imported quantity, Tons	2012-Imported quantity, Tons	2013-Imported quantity, Tons	2014-Imported quantity, 	2015-Imported quantity, Tons	
+"World"	344	652	579		873	
+"India"	69	97	79		298	
+"China"	42	161	95		256	
+"Japan"	80	180	160		200	
+"Taipei, Chinese"		67	67		67	
+"Singapore"		144	45		23	
+"Malaysia"					22	
+"Korea, Republic of"		2			6	
+"Germany"	0	0	0		1	
+"Europe Othr. Nes"	0				0	
+"Spain"			0		0	
+"United Kingdom"	0	0	52		0	
+"Hong Kong, China"			80			
+"Thailand"	153					

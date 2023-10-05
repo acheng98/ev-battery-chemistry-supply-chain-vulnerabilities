@@ -1,0 +1,11 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	1	3	4	6	4	
+"Ukraine"	1	1	3	3	2	
+"Slovenia"					1	
+"Czech Republic"			0	0	0	
+"Lithuania"	0	0	0	0	0	
+"Russian Federation"		1	1	2	0	
+"Bulgaria"			0	0		
+"Italy"		1				
+"Morocco"	0	0	0	0		
+"Romania"			1	1		

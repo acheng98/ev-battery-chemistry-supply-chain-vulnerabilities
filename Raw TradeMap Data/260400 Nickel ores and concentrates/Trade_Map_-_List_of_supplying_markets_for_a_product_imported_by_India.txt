@@ -1,0 +1,11 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	264	0	0	37	106	
+"Saudi Arabia"					84	
+"United States of America"					22	
+"Australia"	264					
+"Austria"		0	0			
+"Indonesia"				20		
+"Côte d'Ivoire"			0			
+"Japan"				14		
+"Netherlands"		0				
+"United Arab Emirates"				3		

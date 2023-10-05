@@ -1,0 +1,6 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	1	5	9	0		
+"China"		3				
+"Ghana"				0		
+"India"				0		
+"United States of America"	1	2	9	0		

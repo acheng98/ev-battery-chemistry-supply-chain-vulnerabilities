@@ -1,0 +1,110 @@
+Source,Target,Value
+China_cath_poss,NCM,28826.657369999997
+Japan_cath_poss,NCM,8264.76362901
+"Korea, Republic of_cath_poss",NCM,13774.606048349999
+China_cath_poss,NCA,53814.907640000005
+Japan_cath_poss,NCA,15429.03450972
+"Korea, Republic of_cath_poss",NCA,25715.057516200002
+China_cath_poss,Non-Battery Cathode Products,452926.82099000004
+Japan_cath_poss,Non-Battery Cathode Products,91997.20286126997
+"Korea, Republic of_cath_poss",Non-Battery Cathode Products,8713.322435450005
+United States of America_cath_poss,Non-Battery Cathode Products,92641.475
+Canada_cath_poss,Non-Battery Cathode Products,17381.147999999997
+China_ref,China_cath_poss,153569.75199999995
+China_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,11669.86
+China_ref,Japan_cath_poss,490.73900000000003
+China_ref,"Korea, Republic of_cath_poss",773.751
+China_ref,United States of America_cath_poss,323.763
+China_ref,Canada_cath_poss,172.135
+Finland_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,22936.928999999996
+Finland_ref,Japan_cath_poss,5212.1089999999995
+Finland_ref,Canada_cath_poss,199.29899999999998
+Finland_ref,China_cath_poss,24004.449999999997
+Finland_ref,"Korea, Republic of_cath_poss",7484.997000000001
+Finland_ref,United States of America_cath_poss,8093.324
+France_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,4875.446999999998
+France_ref,Canada_cath_poss,2.219
+France_ref,China_cath_poss,390.04
+France_ref,United States of America_cath_poss,12.44
+Japan_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,20213.667999999994
+Japan_ref,"Korea, Republic of_cath_poss",2799.797
+Japan_ref,Canada_cath_poss,8.955
+Japan_ref,China_cath_poss,11649.07
+Japan_ref,United States of America_cath_poss,1417.92
+Norway_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,39712.60499999999
+Norway_ref,Japan_cath_poss,3657.62
+Norway_ref,Canada_cath_poss,289.999
+Norway_ref,United States of America_cath_poss,9155.99
+Norway_ref,China_cath_poss,11105.195
+Norway_ref,"Korea, Republic of_cath_poss",3724.435
+"Korea, Republic of_ref","Korea, Republic of_cath_poss",4014.7840000000006
+"Korea, Republic of_ref",Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,2474.188
+"Korea, Republic of_ref",China_cath_poss,56.934000000000005
+"Korea, Republic of_ref",Japan_cath_poss,5444.070000000001
+"Korea, Republic of_ref",United States of America_cath_poss,10.024000000000001
+South Africa_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,17513.628000000004
+South Africa_ref,Canada_cath_poss,37.809999999999995
+South Africa_ref,China_cath_poss,3760.7030000000004
+South Africa_ref,Japan_cath_poss,1784.05
+South Africa_ref,"Korea, Republic of_cath_poss",91.92
+South Africa_ref,United States of America_cath_poss,2194.055
+United Kingdom_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,26000.121000000003
+United Kingdom_ref,"Korea, Republic of_cath_poss",252.43
+United Kingdom_ref,Canada_cath_poss,1229.775
+United Kingdom_ref,United States of America_cath_poss,1808.5549999999998
+United Kingdom_ref,China_cath_poss,6494.490000000001
+United Kingdom_ref,Japan_cath_poss,2274.645
+Trade from countries with no refining,Japan_cath_poss,96827.76799999998
+Trade from countries with no refining,United States of America_cath_poss,69625.40400000001
+Trade from countries with no refining,Canada_cath_poss,15440.955999999998
+Trade from countries with no refining,"Korea, Republic of_cath_poss",29060.872000000003
+Trade from countries with no refining,China_cath_poss,324537.752
+China_ref_poss,China_ref,167000.0
+Finland_ref_poss,Finland_ref,8000.0
+France_ref_poss,France_ref,1000.0
+Japan_ref_poss,Japan_ref,17000.0
+Norway_ref_poss,Norway_ref,8000.0
+"Korea, Republic of_ref_poss","Korea, Republic of_ref",12000.0
+South Africa_ref_poss,South Africa_ref,6000.0
+United Kingdom_ref_poss,United Kingdom_ref,8000.0
+China_ref_poss,Raw Materials not accounted for in refining production,539823.115
+Japan_ref_poss,Raw Materials not accounted for in refining production,20803.525
+"Korea, Republic of_ref_poss",Raw Materials not accounted for in refining production,31982.144999999997
+Unaccounted for Additional Refining Production,Finland_ref,59931.108000000015
+Unaccounted for Additional Refining Production,France_ref,4280.146
+Unaccounted for Additional Refining Production,Japan_ref,19089.410000000003
+Unaccounted for Additional Refining Production,Norway_ref,59645.844
+Unaccounted for Additional Refining Production,South Africa_ref,19382.165999999994
+Unaccounted for Additional Refining Production,United Kingdom_ref,30060.016
+United States of America_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,16700.0
+Australia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,165448.315
+Australia_mine,China_ref_poss,3551.685
+Brazil_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,76376.93999999999
+Brazil_mine,China_ref_poss,722.475
+Brazil_mine,South Africa_ref_poss,0.585
+Canada_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,165535.61
+Canada_mine,Finland_ref_poss,1464.3899999999999
+China_mine,China_ref_poss,119997.59999999999
+China_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,2.0700000000000003
+China_mine,"Korea, Republic of_ref_poss",0.32999999999999996
+Indonesia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,719986.605
+Indonesia_mine,China_ref_poss,51013.395
+New Caledonia_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,87735.89000000001
+New Caledonia_mine,China_ref_poss,40201.17
+New Caledonia_mine,Japan_ref_poss,28081.125
+New Caledonia_mine,"Korea, Republic of_ref_poss",43981.814999999995
+Philippines_mine,China_ref_poss,479761.21499999997
+Philippines_mine,Japan_ref_poss,9722.4
+Russian Federation_mine,Trade to countries with no refining or <br /> raw materials not accounted for in trade,281093.02
+Russian Federation_mine,China_ref_poss,1906.98
+Trade from countries with no mining,China_ref_poss,9668.595
+Trade from countries with no mining,South Africa_ref_poss,6.06
+Trade from countries with no mining,Finland_ref_poss,573.2099999999999
+Unknown Raw Material Source_mine,Finland_ref_poss,5962.400000000001
+Unknown Raw Material Source_mine,United Kingdom_ref_poss,8000.0
+Unknown Raw Material Source_mine,South Africa_ref_poss,5993.355
+Unknown Raw Material Source_mine,France_ref_poss,1000.0
+Unknown Raw Material Source_mine,Norway_ref_poss,8000.0
+Unknown Raw Material Source_mine,China_ref_poss,-0.0
+Unknown Raw Material Source_mine,Japan_ref_poss,-0.0
+Unknown Raw Material Source_mine,"Korea, Republic of_ref_poss",-0.0

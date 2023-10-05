@@ -1,0 +1,9 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	10		0	7	0	
+"China"	2				0	
+"Japan"					0	
+"United States of America"			0		0	
+"Australia"	0					
+"Denmark"	0					
+"Spain"	8					
+"United Arab Emirates"				7		

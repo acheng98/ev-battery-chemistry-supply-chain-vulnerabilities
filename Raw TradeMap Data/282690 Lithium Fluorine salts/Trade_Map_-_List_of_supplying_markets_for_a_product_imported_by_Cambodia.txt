@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	15			132	5	
+"Singapore"					3	
+"Germany"	10				2	
+"China"	1			132		
+"Taipei, Chinese"	4					

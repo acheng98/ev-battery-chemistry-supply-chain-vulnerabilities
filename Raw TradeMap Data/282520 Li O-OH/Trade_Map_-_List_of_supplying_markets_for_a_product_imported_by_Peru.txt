@@ -1,0 +1,6 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	24	22	48	40	60	
+"Chile"	14	14	23	40	60	
+"India"					0	
+"China"			25			
+"United States of America"	10	8				

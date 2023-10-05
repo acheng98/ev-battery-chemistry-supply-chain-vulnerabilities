@@ -1,0 +1,12 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	443	2403	2071	3149	2801	
+"China"	257	2154	1990	3095	2706	
+"South Africa"		16	27		35	
+"Japan"	14	87	2	0	26	
+"Taipei, Chinese"	21	34	22	22	16	
+"Sweden"			3	13	9	
+"Korea, Republic of"	70	107	24	19	8	
+"Germany"	1	5				
+"Hong Kong, China"			1			
+"India"	79		2			
+"United States of America"	1					

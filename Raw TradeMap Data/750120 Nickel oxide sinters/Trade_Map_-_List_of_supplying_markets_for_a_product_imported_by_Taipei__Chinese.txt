@@ -1,0 +1,9 @@
+﻿Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	5450	369	238	220	0	
+"United States of America"	0	0	0		0	
+"Area Nes"			70			
+"China"			0			
+"Indonesia"	4680					
+"Japan"	2	0	0	0		
+"Netherlands"	58					
+"New Caledonia"	710	368	168	220		

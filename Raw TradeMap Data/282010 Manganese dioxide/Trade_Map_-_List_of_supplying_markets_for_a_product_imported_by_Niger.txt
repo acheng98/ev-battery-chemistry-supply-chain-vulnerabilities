@@ -1,0 +1,5 @@
+﻿Exporters	2016-Imported quantity, 	2017-Imported quantity, Tons	2018-Imported quantity, 	2019-Imported quantity, 	2020-Imported quantity, Tons	
+"World"		0			401	
+"Morocco"					304	
+"Turkey"					97	
+"United States of America"		0				

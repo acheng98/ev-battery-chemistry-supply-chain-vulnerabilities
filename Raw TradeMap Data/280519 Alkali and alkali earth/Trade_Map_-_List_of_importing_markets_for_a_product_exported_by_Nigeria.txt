@@ -1,0 +1,7 @@
+Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	0	0	523	1241	230	
+"Malaysia"	0	0	0	0	72	
+"China"	0	0	523	0	54	
+"Viet Nam"	0	0	0	0	54	
+"United States of America"	0	0	0	0	48	
+"Germany"	0	0	0	1241	0	

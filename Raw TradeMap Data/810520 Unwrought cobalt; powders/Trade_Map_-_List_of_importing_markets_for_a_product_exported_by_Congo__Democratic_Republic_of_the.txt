@@ -1,0 +1,3 @@
+﻿Importers	2016-Exported quantity, 	2017-Exported quantity, 	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, 	
+"World"			10	230		
+"South Africa"			10	230		

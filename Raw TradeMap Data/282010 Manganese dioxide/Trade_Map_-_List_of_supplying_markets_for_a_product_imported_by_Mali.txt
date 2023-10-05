@@ -1,0 +1,5 @@
+﻿Exporters	2015-Imported quantity, 	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	
+"World"		322	103	198	153	
+"China"		322	98	197	153	
+"France"			2			
+"Spain"			3	1		

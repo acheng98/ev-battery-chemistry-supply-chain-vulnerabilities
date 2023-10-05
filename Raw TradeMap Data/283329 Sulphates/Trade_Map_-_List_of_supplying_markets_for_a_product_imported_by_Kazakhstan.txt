@@ -1,0 +1,20 @@
+﻿Exporters	2016-Imported quantity, Tons	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	
+"World"	13257	13878	14917	11314	16240	
+"China"	66	86	5742	3536	7145	
+"Russian Federation"	5796	6819	6509	4301	4393	
+"Kyrgyzstan"			652	1873	2903	
+"Finland"	7062	6841	1895	1470	1608	
+"Belarus"	50		0	22	64	
+"United Kingdom"	21	22	42	57	62	
+"Germany"	32	50	33	22	22	
+"Poland"	6	42		12	19	
+"Turkey"	2	1	14		12	
+"India"	2	7	9	15	11	
+"Italy"		2	2	3	2	
+"United States of America"	0	0		0	0	
+"European Union Nes"	14					
+"Ukraine"	202					
+"Belgium"			13	0		
+"Mexico"				0		
+"Netherlands"		6				
+"Spain"	4	1	8	3		

@@ -1,0 +1,4 @@
+﻿Importers	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, 	
+"World"	42	31				
+"China"		31				
+"Hong Kong, China"	42					

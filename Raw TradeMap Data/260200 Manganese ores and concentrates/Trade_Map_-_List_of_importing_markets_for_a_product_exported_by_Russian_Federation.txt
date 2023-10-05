@@ -1,0 +1,10 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, Tons	2019-Exported quantity, Tons	2020-Exported quantity, Tons	2021-Exported quantity, Tons	
+"World"	27699	45812	16650	4488	2292	
+"Ukraine"	27473	45740	16534	4460	2052	
+"Kazakhstan"	58	69	114	26	239	
+"Belarus"		2		1	1	
+"Armenia"	168					
+"Georgia"			1			
+"Latvia"			0			
+"Moldova, Republic of"				0		
+"Romania"			1			

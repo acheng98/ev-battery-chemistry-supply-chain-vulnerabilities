@@ -1,0 +1,4 @@
+﻿Importers	2017-Exported quantity, Tons	2018-Exported quantity, 	2019-Exported quantity, 	2020-Exported quantity, Tons	2021-Exported quantity, 	
+"World"	23			1		
+"Austria"	23					
+"Serbia"				1		

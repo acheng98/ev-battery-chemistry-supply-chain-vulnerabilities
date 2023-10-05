@@ -1,0 +1,11 @@
+﻿Exporters	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	2022-Imported quantity, Tons	
+"World"	199344	183349	226572	352281	100878	
+"Egypt"	2293	2928		8000	48834	
+"Syrian Arab Republic"	43310	22949	147010	311246	48715	
+"Jordan"					1992	
+"Turkey"					1198	
+"Russian Federation"		1634	7785	5900	138	
+"Algeria"	153740	155838	70237	27135		
+"Canada"			0			
+"Denmark"			1	0		
+"Kazakhstan"			1538			

@@ -1,0 +1,4 @@
+Exporters	2017-Imported quantity, Tons	2018-Imported quantity, Tons	2019-Imported quantity, Tons	2020-Imported quantity, Tons	2021-Imported quantity, Tons	
+"World"	0	0	123	0	130	
+"China"	0	0	0	0	130	
+"Nigeria"	0	0	123	0	0	

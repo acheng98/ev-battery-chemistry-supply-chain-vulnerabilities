@@ -1,0 +1,6 @@
+﻿Importers	2014-Exported quantity, Tons	2015-Exported quantity, Tons	2016-Exported quantity, Tons	2017-Exported quantity, Tons	2018-Exported quantity, Tons	
+"World"	8416	13433	16585	25023	48950	
+"China"	5750	8730	12585	25023	48450	
+"Saudi Arabia"					500	
+"Bahrain"	2300	4703				
+"India"	366		4000			
