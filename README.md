@@ -3,7 +3,7 @@ This README describes the code used in the paper "Electric vehicle battery chemi
 There are two major scripts used for analysis, both written in Python, by Anthony L. Cheng. Any errors made in the code are his alone. 
 
 'SankeyData.py' takes trade and production data from IntraCen and USGS, Sun et al. 2021, and IFAStat respectively, and generates a material flow analysis in the form of a Sankey diagram and associated material flows comma separated values file. This material flow data was then analyzed in VulnerabilityCalc.py to measure the vulnerability index described in the paper. Both files output numerical results as well as visuals that are presented in the article. Detailed descriptions of each script and associated methods are included in each file. We acknowledge the use of ChatGPT to generate some code snippets, debug errors, and generate some code documentation.
-The data underlying these analyses is fully included in this GitHub repository, either as trade data files in the "Raw Trade Map Data" folder, processed material flows in the "Processed Data" folder, or as direct numerical inputs (production data) in the SankeyData.py file. 
+Source data are provided with this paper; the data underlying these analyses is fully included in this GitHub repository, either as trade data files in the "Raw Trade Map Data" folder, processed material flows in the "Processed Data" folder, or as direct numerical inputs (production data) in the SankeyData.py file. 
 
 There is an additional small script ("deturkey.py") that takes any reference to the spelling of the country of Turkey as "Türkiye" in the downloaded trade datasets and converts it to the former, for consistency of analysis. 
 
