@@ -33,8 +33,8 @@ P_PROD_2020 = {"United States of America": 23500000, "Algeria": 1200000, "Austra
 	"Morocco": 37400000, "Peru": 3300000, "Russian Federation": 14000000, "Saudi Arabia": 8000000, "Senegal": 1600000, 
 	"South Africa": 1800000, "Togo": 942000, "Tunisia": 3190000, "Turkey": 600000, "Uzbekistan": 900000, "Viet Nam": 4500000, 
 	"Other": 870000} # Source: MCS 2022 - metric tons phosphorus rock
-for key in P_PROD_2020: # Convert to contained phosphorus
-	P_PROD_2020[key] *= 0.2
+for key in P_PROD_2020: # Convert to contained phosphorus - 
+	P_PROD_2020[key] *= 30/223
 MINE_PROD = [LI_PROD_2020,CO_PROD_2020,NI_PROD_2020,MN_PROD_2020,P_PROD_2020]
 
 # REFINING - Sun et al. 2021 except Phosphorus, which is estimated with trade data only
@@ -62,7 +62,7 @@ REF_PROD = [LI_REF_PROD,CO_REF_PROD,NI_REF_PROD,MN_REF_PROD,PA_REF_PROD]
 CATH_CTS = ["China","Japan","Korea, Republic of","Canada","United States of America"] 
 FINAL_PRODS = ["NCM","NCA","LFP","LMO","LCO"]
 NCX_AMT = [197000,56481,94135,0,0]							# Sun et al. NCA/NCM production 
-NCM_Li = 0.07173*0.441										# Calculated from chemical formula - 'Supply Chain Interdependency Views' + market share of NCM from Xu et al. 2019
+NCM_Li = 0.07173*0.441										# Calculated from chemical formula - 'Chemical Formula Calculations' + market share of NCM from Xu et al. 2019
 NCM_Ni = 0.33181*0.441										# Calculated from chemical formula + market share of NCM vs NCA from Xu et al. 2019
 NCM_Co = 0.12703*0.441										# Calculated from chemical formula + market share of NCM vs NCA from Xu et al. 2019
 NCM_Mn = 0.13874*0.441										# Calculated from chemical formula + market share of NCM vs NCA from Xu et al. 2019
@@ -90,14 +90,14 @@ NCA_Co_amt = [l*NCA_Co for l in NCX_AMT]
 LMO_Li_amt = [l*LMO_Li for l in LMO_AMT]
 LMO_Mn_amt = [l*LMO_Mn for l in LMO_AMT]
 LCO_Li_amt = [l*LCO_Li for l in LCO_AMT]
-LCO_Mn_amt = [l*LCO_Co for l in LCO_AMT]
+LCO_Co_amt = [l*LCO_Co for l in LCO_AMT]
 LFP_Li_amt = [l*LFP_Li for l in LFP_AMT]
 LFP_P_amt  = [l*LFP_P  for l in LFP_AMT]
 zeros = [0 for l in range(len(CATH_CTS))]
 
 Li_amts = [NCM_Li_amt,NCA_Li_amt,LFP_Li_amt,LMO_Li_amt,LCO_Li_amt]
 Ni_amts = [NCM_Ni_amt,NCA_Ni_amt,zeros.copy(),zeros.copy(),zeros.copy()]
-Co_amts = [NCM_Co_amt,NCA_Co_amt,zeros.copy(),zeros.copy(),LCO_Li_amt]
+Co_amts = [NCM_Co_amt,NCA_Co_amt,zeros.copy(),zeros.copy(),LCO_Co_amt]
 Mn_amts = [NCM_Mn_amt,zeros.copy(),zeros.copy(),LMO_Li_amt,zeros.copy()]
 P_amts = [zeros.copy(),zeros.copy(),LFP_P_amt,zeros.copy(),zeros.copy()]
 CATH_PROD = [Li_amts,Co_amts,Ni_amts,Mn_amts,P_amts]
@@ -165,10 +165,11 @@ MN_CONV = [ 0.300, # 260200 - ore
 			0.004, # Manganese; articles thereof including waste and scrap, 811100
 			]
 
-# Li et al. 2023 and Spears et al. 2022
-P_CONV = [ 0.2,    # Ore - take average of Li et al. and Spears et al. 
+# Li et al. 2023 and Chen and Chen 2023
+P_CONV = [ 0.119,  # Ore - take average of Li et al. (0.098) and Chen and Chen (0.140)
 			1, 	   # Assume phosphorus is pure
-			0.316, # Phosphorus in Phosphoric Acid - calculated from chemical formula
+			0.436, # Calculated from chemical formula
+			0.273, # Average of Phosphorus in Phosphoric Acid (0.316, calculated from chemical formula), Li et al. (0.268), and Chen and Chen (0.236)
 			]
 
 MINE_CODE_CONVS = [[LI_CONV[0]],CO_CONV[:2],[NI_CONV[0]],[MN_CONV[0]],[P_CONV[0]]]
@@ -277,9 +278,9 @@ def hex2rgba(value):
 	'''
 	Takes a string HEX code and returns the equivalent RGBA value. Used to convert hex color codes to matplotlib-friendly rgba values.
 	'''
-    value = value.lstrip('#')
-    lv = len(value)
-    return list(int(value[i:i + lv // 3], 16) for i in range(0, lv, lv // 3))
+	value = value.lstrip('#')
+	lv = len(value)
+	return list(int(value[i:i + lv // 3], 16) for i in range(0, lv, lv // 3))
 
 def commonname(country_list):
 	'''
@@ -751,7 +752,7 @@ if __name__ == '__main__':
 	COMBINE_CATH = True
 	MAKE_COLOR = True
 	LABEL = "Shorten" # None = no labels, 'Shorten': shorten to first underline, 'Other' = raw labels
-	SAVE = False
+	SAVE = True
 	YEAR = 2020
 	COLORS = {"China": "#E81313", "Australia": "#DB05AA", "Russian Federation": "#B7B7B7", 
 				"Indonesia": "#53C55E", "Congo, Democratic Republic of the": "#028573", 
@@ -771,8 +772,9 @@ if __name__ == '__main__':
 				"LFP": "#000086", "NCM": "#000086", "NCA": "#000086", "LMO": "#000086", "LCO": "#000086"}
 
 	# mat = "Lithium" # Lithium, Nickel, Cobalt, Manganese
-	mat = "Manganese"
-	# mat = "Phosphorus"
+	# mat = "Cobalt"
+	# mat = "Manganese"
+	mat = "Phosphorus"
 	sankey(PLOT,YEAR,mat,REGIONS,COMBINE_CATH,MAKE_COLOR,LABEL,SAVE)
 	# for mat in ["Nickel","Cobalt","Manganese"]:
 	# for mat in ["Lithium","Nickel","Cobalt","Manganese"]:
