@@ -1,0 +1,61 @@
+Source,Target,Value
+China_cath_poss,LFP,15704.0
+Canada_cath_poss,LFP,981.5
+United States of America_cath_poss,LFP,785.2
+West Europe_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,279344.0
+Central Europe_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,178224.0
+East Europe & Central Asia_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,2753940.0
+North America_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,3681084.0
+Latin America_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,1062708.0
+Africa_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,5023768.0
+West Asia_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,2675572.0
+South Asia_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,931568.0
+East Asia_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,10515848.0
+Oceania_ref,Trade to countries with no cathode production or <br /> refined materials not accounted for in trade,234788.0
+West Europe_ref_poss,West Europe_ref,279344.0
+Central Europe_ref_poss,Central Europe_ref,178224.0
+East Europe & Central Asia_ref_poss,East Europe & Central Asia_ref,2753940.0
+North America_ref_poss,North America_ref,3681084.0
+Latin America_ref_poss,Latin America_ref,1062708.0
+Africa_ref_poss,Africa_ref,5023768.0
+West Asia_ref_poss,West Asia_ref,2675572.0
+South Asia_ref_poss,South Asia_ref,931568.0
+East Asia_ref_poss,East Asia_ref,10515848.0
+Oceania_ref_poss,Oceania_ref,234788.0
+Oceania_ref_poss,Raw Materials not accounted for in refining production,34270.295964125544
+Latin America_ref_poss,Raw Materials not accounted for in refining production,266036.3946188339
+East Asia_ref_poss,Raw Materials not accounted for in refining production,1928098.1883408055
+Africa_ref_poss,Raw Materials not accounted for in refining production,1666635.5874439469
+West Asia_ref_poss,Raw Materials not accounted for in refining production,99764.3228699551
+United States of America_mine,North America_ref_poss,3161434.977578475
+Australia_mine,Oceania_ref_poss,269058.29596412554
+Brazil_mine,Latin America_ref_poss,807174.8878923766
+China_mine,East Asia_ref_poss,11838565.022421524
+Egypt_mine,Africa_ref_poss,645739.9103139014
+Finland_mine,West Europe_ref_poss,133856.50224215246
+India_mine,South Asia_ref_poss,188340.8071748879
+Israel_mine,West Asia_ref_poss,415695.067264574
+Jordan_mine,West Asia_ref_poss,1202690.5829596412
+Kazakhstan_mine,East Europe & Central Asia_ref_poss,174887.89237668162
+Mexico_mine,Latin America_ref_poss,77623.31838565023
+Morocco_mine,Africa_ref_poss,5031390.134529148
+Peru_mine,Latin America_ref_poss,443946.18834080716
+Russian Federation_mine,East Europe & Central Asia_ref_poss,1883408.0717488788
+Saudi Arabia_mine,West Asia_ref_poss,1076233.1838565022
+Senegal_mine,Africa_ref_poss,215246.63677130046
+South Africa_mine,Africa_ref_poss,242152.466367713
+Togo_mine,Africa_ref_poss,126726.45739910314
+Tunisia_mine,Africa_ref_poss,429147.98206278024
+Turkey_mine,West Asia_ref_poss,80717.48878923767
+Uzbekistan_mine,East Europe & Central Asia_ref_poss,121076.2331838565
+Viet Nam_mine,East Asia_ref_poss,605381.1659192825
+Unknown Raw Material Source_mine,North America_ref_poss,519649.02242152486
+Unknown Raw Material Source_mine,West Europe_ref_poss,145487.49775784754
+Unknown Raw Material Source_mine,South Asia_ref_poss,743227.1928251121
+Unknown Raw Material Source_mine,East Europe & Central Asia_ref_poss,574567.8026905833
+Unknown Raw Material Source_mine,Central Europe_ref_poss,178224.0
+Unknown Raw Material Source_mine,Latin America_ref_poss,-0.0
+Unknown Raw Material Source_mine,Africa_ref_poss,-0.0
+Unknown Raw Material Source_mine,West Asia_ref_poss,-0.0
+Unknown Raw Material Source_mine,East Asia_ref_poss,-0.0
+Unknown Raw Material Source_mine,Oceania_ref_poss,-0.0

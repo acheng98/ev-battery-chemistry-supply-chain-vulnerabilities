@@ -67,8 +67,8 @@ NCM_Ni = 0.33181*0.441										# Calculated from chemical formula + market shar
 NCM_Co = 0.12703*0.441										# Calculated from chemical formula + market share of NCM vs NCA from Xu et al. 2019
 NCM_Mn = 0.13874*0.441										# Calculated from chemical formula + market share of NCM vs NCA from Xu et al. 2019
 NCA_Li = 0.07224*0.559										# Calculated from chemical formula + market share of NCA vs NCM from Xu et al. 2019
-NCA_Ni = 0.48868*0.559										# Calculated from chemical formula + market share of NCA vs NCM from Xu et al. 2019
-NCA_Co = 0.092*0.559										# Calculated from chemical formula + market share of NCA vs NCM from Xu et al. 2019
+NCA_Ni = 0.48869*0.559										# Calculated from chemical formula + market share of NCA vs NCM from Xu et al. 2019
+NCA_Co = 0.03067*0.559										# Calculated from chemical formula + market share of NCA vs NCM from Xu et al. 2019
 LMO_AMT = [76400,10629,0,0,0]								# Sun et al. LMO production
 LMO_Li = 0.0384 											# Calculated from chemical formula
 LMO_Mn = 0.60766 											# Calculated from chemical formula
@@ -751,7 +751,7 @@ if __name__ == '__main__':
 	PLOT = True
 	COMBINE_CATH = True
 	MAKE_COLOR = True
-	LABEL = "Shorten" # None = no labels, 'Shorten': shorten to first underline, 'Other' = raw labels
+	LABEL = None # None = no labels, 'Shorten': shorten to first underline, 'Other' = raw labels
 	SAVE = True
 	YEAR = 2020
 	COLORS = {"China": "#E81313", "Australia": "#DB05AA", "Russian Federation": "#B7B7B7", 
